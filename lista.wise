@@ -364,6 +364,16 @@
      "url": "acestream://688a2bdd5563606bd772629f13b9a1c7e78b07f2"
                  },
 {
+        "name": "CANAL+ OP2",
+     "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
+     "url": "http://93.156.219.129:8001/1:0:19:74CC:3F8:1:C00000:0:0:0:"
+                 },
+{
+     "name": "CANAL + DEPORTES",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
+     "url": "acestream://6eeff0b1da59c0f78b659d0c00d855327ec13ab4"
+                },
+{
         "name": "CANAL+ LIGA",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
      "url": "acestream://5d2341391e460050b87694dde553f141c0a5d9ce"
@@ -401,12 +411,7 @@
 {
      "name": "GOL TV",
      "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "acestream://f43b85aa5ac9c0eaef6030be83c9eba363fade9b"
-                },
-{
-     "name": "GOL TV 2",
-     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "acestream://7dc0b5f24e475c78d854a7b23174165ce0b8e79f"
+     "url": "acestream://6a22afb0c39ce04025113f299f9c38234b499845"
                 },
 {
         "name": "HTB+ 1HD",
@@ -441,7 +446,7 @@
 {
         "name": "MOTORS TV",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Motors%20Tv.png",
-     "url": "acestream://4670b5bc5f1f84b76aa15d5c266149025225cd88"
+     "url": "acestream://f7de29292d3fbcd9cd67ebae30e4d3a3612a6dda"
                  },
 {
         "name": "MOVISTAR F1",
