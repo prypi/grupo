@@ -65,9 +65,7 @@
 {
      "name": "CANAL + DEPORTES",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=154&autoplay=true",
-     "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
-     "isHost": "true"
+     "url": "rtmp://66.55.92.71:1935/app/premiertv2s-channel"
                 },
 {
      "name": "CANAL + LIGA DE CAMPEONES",
