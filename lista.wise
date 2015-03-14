@@ -344,17 +344,17 @@
 {
      "name": "BEIN 1 SD",
      "image": "http://advar.ps/wp-content/uploads/2014/04/beIN-SPORT-1.jpg",
-     "url": "acestream://4cfa76f8d1a0ae2cc4d9130d253d91a2fd0000d6"
+     "url": "acestream://afe2db2bfc7c76a05bd2f41827cd23e535a2ec91"
                  },
 {
      "name": "BEIN 2",
      "image": "http://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",
-     "url": "acestream://c9f631d7b255d4b882fec782717314b1495b50d4"      
+     "url": "acestream://093df93ebb6c8dbff1fc6b37c80e4133990030ca"      
                  },
 {
         "name": "BT SPORT 1",
      "image": "http://googlechromecast.com/wp-content/uploads/2014/04/bt-sport.jpg",
-     "url": "acestream://94cf00ad0fbae701127270ac08a8cd1a23883448"
+     "url": "acestream://30c6626b6d2f284a7014073208d15b74fbb2dafb"
                  },
 {
         "name": "BT SPORT 2",
@@ -369,7 +369,7 @@
 {
         "name": "CANAL+",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
-     "url": "acestream://688a2bdd5563606bd772629f13b9a1c7e78b07f2"
+     "url": "acestream://24bd330264818af27091d43d5e8c3f5d4049e949"
                  },
 {
         "name": "CANAL+ OP2",
@@ -384,12 +384,17 @@
 {
         "name": "CANAL+ LIGA",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
-     "url": "acestream://5d2341391e460050b87694dde553f141c0a5d9ce"
+     "url": "acestream://8f4ddfc8ff8b182e24ade3b26b4a56a263dd99d4"
+                 },
+{
+        "name": "CANAL+ LIGA OP2",
+     "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
+     "url": "acestream://7889394a083203f4ddddf571ab7b52d34e8e9b3a"
                  },
 {
         "name": "CANAL+ LIGA CAMPEONES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
-     "url": "acestream://8572dc2e68fe371d61244cba3b8a4ec4d3b49ead"
+     "url": "acestream://7d8cd8a8f5feac300db5917db833790c34af99e0"
                  },
 {
         "name": "CANAL+ FUTBOL",
@@ -399,22 +404,22 @@
 {
         "name": "EUROSPORT",
      "image": "http://img3.wikia.nocookie.net/__cb20120329095623/logopedia/images/a/a2/ESP_GGS_RVB.png",
-     "url": "acestream://41a7039ac9f33f185d12e916626b1005e8e6f2c3"
+     "url": "acestream://dd58c59c28999493286f8f1ad729faea0923c070"
                  },
 {
         "name": "EUROSPORT 2",
      "image": "http://img2.wikia.nocookie.net/__cb20120329095341/logopedia/images/3/3d/ESP_2_GGS_RVB.png",
-     "url": "acestream://a5d60fcc92af846afb8b48cd559c299557450f3d"
+     "url": "acestream://f937e75dc06c4bbc3a25a850a3921c4ead382a77"
                  },
 {
         "name": "EXTREME SPORTS",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Extreme%20Sport%20Channel.png",
-     "url": "acestream://10b329329d39842a9258823d102752552c66d55a"
+     "url": "acestream://9ad14039dbf3907cb3e849d8da92188114f5e59c"
                  },
 {                      
      "name": "FIGHTBOX",
      "image": "https://www.rokuchannels.tv/wp-content/uploads/2013/10/fightbox_live_roku1.png",
-     "url": "acestream://2e6d8c01f32f69bd677bcb292aaf795e823b763d"     
+     "url": "acestream://f60e68e22eee1ce68c953a0c3ad56efc1e555b35"     
                  },
 {
      "name": "GOL TV",
@@ -424,42 +429,47 @@
 {
         "name": "HTB+ 1HD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
-     "url": "acestream://8b533cdb898777e49176dcdc24b423353e49db04"
+     "url": "acestream://c62b37619e9db33fdfedb5fb5490e2ed2137d968"
                  },
 				 {
         "name": "HTB+ 1SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
-     "url": "acestream://0c7c07be30553487735d205ae45e98c627205a0d"
+     "url": "acestream://766be11c27c0b65cc1ffd6376e62909fe93a0d05"
                  },
 {
         "name": "HTB+ 2HD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B2.jpg",
-     "url": "acestream://26966fda2a74a5a29a969fd5de22a4681d3b273f"
+     "url": "acestream://df46cbb1d27b9f83de269db095f3e22a40e39d16"
                  },
 {
         "name": "HTB+ 2SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B2.jpg",
-     "url": "acestream://ece9ff6e3cdfb56b1e2128c5d02dbee55f2af2d2"
+     "url": "acestream://de5955a37140bfde5d4798615c3aaa600fb8c5d9"
                  },
 {
         "name": "HTB+ 3HD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B3.jpg",
-     "url": "acestream://027e326dfb121a5485f73e418a903c39446c1dbf"
+     "url": "acestream://5c8b0fabb88f0e76744f3544deddd1f389738d91"
                  },
 {
         "name": "HTB+ 3SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B3.jpg",
-     "url": "acestream://17f01573673080b77568770d12efdf359b22a9da"
+     "url": "acestream://d8710e88a184543c0b6a4bb3aa50a08a3c584994"
                  },
 {
         "name": "MOTORS TV",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Motors%20Tv.png",
-     "url": "acestream://f7de29292d3fbcd9cd67ebae30e4d3a3612a6dda"
+     "url": "acestream://c5823f73a1fc358cccbaf57d889d1748daad322e"
                  },
 {
         "name": "MOVISTAR F1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/movistar%20F1.jpg",
-     "url": "acestream://ee873f2da1a5819941d4088febd6abf8141bfa01"
+     "url": "acestream://55ad9575a54e58c68b7c00773a9d89c7e1edb465"
+                 },
+{
+        "name": "MOVISTAR F1 HD",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/movistar%20F1.jpg",
+     "url": "acestream://0e23b1d4cb48a175f94b0fafe57b2a1bc3c3fe94"
                  },
 {
         "name": "NBA",
@@ -489,7 +499,7 @@
 {
         "name": "SKY SPORTS F1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky%20Sports%20F1.png",
-     "url": "acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b"
+     "url": "acestream://2dff503259045e4d119e6e972a3db8521c47198a"
                  },
 {
         "name": "SPORTMANIA",
