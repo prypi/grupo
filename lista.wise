@@ -43,7 +43,7 @@
 {
      "name": "CANAL + LIGA",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/theisra_live@125112/master.m3u8"
+     "url": "http://is.gd/48p6lZ"
                },
 {
      "name": "CANAL + LIGA 2",
@@ -178,7 +178,7 @@
 {
      "name": "BOX NATION",
      "image": "http://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",
-     "url": "http://167.114.41.220:8080/boxnation/boxnationnn/index.m3u8"                      
+     "url": "rtmp://167.114.117.208/live/skynationv"                      
                  },
 {
      "name": "BEIN 1",
@@ -193,12 +193,12 @@
 {
      "name": "BT SPORT 1",
      "image": "http://googlechromecast.com/wp-content/uploads/2014/04/bt-sport.jpg",
-     "url": "http://198.27.94.105/hls/bt1__1.m3u8"
+     "url": "rtmp://167.114.117.208/live/bt1v"
                 },
 {
      "name": "BT SPORT 2",
      "image": "http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg",
-     "url": "http://198.27.94.105/hls/bt2__1.m3u8"
+     "url": "rtmp://167.114.117.208/live/bt2v"
                  },
 {
      "name": "IDEMAN",
@@ -218,27 +218,27 @@
 {                                      
      "name": "SKY SPORTS 1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%201.png",
-     "url": "http://198.27.94.105/hls/skysports1__1.m3u8"                                                                                        
+     "url": "rtmp://167.114.117.208/live/sky1v"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 2",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%202.png",
-     "url": "http://198.27.94.105/hls/skysports2__1.m3u8"                                                                                        
+     "url": "rtmp://167.114.117.208/live/sky2v"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 3",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%203.png",
-     "url": "http://198.27.94.105/hls/skysports3__1.m3u8"                                                                                        
+     "url": "rtmp://167.114.117.208/live/sky3v"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 4",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%204.png",
-     "url": "http://198.27.94.105/hls/skysports4__1.m3u8"                                                                                        
+     "url": "rtmp://167.114.117.208/live/sky4v"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 5",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg",
-     "url": "http://198.27.94.105/hls/skysports5__1.m3u8"                                                                                        
+     "url": "rtmp://167.114.117.208/live/sky5v"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS F1",
