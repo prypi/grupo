@@ -26,7 +26,9 @@
 {
      "name": "CANAL + OP2",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
-     "url": "rtmp://80.82.70.106:443/liverepeater playpath=3 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/huraivza token=#atd%#$ZH"
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184&autoplay=true",
+     "referer": "http://cinestrenostv.tv/ver-canales-nacionales-de-españa-online-en-directo/canales/nacionales/plus1.php",
+     "isHost": "true"
                 },
 {
      "name": "GOL TV",
@@ -38,7 +40,7 @@
 {
      "name": "GOL TV (OPCION 2)",
      "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "rtmp://178.162.199.154/iguide playpath=kox4xy9poh2wkoo swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
+     "url": "rtmp://95.211.211.222/iguide playpath=wynj5ay2hae8dzy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
                 },
 {
      "name": "CANAL + LIGA",
@@ -48,7 +50,7 @@
 {
      "name": "CANAL + LIGA 2",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=Liga&w=670&h=400",
+     "url": "http://embedezcast.com/embedded/elpapa12/1/645/395",
 	 "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"
                },
@@ -66,7 +68,9 @@
 {
      "name": "CANAL + DEPORTES",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
-     "url": "rtmp://66.55.92.71:1935/app/premiertv2s-channel"
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=181&autoplay=true",
+     "referer": "http://verdirectotv.net/ver-divinity-online-en-directo-las-24horas-por-internet-gratis/",                        
+     "isHost": "true"
                 },
 {
      "name": "CANAL + LIGA DE CAMPEONES",
@@ -91,7 +95,7 @@
 {
      "name": "BEIN Ñ",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
-     "url": "http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8"
+     "url": "http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8"
                  },
  
 {
@@ -134,10 +138,15 @@
      "image": "http://www.insidefmx.com/wp-content/uploads/2012/01/Esport3_logo2011.png",
      "url": "http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b798000.m3u8"                
                  },
+{                        
+     "name": "MOTOGP-F1",                         
+     "image": "http://3.bp.blogspot.com/-bXxJhc-wCts/VM_MDXZytOI/AAAAAAAABWE/MxI2dt27iO4/s1600/motogp-f1.jpg",                         
+     "url": "rtmp://207.244.67.22/iguide playpath=zze3jrwja3bgxjm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"                
+                 },
 {                       
      "name": "MULTICANAL",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "rtmp://46.165.220.225:1935/iguide playpath=hu3d1h6nkenwg9x swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
+     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
                 },
 {
      "name": "TELEDEPORTE",
