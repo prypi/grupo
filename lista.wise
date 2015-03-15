@@ -26,9 +26,7 @@
 {
      "name": "CANAL + OP2",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184&autoplay=true",
-     "referer": "http://cinestrenostv.tv/ver-canales-nacionales-de-españa-online-en-directo/canales/nacionales/plus1.php",
-     "isHost": "true"
+     "url": "http://cctv-lh.akamaihd.net/i/Biophobiafullhd_live@125124/master.m3u8"
                 },
 {
      "name": "GOL TV",
