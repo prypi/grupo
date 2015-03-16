@@ -279,17 +279,17 @@
 {
         "name": "HTB+ 1SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
-     "url": "http://213.172.65.36:4022/play/117"
+     "url": "http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8?"
                  },
 {
         "name": "HTB+ 2SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B2.jpg",
-     "url": "http://213.172.65.36:4022/play/70"
+     "url": "http://185.38.12.20:8087/media/hls_147_148/ntvplusf2_hd/index.m3u8"
                  },
 {
         "name": "HTB+ 3SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B3.jpg",
-     "url": "http://213.172.65.36:4022/play/175"
+     "url": "http://185.38.12.20:8087/media/hls_147_148/ntvplusf3_hd/index.m3u8"
                  },
 {                       
      "name": "MULTICANAL ",
