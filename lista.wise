@@ -826,6 +826,11 @@
      "referer": "http://verdirectotv.com/tv/digitales/plustoros.html",
      "isHost": "true"
                 },
+{
+     "name": "CANAL + TOROS HD",
+     "image": "http://4.bp.blogspot.com/-wdHMf-9kCYg/UXr1XVgY_oI/AAAAAAAAM_8/_zZGadtze5U/s320/canal-toros.png",
+     "url": "acestream://a6f1a8090bfe74455f7399ee42e55d5f6cdfd0b3"
+                },
 {                                                                                                      
      "name": "CANAL + DCINE",
      "image": "http://img88.xooimage.com/files/4/c/d/500px-canal-_dcine_2008.svg-36d27c1.png",
