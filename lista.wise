@@ -207,7 +207,7 @@
      "url": "rtmp://167.114.117.208/live/bt2v"
                  },
 {
-     "name": "IDEMAN",
+     "name": "IDMAN",
      "image": "http://www.tvfrekans.com/wp-content/uploads/2012/10/idman-tv-logo-resmi.jpg",
      "url": "http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8"
                  },
@@ -279,7 +279,7 @@
 {
         "name": "HTB+ 1SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
-     "url": "http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8?"
+     "url": "http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8"
                  },
 {
         "name": "HTB+ 2SD",
