@@ -252,19 +252,19 @@
      "url": "http://198.27.94.105/hls/skysportsf1_1.m3u8"                                                                                               
                  },
 {                                      
-     "name": "SPORTTV1",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/sporttv%20slovenia.jpg",
-     "url": "http://213.250.24.130/sporttv1/sporttv1.isml/sporttv1-video=2500000-audio101=128000.m3u8"                                                                                               
+     "name": "SPORT TV1",
+     "image": "https://www.dropbox.com/s/1yusdvx4eb6hx0m/Sport%20TV%201.png",
+     "url": "rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"                                                                                               
                  },
 {                                      
-     "name": "SPORTTV2",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/sporttv%20slovenia.jpg",
-     "url": "http://213.250.24.130/sporttv2/sporttv2.isml/sporttv2-video=2500000-audio101=128000.m3u8"                                                                                               
+     "name": "SPORT TV2",
+     "image": "https://www.dropbox.com/s/dwojadr5k22abzu/SPORT%20TV%20HD.jpg",
+     "url": "rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"                                                                                               
                  },
 {                                      
      "name": "SPORTTV3",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/sporttv%20slovenia.jpg",
-     "url": "http://213.250.24.130/sporttv3/sporttv3.isml/sporttv3-video=2500000-audio101=128000.m3u8"                                                                                               
+     "image": "https://www.dropbox.com/s/xjonvilw0m2qyd9/Sport%20TV%203.png",
+     "url": "rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/"                                                                                               
                  },
 {
      "name": "EUROSPORT",
@@ -279,7 +279,7 @@
 {
         "name": "HTB+ 1SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
-     "url": "http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8"
+     "url": "rtmp://edge03-07.az.myvideo.az/dvrh264/ntvfootball/ playpath=mp4:ntvfootball swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=ntvfootball"
                  },
 {
         "name": "HTB+ 2SD",
