@@ -172,9 +172,24 @@
      "url": "rtmp://skystreams.info/live//wwe247"
                  },
 {
-     "name": "SILK SPORT",
+     "name": "SILK SPORT 1HD",
      "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
-     "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/"   
+     "url": "http://80.77.52.6:4314/udp/226.0.0.7:12345"   
+                  },
+{
+     "name": "SILK SPORT 2HD",
+     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
+     "url": "http://80.77.52.6:4314/udp/226.0.0.8:12345"   
+                  },
+{
+     "name": "SILK SPORT 3HD",
+     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
+     "url": "http://80.77.52.6:4314/udp/226.0.0.9:12345"   
+                  },
+{
+     "name": "SILK SPORT 4HD",
+     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
+     "url": "http://80.77.52.6:4314/udp/226.0.0.10:12345"   
                   },
 {                      
      "name": "FIGHTBOX",
@@ -277,17 +292,17 @@
      "url": "http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(eusp2)/Stream(05)/index.m3u8"      
                  },
 {
-        "name": "HTB+ 1SD",
+        "name": "NTV+ FUTBOL 1SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
      "url": "rtmp://edge03-07.az.myvideo.az/dvrh264/ntvfootball/ playpath=mp4:ntvfootball swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=ntvfootball"
                  },
 {
-        "name": "HTB+ 2SD",
+        "name": "NTV+ FUTBOL 2SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B2.jpg",
      "url": "http://185.38.12.20:8087/media/hls_147_148/ntvplusf2_hd/index.m3u8"
                  },
 {
-        "name": "HTB+ 3SD",
+        "name": "NTV+ FUTBOL 3SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B3.jpg",
      "url": "http://185.38.12.20:8087/media/hls_147_148/ntvplusf3_hd/index.m3u8"
                  },
