@@ -318,6 +318,37 @@
                 },
 ]
 },
+{
+"name": "TSN SPORTS HD",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWoRHx-eubuHgTa3Nt8vfGQaX6g377kZHySWya7dG3no63LvIipQ",
+"stations": [
+{
+     "name": "TSN 1 HD",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOH4dbKC-RuGnrj9wL2SrwyU1UNFstB_n-KF0_pVmrFfDHuIiV",
+     "url": "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8"
+                },
+{
+     "name": "TSN 2 HD",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnV7-wbVMCuMzA_C2Sv5v3S5baBFp6tNBXIUn0JUi_auVYe0JPrQ",
+     "url": "http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8"
+                },
+{
+     "name": "TSN 3 HD",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMtEHq2kgJHEdW7d9CnN_7BJ8p9P74UIvD6TJNL_pjYLXFzXU98w",
+     "url": "http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8"
+                },
+{
+     "name": "TSN 4 HD",
+     "image": "http://www.google.es/imgres?imgurl=http://www.tsn.ca/img/tsn/tv/tsn4_logo.png&imgrefurl=http://www.tsn.ca/tv&h=12&w=75&tbnid=bOxmzcSxAvjNaM:&zoom=1&docid=T6UXR0co_Dri8M&ei=NQMKVd-EBcOzUc2GgPgC&tbm=isch&ved=0CCkQMygIMAg",
+     "url": "http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8"
+                },
+{
+     "name": "TSN 5 HD",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpivk7mvVO54PNwrmL8N0GHLadmfBMdGauk8-mu27_P4kNQe1TQA",
+     "url": "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8"
+                },
+]
+},
 ]
 },
 {                    
