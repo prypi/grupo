@@ -35,7 +35,7 @@
 {
      "name": "C+ LIGA",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
-     "url": "http://is.gd/48p6lZ"
+     "url": "http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/396.ts"
                },
 {
      "name": "C+ LIGA ACES",
@@ -49,17 +49,6 @@
      "isHost": "true"
                },		 
 {
-     "name": "C+ FUTBOL",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
-     "url": "http://embedezcast.com/embedded/perrot/1/645/395", 
-      "isHost": "true"           
-                },
-{
-     "name": "C+ FUTBOL ACES",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
-     "url": "acestream://7aba3acd4761ec89f447d2daef908f1de01f2201"
-                 },
-{
      "name": "C+ DEPORTES",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
      "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=181&autoplay=true",
@@ -70,6 +59,11 @@
      "name": "C+ DEPORTES ACES",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
      "url": "acestream://6eeff0b1da59c0f78b659d0c00d855327ec13ab4"
+                },
+{
+     "name": "C+ DEPORTES OP2",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
+     "url": "http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/379.ts"
                 },
 {
      "name": "C+ DEPORTES 2",
@@ -85,6 +79,22 @@
 	 "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
 	 "isHost": "true"  
                  },
+{
+     "name": "C+ FUTBOL",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
+     "url": "http://embedezcast.com/embedded/perrot/1/645/395", 
+      "isHost": "true"           
+                },
+{
+     "name": "C+ FUTBOL ACES",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
+     "url": "acestream://7aba3acd4761ec89f447d2daef908f1de01f2201"
+                 },
+{
+     "name": "C+ FUTBOL OP2",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
+     "url": "http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/393.ts"           
+                },
 {
      "name": "C+ GOLF",
      "image": "http://www.todotele.com/wp-content/uploads/2011/02/canal-+-golf.jpg",
