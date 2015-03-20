@@ -244,7 +244,7 @@
      "url": "http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8"
                  },
 {
-     "name": "BEIN ACES",
+     "name": "BEIN Ñ ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
      "url": "acestream://aad6e5b9735c14f9fce89e4edc3451ba91188a8d"
                 },
@@ -403,7 +403,7 @@
                  },
 {                                      
      "name": "SKY SPORTS 2 ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%201.png",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%202.png",
      "url": "acestream://97518ab8451a5c9e8da2b92245ac0ea6622a519c"                                                                                        
                  },
 {                                      
@@ -413,7 +413,7 @@
                  },
 {                                      
      "name": "SKY SPORTS 3 ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%201.png",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%203.png",
      "url": "acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887"                                                                                        
                  },
 {                                      
@@ -423,7 +423,7 @@
                  },
 {                                      
      "name": "SKY SPORTS 4 ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%201.png",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%204.png",
      "url": "rtmp://167.114.117.208/live/sky1v"                                                                                        
                  },
 {                                      
@@ -678,17 +678,17 @@
 "stations": [
 {                                      
      "name": "SPORT TV1",
-     "image": "https://www.dropbox.com/s/1yusdvx4eb6hx0m/Sport%20TV%201.png",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%20TV%201.png",
      "url": "rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"                                                                                               
                  },
 {                                      
      "name": "SPORT TV2",
-     "image": "https://www.dropbox.com/s/dwojadr5k22abzu/SPORT%20TV%20HD.jpg",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORT%20TV2.jpg",
      "url": "rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"                                                                                               
                  },
 {                                      
      "name": "SPORTTV3",
-     "image": "https://www.dropbox.com/s/xjonvilw0m2qyd9/Sport%20TV%203.png",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%20TV%203.png",
      "url": "rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/"                                                                                               
                  },
 ]
