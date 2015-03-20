@@ -72,6 +72,20 @@
      "url": "acestream://6eeff0b1da59c0f78b659d0c00d855327ec13ab4"
                 },
 {
+     "name": "C+ DEPORTES 2",
+     "image": "http://img2.wikia.nocookie.net/__cb20150205123511/logopedia/images/8/84/Canal_%2B_HD_Deportes_2.png",
+	 "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=88&autoplay=true",
+	 "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
+	 "isHost": "true"
+                },
+{
+     "name": "EUROSPORT",
+     "image": "http://img3.wikia.nocookie.net/__cb20120329095623/logopedia/images/a/a2/ESP_GGS_RVB.png",
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=95&autoplay=true",
+	 "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
+	 "isHost": "true"  
+                 },
+{
      "name": "C+ GOLF",
      "image": "http://www.todotele.com/wp-content/uploads/2011/02/canal-+-golf.jpg",
      "url": "rtmp://85.91.143.9:1935/cs_golf"
