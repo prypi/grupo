@@ -240,12 +240,12 @@
 "stations": [
 {
      "name": "BT SPORT 1",
-     "image": "http://googlechromecast.com/wp-content/uploads/2014/04/bt-sport.jpg",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt1.jpg",
      "url": "rtmp://167.114.117.208/live/bt1v"
                 },
 {
      "name": "BT SPORT 2",
-     "image": "http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt%20Soprt%201.jpg",
      "url": "rtmp://167.114.117.208/live/bt2v"
                  },
 ]
@@ -325,20 +325,38 @@
 ]
 },
 {
+"name": "IDMAN",
+"image": "http://www.tvfrekans.com/wp-content/uploads/2012/10/idman-tv-logo-resmi.jpg",
+"stations": [
+{
      "name": "IDMAN",
      "image": "http://www.tvfrekans.com/wp-content/uploads/2012/10/idman-tv-logo-resmi.jpg",
      "url": "http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8"
                  },
+]
+},
+{
+"name": "VIASAT",
+"image": "http://cdn.fansided.com/wp-content/blogs.dir/259/files/2014/05/ncaa-basketball-oregon-state-colorado.jpg",
+"stations": [
 {
      "name": "NOVA SPORT",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/NOVA%20SPORT.jpg",
      "url": "http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/PAZ.m3u8"
                  },
+]
+},
+{                    
+"name": "PAC",
+"image": "http://cdn.fansided.com/wp-content/blogs.dir/259/files/2014/05/ncaa-basketball-oregon-state-colorado.jpg",
+"stations": [
 {                                      
      "name": "SPOR PAC USA HD",
      "image": "http://cdn.fansided.com/wp-content/blogs.dir/259/files/2014/05/ncaa-basketball-oregon-state-colorado.jpg",
      "url": "http://xrxs.net/video/live-p12netw-2328.m3u8"
                  },
+]
+},
 {                    
 "name": "SILK",
 "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
@@ -391,7 +409,7 @@
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/EUROSPORT%20GROUP.jpg",
 "stations": [
 {
-     "name": "EUROSPORT",
+     "name": "EUROSPORT 1",
      "image": "http://img3.wikia.nocookie.net/__cb20120329095623/logopedia/images/a/a2/ESP_GGS_RVB.png",
      "url": "http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8"  
                  },
@@ -404,7 +422,7 @@
 },
 {                    
 "name": "NTV PLUS FUTBOL",
-"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/EUROSPORT%20GROUP.jpg",
+"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/HTB%20GROUP.jpg",
 "stations": [
 {
         "name": "NTV+ FUTBOL 1SD",
