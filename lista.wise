@@ -10,12 +10,11 @@
 {                    
 "name": "ESPAÑOLES",
 "image": "http://estaticos.marca.com/imagenes/2014/09/17/mas_deportes/otros_deportes/1410958380_extras_noticia_foton_7_0.jpg",
+"groups": [
+{                    
+"name": "DIGITAL +",
+"image": "http://estaticos.marca.com/imagenes/2014/09/17/mas_deportes/otros_deportes/1410958380_extras_noticia_foton_7_0.jpg",
 "stations": [
-{
-     "name": "ARENAVISION",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
-     "url": "rtmp://207.244.67.22/iguide playpath=p7wksud7foc4cqd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"                                                                                                  
-               },
 {
      "name": "CANAL +",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
@@ -29,18 +28,6 @@
      "url": "http://cctv-lh.akamaihd.net/i/Biophobiafullhd_live@125124/master.m3u8"
                 },
 {
-     "name": "GOL TV",
-     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=gol&w=670&h=400",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"
-                },
-{
-     "name": "GOL TV (OPCION 2)",
-     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "rtmp://95.211.211.222/iguide playpath=wynj5ay2hae8dzy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
-                },
-{
      "name": "CANAL + LIGA",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
      "url": "http://is.gd/48p6lZ"
@@ -52,12 +39,7 @@
      "isHost": "true"
                },
 {
-     "name": "CANAL + LIGA (MULTI) ",
-     "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
-     "url": "http://iphone-streaming.ustream.tv/ustreamVideo/19161153/streams/live/playlist.m3u8"
-               },
-{
-     "name": "FUTBOL",
+     "name": "CANAL + FUTBOL",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
      "url": "http://embedezcast.com/embedded/perrot/1/645/395", 
       "isHost": "true"           
@@ -89,6 +71,67 @@
      "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
      "url": "rtmp://85.91.143.9:1935/cs_barcatv"
                  },
+]
+},
+{                    
+"name": "MULTICANAL",
+"image": "http://estaticos.marca.com/imagenes/2014/09/17/mas_deportes/otros_deportes/1410958380_extras_noticia_foton_7_0.jpg",
+"stations": [
+{
+     "name": "ARENAVISION",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
+     "url": "rtmp://207.244.67.22/iguide playpath=p7wksud7foc4cqd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"                                                                                                  
+               },
+{
+     "name": "CANAL + LIGA (MULTI) ",
+     "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
+     "url": "http://iphone-streaming.ustream.tv/ustreamVideo/19161153/streams/live/playlist.m3u8"
+               },
+{                       
+     "name": "MULTICANAL",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
+                },
+{
+     "name": "TODODEPORTES",
+     "image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
+     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8"     
+                 },
+]
+},
+{
+     "name": "ESPORT3",
+     "image": "http://www.insidefmx.com/wp-content/uploads/2012/01/Esport3_logo2011.png",
+     "url": "http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b798000.m3u8"                
+                 },
+{
+     "name": "TELEDEPORTE",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8"     
+                },
+{
+     "name": "GOL TV",
+     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=gol&w=670&h=400",
+     "referer": "http://pontucanal.net/canales/cuatro.html",
+     "isHost": "true"
+                },
+{
+     "name": "GOL TV (OPCION 2)",
+     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
+     "url": "rtmp://95.211.211.222/iguide playpath=wynj5ay2hae8dzy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
+                },
+{                        
+     "name": "MOTOGP-F1",                         
+     "image": "http://3.bp.blogspot.com/-bXxJhc-wCts/VM_MDXZytOI/AAAAAAAABWE/MxI2dt27iO4/s1600/motogp-f1.jpg",                         
+     "url": "rtmp://207.244.67.22/iguide playpath=zze3jrwja3bgxjm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"                
+                 },
+]
+},
+{                    
+"name": "LATINOS",
+"image": "http://estaticos.marca.com/imagenes/2014/09/17/mas_deportes/otros_deportes/1410958380_extras_noticia_foton_7_0.jpg",
+"groups": [
 {
      "name": "BEIN Ñ",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
@@ -105,6 +148,15 @@
      "image": "http://www.portalhdtvemfortaleza.com.br/wp-content/uploads/2013/07/fox-sports-2-hd-na-sky.jpg",
      "url": "http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?"
                  },
+{                       
+     "name": "TYC SPORTS ",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/TYC%20SPORTS.jpg",
+     "url": "http://38.95.112.2/tyc-edge/live/master.m3u8"
+                },
+{                    
+"name": "ESPN",
+"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN.png",
+"stations": [
 {
      "name": "ESPN",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN.png",
@@ -130,67 +182,19 @@
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN3.jpg",
      "url": "http://live.oneplay.tv/reproducir/393.m3u8"                                       
                  },
-{
-     "name": "ESPORT3",
-     "image": "http://www.insidefmx.com/wp-content/uploads/2012/01/Esport3_logo2011.png",
-     "url": "http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b798000.m3u8"                
-                 },
-{                        
-     "name": "MOTOGP-F1",                         
-     "image": "http://3.bp.blogspot.com/-bXxJhc-wCts/VM_MDXZytOI/AAAAAAAABWE/MxI2dt27iO4/s1600/motogp-f1.jpg",                         
-     "url": "rtmp://207.244.67.22/iguide playpath=zze3jrwja3bgxjm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"                
-                 },
-{                       
-     "name": "MULTICANAL",
-     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
-                },
-{
-     "name": "TELEDEPORTE",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8"     
-                },
-{
-     "name": "TODODEPORTES",
-     "image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
-     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8"     
-                 },
-{                       
-     "name": "TYC SPORTS ",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/TYC%20SPORTS.jpg",
-     "url": "http://38.95.112.2/tyc-edge/live/master.m3u8"
-                },
+]
+},
 ]
 },
 {
-"name": "EXTRANJEROS",
+"name": "INGLESES",
 "image": "http://elsoldelaflorida.com/wp-content/uploads/2014/03/nba-players-e1394020460419.jpg",
-"stations": [
+"groups": [
 {
      "name": "PRESSING CATCH ",
      "image": "http://www.lacasadelfriki.es/c/65-category/pressing-catch-wwe.jpg",
      "url": "rtmp://skystreams.info/live//wwe247"
                  },
-{
-     "name": "SILK SPORT 1HD",
-     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
-     "url": "http://80.77.52.6:4314/udp/226.0.0.7:12345"   
-                  },
-{
-     "name": "SILK SPORT 2HD",
-     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
-     "url": "http://80.77.52.6:4314/udp/226.0.0.8:12345"   
-                  },
-{
-     "name": "SILK SPORT 3HD",
-     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
-     "url": "http://80.77.52.6:4314/udp/226.0.0.9:12345"   
-                  },
-{
-     "name": "SILK SPORT 4HD",
-     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
-     "url": "http://80.77.52.6:4314/udp/226.0.0.10:12345"   
-                  },
 {                      
      "name": "FIGHTBOX",
      "image": "https://www.rokuchannels.tv/wp-content/uploads/2013/10/fightbox_live_roku1.png",
@@ -200,16 +204,6 @@
      "name": "BOX NATION",
      "image": "http://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",
      "url": "rtmp://167.114.117.208/live/skynationv"                      
-                 },
-{
-     "name": "BEIN 1",
-     "image": "http://advar.ps/wp-content/uploads/2014/04/beIN-SPORT-1.jpg",
-     "url": "http://2co1.vp9.tv/chn/bin01/v.m3u8"
-                 },
-{
-     "name": "BEIN 2",
-     "image": "http://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",
-     "url": "http://2co1.vp9.tv/chn/bin02/v.m3u8"      
                  },
 {
      "name": "BT SPORT 1",
@@ -222,20 +216,9 @@
      "url": "rtmp://167.114.117.208/live/bt2v"
                  },
 {
-     "name": "IDMAN",
-     "image": "http://www.tvfrekans.com/wp-content/uploads/2012/10/idman-tv-logo-resmi.jpg",
-     "url": "http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8"
-                 },
-{
-     "name": "NOVA SPORT",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/NOVA%20SPORT.jpg",
-     "url": "http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/PAZ.m3u8"
-                 },
-{                                      
-     "name": "SPOR PAC USA HD",
-     "image": "http://cdn.fansided.com/wp-content/blogs.dir/259/files/2014/05/ncaa-basketball-oregon-state-colorado.jpg",
-     "url": "http://xrxs.net/video/live-p12netw-2328.m3u8"
-                 },
+"name": "SKY SPORTS",
+"image": "http://elsoldelaflorida.com/wp-content/uploads/2014/03/nba-players-e1394020460419.jpg",
+"stations": [
 {                                      
      "name": "SKY SPORTS 1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%201.png",
@@ -266,6 +249,75 @@
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky%20Sports%20F1.png",
      "url": "http://198.27.94.105/hls/skysportsf1_1.m3u8"                                                                                               
                  },
+]
+},
+{
+"name": "MULTICANAL",
+"image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+"stations": [
+{                       
+     "name": "MULTICANAL ",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "http://edge.hls.dt.hitbox.tv/hls/kora34/index.m3u8"
+                },
+{                       
+     "name": "MULTICANAL ",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "http://edge.hls.dt.hitbox.tv/hls/zonasports2/index.m3u8"
+                },
+]
+},
+]
+},
+{
+"name": "RESTO DEL MUNDO",
+"image": "http://elsoldelaflorida.com/wp-content/uploads/2014/03/nba-players-e1394020460419.jpg",
+"groups": [
+{
+     "name": "BEIN 1",
+     "image": "http://advar.ps/wp-content/uploads/2014/04/beIN-SPORT-1.jpg",
+     "url": "http://2co1.vp9.tv/chn/bin01/v.m3u8"
+                 },
+{
+     "name": "BEIN 2",
+     "image": "http://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",
+     "url": "http://2co1.vp9.tv/chn/bin02/v.m3u8"      
+                 },
+{
+     "name": "IDMAN",
+     "image": "http://www.tvfrekans.com/wp-content/uploads/2012/10/idman-tv-logo-resmi.jpg",
+     "url": "http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8"
+                 },
+{
+     "name": "NOVA SPORT",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/NOVA%20SPORT.jpg",
+     "url": "http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/PAZ.m3u8"
+                 },
+{                                      
+     "name": "SPOR PAC USA HD",
+     "image": "http://cdn.fansided.com/wp-content/blogs.dir/259/files/2014/05/ncaa-basketball-oregon-state-colorado.jpg",
+     "url": "http://xrxs.net/video/live-p12netw-2328.m3u8"
+                 },
+{
+     "name": "SILK SPORT 1HD",
+     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
+     "url": "http://80.77.52.6:4314/udp/226.0.0.7:12345"   
+                  },
+{
+     "name": "SILK SPORT 2HD",
+     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
+     "url": "http://80.77.52.6:4314/udp/226.0.0.8:12345"   
+                  },
+{
+     "name": "SILK SPORT 3HD",
+     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
+     "url": "http://80.77.52.6:4314/udp/226.0.0.9:12345"   
+                  },
+{
+     "name": "SILK SPORT 4HD",
+     "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
+     "url": "http://80.77.52.6:4314/udp/226.0.0.10:12345"   
+                  },
 {                                      
      "name": "SPORT TV1",
      "image": "https://www.dropbox.com/s/1yusdvx4eb6hx0m/Sport%20TV%201.png",
@@ -306,18 +358,6 @@
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B3.jpg",
      "url": "http://185.38.12.20:8087/media/hls_147_148/ntvplusf3_hd/index.m3u8"
                  },
-{                       
-     "name": "MULTICANAL ",
-     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://edge.hls.dt.hitbox.tv/hls/kora34/index.m3u8"
-                },
-{                       
-     "name": "MULTICANAL ",
-     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://edge.hls.dt.hitbox.tv/hls/zonasports2/index.m3u8"
-                },
-]
-},
 {
 "name": "TSN SPORTS HD",
 "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWoRHx-eubuHgTa3Nt8vfGQaX6g377kZHySWya7dG3no63LvIipQ",
@@ -347,6 +387,8 @@
      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpivk7mvVO54PNwrmL8N0GHLadmfBMdGauk8-mu27_P4kNQe1TQA",
      "url": "http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8"
                 },
+]
+},
 ]
 },
 ]
