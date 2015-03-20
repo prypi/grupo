@@ -621,8 +621,6 @@
 },
 ]
 },
-]
-},
 {                    
 "name": "MULTI ARENAVISION",
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
@@ -687,6 +685,8 @@
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
      "url": "sop://broker.sopcast.com:3912/255772"
                  },
+]
+},
 ]
 },
 {
