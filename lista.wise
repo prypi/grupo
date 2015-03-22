@@ -84,10 +84,10 @@
      "url": "acestream://7aba3acd4761ec89f447d2daef908f1de01f2201"
                 },
 {
-     "name": "CAMPEONES + MULTICANAL",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
-     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10"                                                                                    
-                },
+     "name": "CANAL + LIGA DE CAMPEONES",
+	 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
+	 "url": "http://www.embedezcast.com/embedded/puerrolc/1/645/395", 
+	 "isHost": "true"
 {
      "name": "CAMPEONES (ACESTREAMS)",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
