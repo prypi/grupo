@@ -24,7 +24,7 @@
 {
      "name": "CANAL + MULTICANAL",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/Biophobiafullhd_live@125124/master.m3u8"
+     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10&rebase=on"
                 },
 {
      "name": "CANAL + (ACESTREAMS)",
@@ -111,9 +111,24 @@
      "url": "http://cctv2-lh.akamaihd.net/i/xkriv2_live@125189/index_1080p_av-p.m3u8" 
                 },
 {
+     "name": "BEIN Ñ (OPCION 2)",
+     "image": "http://www.multiplayertv.org/wp-content/uploads/2015/02/BEIN.jpg",
+     "url": "http://cctv2-lh.akamaihd.net/i/joelhp2capo_live@125195/index_1080p_av-p.m3u8" 
+                },
+{
+     "name": "BEIN Ñ (OPCION 3)",
+     "image": "http://www.multiplayertv.org/wp-content/uploads/2015/02/BEIN.jpg",
+     "url": "http://cctv2-lh.akamaihd.net/i/joelhp2capo_live@125195/index_1080p_av-p.m3u8" 
+                },
+{
      "name": "BEIN Ñ(ACESTREAMS)",
      "image": "http://www.multiplayertv.org/wp-content/uploads/2015/02/BEIN.jpg",
      "url": "acestream://aad6e5b9735c14f9fce89e4edc3451ba91188a8d" 
+                },
+{
+     "name": "SPORTMANIA",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sportmania.png",
+     "url": "rtmp://207.244.89.21/iguide playpath=ihx72xedulmc3gp swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
                 },
 {
      "name": "SPORTMANIA (ACESTREAMS)",
@@ -207,12 +222,12 @@
 {                       
      "name": "MULTICANAL 5",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/lacasa2_live@125112/master.m3u8"
+     "url": "http://cctv-lh.akamaihd.net/i/zomosx3_live@125124/master.m3u8"
                 },
 {                       
      "name": "MULTICANAL 6",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv2-lh.akamaihd.net/i/MRC1HD2_live@125190/master.m3u8"
+     "url": "http://cctv2-lh.akamaihd.net/i/Mostomedia4_live@125195/master.m3u8"
                 },
 {                       
      "name": "MULTICANAL 7",
@@ -330,6 +345,17 @@
      "name": "DIRECTV SPORTS",
      "image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
      "url": "http://www.canalvivo.com.ar/wp-content/uploads/2013/06/directv.jpg"
+                },
+]
+},
+{                    
+"name": "DIRETTA CALCIO",
+"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/diretta%20calcio.jpg",
+"stations": [
+{                       
+     "name": "DIRETTA CALCIO",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/diretta%20calcio.jpg",
+     "url": "http://cctv2-lh.akamaihd.net/i/ipacotv_live@125194/index_1080p_av-p.m3u8?sd=10&rebase=on"
                 },
 ]
 },
