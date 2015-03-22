@@ -12,142 +12,171 @@
 "image": "http://estaticos.marca.com/imagenes/2014/09/17/mas_deportes/otros_deportes/1410958380_extras_noticia_foton_7_0.jpg",
 "groups": [
 {                    
-"name": "DIGITAL +",
-"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/DIGITAL%2B%20GROUP.png",
+"name": "DEPORTES ESPAÑA",
+"image": "http://www.elconfidencial.com/fotos/noticias/2010070620espa%C3%B1oles.jpg",
 "stations": [
 {
-     "name": "C+",
+     "name": "CANAL +",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184&autoplay=true",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400",
      "referer": "http://cinestrenostv.tv/ver-canales-nacionales-de-españa-online-en-directo/canales/nacionales/plus1.php",
      "isHost": "true"                
                 },
 {
-     "name": "C+ OP2",
+     "name": "CANAL + MULTICANAL",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
      "url": "http://cctv-lh.akamaihd.net/i/Biophobiafullhd_live@125124/master.m3u8"
                 },
 {
-     "name": "C+ ACES",
+     "name": "CANAL + (ACESTREAMS)",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
      "url": "acestream://c06ee4206da9f52e00cb62023dde60fc62da64cc"
-                 },
+                },
 {
-     "name": "C+ LIGA",
+     "name": "CANAL + LIGA",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
-     "url": "http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/396.ts"
-               },
-{
-     "name": "C+ LIGA OP2",
-     "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
-     "url": "http://embedezcast.com/embedded/elpapa12/1/645/395",
+     "url": "http://www.embedezcast.com/embedded/puerrol/1/645/395",
      "isHost": "true"
+                },
+{
+     "name": "LIGA (SOLO EVENTOS)",
+     "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
+     "url": "http://edge.hls.dt.hitbox.tv/hls/mips13/index.m3u8"
                },
 {
-     "name": "C+ LIGA ACES",
+     "name": "LIGA (ACESTREAMS)",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
      "url": "acestream://7889394a083203f4ddddf571ab7b52d34e8e9b3a"
-                 },
-{
-     "name": "C+ LIGA ACES OP2",
-     "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
-     "url": "acestream://0aa6fd3e7d9aae7e715e05de7a367f2066fc0552"
                  },				 
 {
-     "name": "C+ DEPORTES",
+     "name": "CANAL + DEPORTES",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
      "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=181&autoplay=true",
      "referer": "http://verdirectotv.net/ver-divinity-online-en-directo-las-24horas-por-internet-gratis/",                        
      "isHost": "true"
                 },
 {
-     "name": "C+ DEPORTES OP2",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
-     "url": "http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/379.ts"
-                },
-{
-     "name": "C+ DEPORTES ACES",
+     "name": "DEPORTES (ACESTREAMS)",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
      "url": "acestream://6eeff0b1da59c0f78b659d0c00d855327ec13ab4"
                 },
 {
-     "name": "C+ DEPORTES 2",
+     "name": "CANAL + DEPORTES 2",
      "image": "http://img2.wikia.nocookie.net/__cb20150205123511/logopedia/images/8/84/Canal_%2B_HD_Deportes_2.png",
-	 "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=88&autoplay=true",
-	 "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
-	 "isHost": "true"
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=88&autoplay=true",
+     "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
+     "isHost": "true"
                 },
 {
-     "name": "C+ FUTBOL",
+     "name": "CANAL + FUTBOL",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
-     "url": "http://embedezcast.com/embedded/perrot/1/645/395", 
-      "isHost": "true"           
+     "url": "http://www.embedezcast.com/embedded/puerrof2/1/645/395", 
+     "isHost": "true"  
                 },
 {
-     "name": "C+ FUTBOL OP2",
+     "name": "FUTBOL (OPCION 2)",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
-     "url": "http://iptv.hopto.org:9705/live/facebook:/AlbTvSystems/393.ts"           
+     "url": "http://hls.goodgame.ru/hls/35283.m3u8"               
                 },
 {
-     "name": "C+ FUTBOL ACES",
+     "name": "FUTBOL (ACESTREAMS)",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
      "url": "acestream://7aba3acd4761ec89f447d2daef908f1de01f2201"
-                 },
+                },
 {
-     "name": "C+ GOLF",
-     "image": "http://www.todotele.com/wp-content/uploads/2011/02/canal-+-golf.jpg",
-     "url": "rtmp://85.91.143.9:1935/cs_golf"
-                 },
-{
-     "name": "C+ LIGA DE CAMPEONES",
+     "name": "CAMPEONES + MULTICANAL",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
      "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?hd=10"                                                                                    
                 },
 {
-     "name": "C+ LIGA CAMPEONES ACES",
+     "name": "CAMPEONES (ACESTREAMS)",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
      "url": "acestream://7d8cd8a8f5feac300db5917db833790c34af99e0"
                  },
 {
-     "name": "C+ TOROS",
-     "image": "http://4.bp.blogspot.com/-wdHMf-9kCYg/UXr1XVgY_oI/AAAAAAAAM_8/_zZGadtze5U/s320/canal-toros.png",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=97&autoplay=true",
-     "referer": "http://verdirectotv.com/tv/digitales/plustoros.html",
+     "name": "GOL TV",
+     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=gol&w=670&h=400",
+     "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"
                 },
 {
-     "name": "C+ TOROS ACES",
-     "image": "http://4.bp.blogspot.com/-wdHMf-9kCYg/UXr1XVgY_oI/AAAAAAAAM_8/_zZGadtze5U/s320/canal-toros.png",
-     "url": "acestream://a6f1a8090bfe74455f7399ee42e55d5f6cdfd0b3"
+     "name": "GOL TV (OPCION 2)",
+     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
+     "url": "rtmp://95.211.211.222/iguide playpath=wynj5ay2hae8dzy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
+                },
+{
+     "name": "BEIN Ñ",
+     "image": "http://www.multiplayertv.org/wp-content/uploads/2015/02/BEIN.jpg",
+     "url": "http://cctv2-lh.akamaihd.net/i/xkriv2_live@125189/index_1080p_av-p.m3u8" 
+                },
+{
+     "name": "BEIN Ñ(ACESTREAMS)",
+     "image": "http://www.multiplayertv.org/wp-content/uploads/2015/02/BEIN.jpg",
+     "url": "acestream://aad6e5b9735c14f9fce89e4edc3451ba91188a8d" 
+                },
+{
+     "name": "SPORTMANIA (ACESTREAMS)",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sportmania.png",
+     "url": "acestream://642a383e03713b3e281ae6c5ea7fe3d03a1543c6"
                 },
 {
      "name": "EUROSPORT",
      "image": "http://img3.wikia.nocookie.net/__cb20120329095623/logopedia/images/a/a2/ESP_GGS_RVB.png",
      "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=95&autoplay=true",
-	 "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
-	 "isHost": "true"  
-                 },
-{                        
-     "name": "MOTOGP-F1",                         
-     "image": "http://3.bp.blogspot.com/-bXxJhc-wCts/VM_MDXZytOI/AAAAAAAABWE/MxI2dt27iO4/s1600/motogp-f1.jpg",                         
-     "url": "http://tv.verdirectotv.org/embed.php?c=103786&width=650&height=400&autostart=true",
-	 "referer": "http://verdirectotv.com/tv/digitales/plustoros.html",
-     "isHost": "true"
+     "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
+     "isHost": "true"  
                  },
 {
-        "name": "MOVISTAR F1 ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/movistar%20F1.jpg",
-     "url": "acestream://55ad9575a54e58c68b7c00773a9d89c7e1edb465"
+     "name": "TELEDEPORTE",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8"     
+                },
+{
+     "name": "TELEDEPORTE (ACESTREAMS)",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+     "url": "acestream://1e78967e800870ab6323da9fdae198dc9c8f7c0a"
+                },
+{
+     "name": "EUROSPORT",
+     "image": "http://img3.wikia.nocookie.net/__cb20120329095623/logopedia/images/a/a2/ESP_GGS_RVB.png",
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=95&autoplay=true",
+     "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
+     "isHost": "true"  
                  },
 {
      "name": "REAL MADRID TV",
      "image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
-     "url": "rtmp://85.91.143.9:1935/cs_real_madrid"
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=82&autoplay=true",
+     "referer": "http://verdirectotv.com/tv/digitales/plustoros.html",
+     "isHost": "true"
                  },
 {
-     "name": "BARÇA TV",
-     "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
-     "url": "rtmp://85.91.143.9:1935/cs_barcatv"
+     "name": "ESPORT3",
+     "image": "http://www.insidefmx.com/wp-content/uploads/2012/01/Esport3_logo2011.png",
+     "url": "http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b798000.m3u8"  
+                 },
+{
+     "name": "SEVILLA.FC TV",
+     "image": "http://www.sevillafc.es/nuevaweb/img/sfctv.jpg",
+     "url": "rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc"            
+                 },
+{
+     "name": "MOVISTAR F1 (ACESTREAMS)",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/movistar%20F1.jpg",
+     "url": "acestream://55ad9575a54e58c68b7c00773a9d89c7e1edb465" 
+                 },
+{
+     "name": "NAUTICO TV",
+     "image": "https://cursodetimonel.files.wordpress.com/2007/04/logo.jpg",
+     "url": "rtmp://149.11.34.78:1935/live/velatv.stream" 
+                 },
+{
+     "name": "CANAL + TOROS",
+     "image": "http://4.bp.blogspot.com/-wdHMf-9kCYg/UXr1XVgY_oI/AAAAAAAAM_8/_zZGadtze5U/s320/canal-toros.png",
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=97&autoplay=true",
+     "referer": "http://verdirectotv.com/tv/digitales/plustoros.html",
+     "isHost": "true"
                  },
 ]
 },
@@ -158,7 +187,7 @@
 {
      "name": "MULTICANAL 1",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv-lh.akamaihd.net/I/lacasa2_live@125112/master.m3u8"
+     "url": "rtmp://207.244.67.5/iguide playpath=p7wksud7foc4cqd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
                },
 {                       
      "name": "MULTICANAL 2",
@@ -173,76 +202,23 @@
 {                       
      "name": "MULTICANAL 4",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/lacasa2_live@125112/master.m3u8"
-                },
+     "url": "http://cctv-lh.akamaihd.net/i/rivotv5_live@125121/master.m3u8"
+               },
 {                       
      "name": "MULTICANAL 5",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv2-lh.akamaihd.net/i/MRC1HD2_live@125190/master.m3u8"
+     "url": "http://cctv-lh.akamaihd.net/i/lacasa2_live@125112/master.m3u8"
                 },
 {                       
      "name": "MULTICANAL 6",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/MostoMedia3_live@125114/master.m3u8"
+     "url": "http://cctv2-lh.akamaihd.net/i/MRC1HD2_live@125190/master.m3u8"
                 },
-{
-     "name": "TODODEPORTES",
-     "image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
-     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8"     
-                 },
-{
-     "name": "EGOLES",
-     "image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
-     "url": "http://hls.goodgame.ru/hls/35194.m3u8"     
-                 },
-{
-     "name": "EGOLES 2",
-     "image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
-     "url": "http://edge.hls.dt.hitbox.tv/hls/mips13/index.m3u8"     
-                 },
-]
-},
-{                    
-"name": "TDT",
-"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/TDT_DEPORTES.jpg",
-"stations": [
-{
-     "name": "ESPORT3",
-     "image": "http://www.insidefmx.com/wp-content/uploads/2012/01/Esport3_logo2011.png",
-     "url": "http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b798000.m3u8"                
-                 },
-{
-     "name": "GOL TV",
-     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=gol&w=670&h=400",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"
+{                       
+     "name": "MULTICANAL 7",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "http://www.mips.tv/embedplayer/REVOLUCIONARIOSTV10/1/730/430"
                 },
-{
-     "name": "GOL TV OP2",
-     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "rtmp://95.211.186.156/iguide playpath=wjr34hydgycamqj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
-                },
-{
-     "name": "GOL TV ACES",
-     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "acestream://6a22afb0c39ce04025113f299f9c38234b499845"
-                },
-{
-        "name": "SPORTMANIA ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sportmania.png",
-     "url": "acestream://642a383e03713b3e281ae6c5ea7fe3d03a1543c6"
-                 },
-{
-     "name": "TELEDEPORTE",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8"     
-                },
-{
-        "name": "TELEDEPORTE ACES",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-     "url": "acestream://1e78967e800870ab6323da9fdae198dc9c8f7c0a"
-                 },
 ]
 },
 ]
@@ -279,7 +255,7 @@
 {
      "name": "ESPN",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN.png",
-     "url": "http://hls.goodgame.ru/hls/35136.m3u8"
+     "url": "http://live.oneplay.tv/reproducir/405.m3u8"
                  },
 {
      "name": "ESPN DEPORTES",
@@ -299,7 +275,7 @@
 {
      "name": "ESPN 3",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN3.jpg",
-     "url": "http://hls.goodgame.ru/hls/35191.m3u8"                                       
+     "url": "http://live.oneplay.tv/reproducir/393.m3u8"                                       
                  },
 ]
 },
@@ -320,18 +296,47 @@
 ]
 },
 {                    
-"name": "VARIOS",
-"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/POPURRI.jpg",
+"name": "TYC SPORTS",
+"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/TYC%20SPORTS.jpg",
 "stations": [
 {                       
      "name": "TYC SPORTS",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/TYC%20SPORTS.jpg",
      "url": "http://38.95.112.2/tyc-edge/live/master.m3u8"
                 },
+]
+},
+{                    
+"name": "TODODEPORTES",
+"image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
+"stations": [
 {                       
-     "name": "PX",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/px%20deportes.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8"
+     "name": "TODODEPORTES",
+     "image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
+     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8"
+                },
+]
+},
+{                    
+"name": "DIRECTV SPORTS",
+"image": "http://www.canalvivo.com.ar/wp-content/uploads/2013/06/directv.jpg",
+"stations": [
+{                       
+     "name": "DIRECTV SPORTS",
+     "image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
+     "url": "http://www.canalvivo.com.ar/wp-content/uploads/2013/06/directv.jpg"
+                },
+]
+},
+{                    
+"name": "CMD",
+"image": "http://4.bp.blogspot.com/-QisruH5vdzA/USFSrzuw3GI/AAAAAAAAAQ0/wYdY95u81e0/s1600/CMD_DEPORTES.png",
+"stations": [
+{                       
+     "name": "CMD",
+     "image": "http://4.bp.blogspot.com/-QisruH5vdzA/USFSrzuw3GI/AAAAAAAAAQ0/wYdY95u81e0/s1600/CMD_DEPORTES.png",
+     "url": "http://www.mips.tv/embedplayer/zeyucmd555/1/620/382",
+     "isHost": "true"
                 },
 ]
 },
@@ -391,22 +396,6 @@
      "image": "http://img2.wikia.nocookie.net/__cb20120329095341/logopedia/images/3/3d/ESP_2_GGS_RVB.png",
      "url": "acestream://ddfff14de2883f3513d49dd078bfe0aa3fbcab6f"
                  },
-]
-},
-{
-"name": "MULTICANAL",
-"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/MULTICANAL.jpg",
-"stations": [
-{                       
-     "name": "MULTICANAL 1",
-     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://edge.hls.dt.hitbox.tv/hls/kora34/index.m3u8"
-                },
-{                       
-     "name": "MULTICANAL 2",
-     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://edge.hls.dt.hitbox.tv/hls/zonasports2/index.m3u8"
-                },
 ]
 },
 {
@@ -697,37 +686,6 @@
      "image": "https://yt3.ggpht.com/-S-rq8tfcAQE/AAAAAAAAAAI/AAAAAAAAAAA/KcTLPzvCnFU/s88-c-k-no/photo.jpg",
      "url": "http://80.77.52.6:4314/udp/226.0.0.10:12345"   
                   },
-]
-},
-{                    
-"name": "SPORTKLUB",
-"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTKLUB%20GROUP.jpg",
-"stations": [
-{                                      
-     "name": "SPORTKLUB 1",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTKLUB.jpg",
-     "url": "http://89.212.240.49:11980/live/smil:438_0.smil/playlist.m3u8?authorization_key&stream_id"                                                                                               
-                 },
-{                                      
-     "name": "SPORTKLUB 2",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTKLUB.jpg",
-     "url": "http://89.212.240.49:11980/live/smil:439_0.smil/playlist.m3u8?authorization_key&stream_id"                                                                                               
-                 },
-{                                      
-     "name": "SPORTKLUB 3",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTKLUB.jpg",
-     "url": "http://89.212.240.49:11980/live/smil:440_0.smil/playlist.m3u8?authorization_key&stream_id"                                                                                               
-                 },
-{                                      
-     "name": "SPORTKLUB 4",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTKLUB.jpg",
-     "url": "http://89.212.240.49:11980/live/smil:631_0.smil/playlist.m3u8?authorization_key&stream_id"                                                                                               
-                 },
-{                                      
-     "name": "SPORTKLUB 5",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTKLUB.jpg",
-     "url": "http://89.212.240.49:11980/live/smil:632_0.smil/playlist.m3u8?authorization_key&stream_id"                                                                                               
-                 },
 ]
 },
 {                    
