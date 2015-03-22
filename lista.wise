@@ -203,7 +203,7 @@
 {                       
      "name": "MULTICANAL 4",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/rivotv5_live@125121/master.m3u8"
+     "url": "http://iphone-streaming.ustream.tv/ustreamVideo/20235288/streams/live/playlist.m3u8"
                },
 {                       
      "name": "MULTICANAL 5",
@@ -219,6 +219,11 @@
      "name": "MULTICANAL 7",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
      "url": "http://www.mips.tv/embedplayer/REVOLUCIONARIOSTV10/1/730/430"
+                },
+{                       
+     "name": "MULTICANAL 8",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "rtmp://207.244.89.21/iguide playpath=ihx72xedulmc3gp swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
                 },
 ]
 },
@@ -522,9 +527,19 @@
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENASPORT%20GROUP.jpg",
 "stations": [
 {
+     "name": "ARENASPORT 1",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Arena%20Sport%201.png",
+     "url": "http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0"
+                 },
+{
      "name": "ARENASPORT 1 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Arena%20Sport%201.png",
      "url": "acestream://5678b6325f9ba4cd18bd89a67c692c73ec75f364"
+                 },
+{
+     "name": "ARENASPORT 2",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Arena%20Sport%202.png",
+     "url": "http://89.212.240.49:11980/live/smil:366_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0"
                  },
 {
      "name": "ARENASPORT 2 ACES",
@@ -532,14 +547,29 @@
      "url": "acestream://2da4e44496ced85f8b05f4d8578d423f89a63543"
                  },
 {
+     "name": "ARENASPORT 3",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Arena%20Sport%203.png",
+     "url": "http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0"      
+                 },
+{
      "name": "ARENASPORT 3 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Arena%20Sport%203.png",
      "url": "acestream://be89761d5b3a00f685ee1dc13e4232aa48bf6f91"      
                  },
 {
+     "name": "ARENASPORT 4",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Arena%20Sport%204.png",
+     "url": "http://89.212.240.49:11980/live/smil:368_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0"      
+                 },
+{
      "name": "ARENASPORT 4 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Arena%20Sport%204.png",
      "url": "acestream://aa91ce66404752e0660079d9dbf36cb7b6f85431"      
+                 },
+{
+     "name": "ARENASPORT 5",
+     "image": "http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport5_s.gif",
+     "url": "http://89.212.240.49:11980/live/smil:369_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0"      
                  },
 {
      "name": "ARENASPORT 5 ACES",
