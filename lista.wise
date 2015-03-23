@@ -1199,6 +1199,12 @@
      "url": "http://live.oneplay.tv/reproducir/125.m3u8"
                  },
 {
+     "name": "TNT",
+     "image": "http://ohmyphone.orange.es/UpImages/ohmyphone/2011/05/tnt.jpg",
+     "url": "http://www.embeducaster.com/embedded/zeyuntn/1/620/382",
+     "isHost": "true"
+                },
+{
      "name": "SYFY",
      "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
      "url": "http://live.oneplay.tv/reproducir/141.m3u8"
