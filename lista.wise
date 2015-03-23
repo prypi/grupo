@@ -1105,32 +1105,33 @@
      "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184&autoplay=true",
      "referer": "http://cinestrenostv.tv/ver-canales-nacionales-de-españa-online-en-directo/canales/nacionales/plus1.php",
      "isHost": "true"                  
- }, 
+                }, 
 {
      "name": "CANAL + (OPC2)",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400",
      "referer": "http://cinestrenostv.tv/ver-canales-nacionales-de-españa-online-en-directo/canales/nacionales/plus1.php",
      "isHost": "true" 
- }, 
+                }, 
 {
      "name": "CANAL + HD",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
      "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184&autoplay=true",
      "referer": "http://verdirectotv.net/ver-divinity-online-en-directo-las-24horas-por-internet-gratis/", 
      "isHost": "true"
- },
+                },
 {
      "name": "CANAL + HD (OPC 2)",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
      "url": "http://www.embedezcast.com/embedded/lacham12/1/645/395",
      "isHost": "true"
- },
+                },
 {
      "name": "CANAL + (ACESTREAMS)",
      "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
      "url": "acestream://c06ee4206da9f52e00cb62023dde60fc62da64cc"
- },
+                },
+{
      "name": "C+ 2",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%202%20Hd.jpg",
      "url": "http://vercosasgratis.com/embed.php?a=6545&id=&width=650&height=400&autostart=true&strech=",
