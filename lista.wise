@@ -546,6 +546,82 @@
                  },
 ]
 },
+{
+"name": "BEIN HD",
+"image": "http://3.bp.blogspot.com/-fzuISr_gPLw/VQ9lQP9QBmI/AAAAAAAACds/ZzKLn9YXRps/s1600/bein2.jpg",
+"stations": [
+{
+                            "name": "BeinSport 1 HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1qNeBylPChRHD9WR2ldtJGtCjGf_FsOEwFLbDeObU2TaLYGS0A",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/61.ts" 
+                    },
+                    {
+                            "name": "BeinSport 2 HD",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS7F8KfoZkJE4aboxABDcqMhZoPim8k5JhODwBP3aDDRnZb5pPKQ",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/62.ts" 
+                    },
+                    {
+                            "name": "BeinSport 3 HD",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYEgyxnyqixzTuBcMeVIRmQe-b3fi5SF7IXKcU8Th1r4pKNssc",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/63.ts" 
+                    },
+                    {
+                            "name": "BeinSport 4 HD",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXa7R0A9QVrdC1OTIxKXFqYAxiUhgkOZlau29Ts1f0KC1psNfX",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/64.ts" 
+                    },
+                    {
+                            "name": "BeinSport 5 HD",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYqwpmmlQ2Pkb6EN0ffwTy_t-i2rPAI9ttrHWVH2h1AMO3xW8-SQ",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/65.ts" 
+                    },
+                    {
+                            "name": "BeinSport 6 HD",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSYKDJ5vMbUXehuVv1DX4o6QGaHxHDUENrutO79Rg4br8arn1L",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/66.ts" 
+                    },
+                    {
+                            "name": "BeinSport 7 HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc_HSJAX8yJ0z02n1a0oa-NonJN72E0_I7UDbI2J6HYovw5W1q",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/67.ts" 
+                    },
+                    {
+                            "name": "BeinSport 8 HD",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/68.ts" 
+                    },
+                    {
+                            "name": "BeinSport 9 HD",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/69.ts" 
+                    },
+                    {
+                            "name": "BeinSport 10 HD",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/70.ts" 
+                    },
+                    {
+                            "name": "BeinSport 11 HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrlarJZexboqKB12loS2hOkKipaTq7vNI9KVw5Xk-NWZKXLNzp",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/71.ts" 
+                    },
+                    {
+                            "name": "BeinSport 12 HD",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRda3AQBNJK7kuBqu8Y8ZOmb_8UQG36gmn6uBYg5YeqY9ekRABn",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/72.ts" 
+                    },
+                    {
+                            "name": "BeinSport 13 HD",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRda3AQBNJK7kuBqu8Y8ZOmb_8UQG36gmn6uBYg5YeqY9ekRABn",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/73.ts" 
+                    },
+                    {
+                            "name": "BeinSport 15 HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz9AR3jtCLLqunZDxfwHXTEJqqQ-4V2aJXoU3BaBaqrqkQMeQH",
+                            "url": "http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/75.ts" 
+                    },
+]
+},
 {                    
 "name": "EUROSPORT",
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/EUROSPORT%20GROUP.jpg",
