@@ -1199,20 +1199,14 @@
      "url": "http://live.oneplay.tv/reproducir/125.m3u8"
                  },
 {
-     "name": "TNT",
+     "name": "TNT HD",
      "image": "http://ohmyphone.orange.es/UpImages/ohmyphone/2011/05/tnt.jpg",
-     "url": "http://www.embeducaster.com/embedded/zeyuntn/1/620/382",
-     "isHost": "true"
+     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8"
                 },
 {
      "name": "SYFY",
      "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
-     "url": "http://live.oneplay.tv/reproducir/141.m3u8"
-                  },
-{
-     "name": "TNT HD",
-     "image": "http://2.bp.blogspot.com/-xE-NPwg1B-Y/US6tHr_eAGI/AAAAAAAAAIs/NnqXokvKAo4/s1600/TNT-en-Vivo-Onlinehddetv.jpg",
-     "url": "http://live.oneplay.tv/reproducir/313.m3u8"
+     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=141&lan=2&rows=40&f=.m3u8"
                   },
 {
      "name": "INFINITO",
