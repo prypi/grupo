@@ -1883,14 +1883,104 @@
                  },
 {
      "name": "CANAL FIESTA RADIO",
-     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANNd9GcSWRTjt276uR8Z3eMSBlGerYlbiRBe8IdZlWLwPPFJuxSjMBsZ4vg",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0eWEAoTGd3Rz5SdprxHfyr9GkW1xcvdUG43sIrKgN__f3yH0CmQ",
      "url": "http://195.10.10.209/rtva/canalfiestaradio_master.mp3?1426454122782.mp3"
                  },
 {
      "name": "IBIZA GLOBAL RADIO",
-     "image": "",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUEqzzmfABGmVleVR9Wy5o_UxYU98se0SiqWH8PLwlWRrCn63Lg",
      "url": "http://ibizaglobalradio.streaming-pro.com:8024/;stream/1?1426454233880.mp3"
                  },
+{
+     "name": "FUNKY RADIO",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtIMDUN9VMUQ0KkY_lfoeKT4-xzYnmMUzlSmLANngP5LsOACwz",
+     "url": "http://pub8.di.fm:80/di_djmixes_aac?1d743d40c2fab21bc0b39840"
+                 },	
+{
+     "name": "ECLECTRONIC RADIO",
+     "image": "http://theboisevenue.com/wp-content/uploads/2012/09/love_electronic_music_stromtherapie1.jpg",
+     "url": "http://pub6.di.fm:80/di_electronicpioneers_aac?1d743d40c2fab21bc0b39840"
+                 },
+{
+     "name": "DANCE RADIO",
+     "image": "http://image.shutterstock.com/display_pic_with_logo/236386/236386,1240333240,2/stock-photo-disco-dance-music-colorful-background-28908676.jpg",
+     "url": "http://pub4.di.fm:80/di_harddance_aac?1d743d40c2fab21bc0b39840"
+                 },
+{
+     "name": "TECHNO RADIO",
+     "image": "https://historiadelmundoactual.files.wordpress.com/2010/07/659946techno.jpg",
+     "url": "http://pub7.di.fm:80/di_hardcore_aac?1d743d40c2fab21bc0b39840"
+                 },
+{
+     "name": "HARDCORE RADIO",
+     "image": "http://sp3.fotolog.com/photo/19/4/63/the_jumper_tje/1200842724_f.jpg",
+     "url": "http://pub1.di.fm:80/di_hardtechno_aac?1d743d40c2fab21bc0b39840"
+                 },
+{
+     "name": "HOUSE RADIO",
+     "image": "http://1.bp.blogspot.com/-e7AgSWIATTw/UXfoQaRgTQI/AAAAAAAAAPs/HXLFPbcJQ_Q/s1600/HouseMusic+(1).jpg",
+     "url": "http://pub5.di.fm:80/di_house_aac?1d743d40c2fab21bc0b39840"
+                 },
+{
+     "name": "AMBIENT RADIO",
+     "image": "http://www.youlicense.com/Images/UserImages/eq2nfwbqdrcb2xesxxncrj45_129635094122651250_CinemaSonix.jpg",
+     "url": "http://pub7.di.fm:80/di_ambient_aac?1d743d40c2fab21bc0b39840"
+                 },
+{
+     "name": "CHILLHOP RADIO",
+     "image": "https://i.ytimg.com/vi/IbkNDq8-Csg/hqdefault.jpg",
+     "url": "http://pub8.di.fm:80/di_chillhop_aac?1d743d40c2fab21bc0b39840"
+                 },	
+{
+     "name": "RADIO LATINA",
+     "image": "http://3.bp.blogspot.com/__v5LX99CUOA/S0zmpqg2bzI/AAAAAAAAACI/Vu2fP54lOoM/s320/17915_logo.jpg",
+     "url": "http://broadcast.infomaniak.net/start-latina-high.aac"
+                 },
+{
+     "name": "RADIO SALSA",
+     "image": "http://2.bp.blogspot.com/_m9Kg0UPPPV8/TBGdLOheb0I/AAAAAAAAACA/FSZYiCSV43E/s1600/salsa_logo.jpg",
+     "url": "http://pub8.di.fm:80/di_chillhop_aac?1d743d40c2fab21bc0b39840"
+                 },	
+{
+     "name": "RADIO TOP 40",
+     "image": "http://www.radiotop40.de/imda/t401920_1080.png",
+     "url": "http://31.12.64.204:8000/A-RADIO-TOP-40"
+                 },	
+{
+     "name": "RADIO METAL",
+     "image": "http://musicwithoutborders.files.wordpress.com/2012/03/heavy-metal-logo.jpg",
+     "url": "http://hd.lagrosseradio.info:8200"
+                 },	
+{
+     "name": "RADIO ROCK",
+     "image": "http://bi.gazeta.pl/im/fd/d5/ea/z15390205Q,Logo.jpg",
+     "url": "http://hd.lagrosseradio.info:8500"
+                 },	
+{
+     "name": "RADIO REGGAE",
+     "image": "http://1.bp.blogspot.com/-mWTQx_j1tJI/TiRoyTUha0I/AAAAAAAABAM/RoSekckidrs/s400/logo_2.png",
+     "url": "http://hd.lagrosseradio.info:8300"
+                 },	
+{
+     "name": "RADIO JAZZ",
+     "image": "http://www.radiofacts.com/wp-content/uploads/2012/02/Jazz-FM-LOGO-large.jpg",
+     "url": "http://broadcast.infomaniak.net/jazzblackmusic-high.aac"
+                 },	
+{
+     "name": "RADIO AÑOS 70",
+     "image": "http://thumbs.dreamstime.com/z/peace-symbol-seventies-29358325.jpg",
+     "url": "http://31.12.64.204:8000/A-RADIO-70s-JUICE"
+                 },	
+{
+     "name": "RADIO AÑOS 80",
+     "image": "http://3.bp.blogspot.com/--BHA4_-uClE/TwuVrFW73jI/AAAAAAAAALU/fl7VZ_uFGr0/s1600/love_80s_4cd_2011.marked.jpg",
+     "url": "http://31.12.64.204:8000/A-RADIO-80s-JUICE"
+                 },	
+	{
+     "name": "RADIO AÑOS 90",
+     "image": "http://4.bp.blogspot.com/-Gc_6SgJbzh8/T94dhYIPflI/AAAAAAAAEaI/rpx_cxUvaOs/s400/90s1.jpg",
+     "url": "http://31.12.64.204:8000/A-RADIO-90s-JUICE"
+                 },				 
  
 ]
 },
