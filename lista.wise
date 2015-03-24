@@ -1805,6 +1805,92 @@
      "image": "http://1.bp.blogspot.com/-HCcqvmaEdtU/UcF5QuwaZ4I/AAAAAAAAEv4/b4cHX9qBtRo/s320/lobastv.jpg",
      "url": "http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8"
                  },
+]
+},
+{
+"name": "RADIO",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrtK-eUrAUNr6OVFuZFyCtHqIx00kvmfoalrFFr78HMenUax2TlA",
+"stations": [
+{
+     "name": "40 PRINCIPALES",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAdMoW_k1Ib7Szrz-j-K-UhFPWAvxldhAStwe-S1zzask73xuwhA",
+     "url": "http://4003.live.streamtheworld.com/LOS40_SC?1426452044507.mp3"
+                 },
+{
+     "name": "EUROPA FM",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqyknNQ5P7_U7zuhU-YOF1HiiQHBSJ1sgdwAy86K3nz1XK3Isbhw",
+     "url": "http://stream.irratia.net/1?1426452457556.aac"
+                 },
+{
+     "name": "CADENA DIAL",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnyrjzxgb-X9lCq5a_fSVjeXLBoRLgzcw2fYpo1fJy7LxGRtlI",
+     "url": "http://4003.live.streamtheworld.com/CADENADIAL_SC?1426452573536.mp3"
+                 },
+{
+     "name": "CADENA COPE",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuAObJMngT2d1DMBNd_yTjoPgev76fvaSV7-xl0jT03T_UIP5H",
+     "url": "http://195.10.10.223/cope/net1.mp3?1426452673268.mp3"
+                 },
+{
+     "name": "ONDA CERO",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8Atjqgk-JZgC7yKooIT1HDkKK174_FPCX96GDorTctUA4Dgpa8Q",
+     "url": "http://stream.ondaceronoroeste.es/ondacero.mp3?1426452810778.mp3"
+                 },
+{
+     "name": "CADENA SER",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKTQ-IQCi_kab9tnn8tQpbhKkesvNTuLAsh6LxQaIOkVn8ywzwhQ",
+     "url": "http://208.92.53.76/CADENASER.mp3?1426452887293.mp3"
+                 },
+{
+     "name": "MAXIMA FM",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTukFgnlUnALd85u7j9Jraw31XLmJf2SppyIOK-Qnwb2J6Yue4-0Q",
+     "url": "http://77.67.34.11/MAXIMAFM.mp3?1426453026485.mp3"
+                 },
+{
+     "name": "KISS FM",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkIxHlsNrqojh63OYKFAvfcq2RemcoUi8-ZS-zDPoTtgxMyhaHg",
+     "url": "http://kissfm.es.audio1.glb.ipercast.net:8000/kissfm.es/mp3?1426453111785.mp3"
+                 },
+{
+     "name": "RADIO MARCA",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQREzYKQ1npl7dnH41xDSA7cFNiLcha4IoGokFy4R97D2E0jlve",
+     "url": "http://radioweb.radiomarcabarcelona.com:9000/stream?1426453268458.mp3"
+                 },
+{
+     "name": "M80 RADIO",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUjdADIoRYEgO4JE7D7c2IzUbV2lcnuRCtiQNIFxVPGKJ-OJN",
+     "url": "http://208.92.53.87/M80RADIO.mp3?1426453367126.mp3"
+                 },
+{
+     "name": "FUN RADIO",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSypLkJDVpA_yhOZPfPwCFMqqAwxStN9sMH8L-I4kHDqpi9ozTkBA",
+     "url": "http://audio-online.net:2300/live?1426453537914.mp3"
+                 },
+{
+     "name": "ES RADIO",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI-9bj9T0W1oxFdVz0wh5oRicA6z4asNdyVZ2O5hEYK5HUyIO-",
+     "url": "http://livestreaming.esradio.fm:8000/stream64.mp3?1426453724662.mp3"
+                 },
+{
+     "name": "RADIO OLE",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1Rdy9gFdt2WbkAPGUKglegeMI6iK8yMYLVLtKAJnhwjAmxgfeQ",
+     "url": "http://5293.live.streamtheworld.com/RADIOLE_SC?1426453854051.mp3"
+                 },
+{
+     "name": "HIT FM",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi6bFDWkoMUvNvwJYx60AoPVZ2rOs_vRyn6vFp-TVU8dLa9jzF",
+     "url": "http://hitfm.es.audio1.glb.ipercast.net:8000/hitfm.es/mp3?1426453977542.mp3"
+                 },
+{
+     "name": "CANAL FIESTA RADIO",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANNd9GcSWRTjt276uR8Z3eMSBlGerYlbiRBe8IdZlWLwPPFJuxSjMBsZ4vg",
+     "url": "http://195.10.10.209/rtva/canalfiestaradio_master.mp3?1426454122782.mp3"
+                 },
+{
+     "name": "IBIZA GLOBAL RADIO",
+     "image": "",
+     "url": "http://ibizaglobalradio.streaming-pro.com:8024/;stream/1?1426454233880.mp3"
+                 },
  
 ]
 },
