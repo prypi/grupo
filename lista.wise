@@ -1636,14 +1636,84 @@
      "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=445&lan=2&rows=40&f=.m3u8"
                 },
 {
-     "name": "MUSIC ROCK",
-     "image": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/c0.0.851.315/p851x315/10387174_467927036644005_7019800983539051028_o.jpg",
+     "name": "KISS TV",
+     "image": "http://www.ranklogos.com/wp-content/uploads/2012/04/kiss-tv-logo-1.jpg",
      "url": "http://kissfm.en-directo.com/iphone/index_multirate.m3u8" 
                 },
 {
-     "name": "FIRTS MUSIC",
-     "image": "http://www.officialpsds.com/images/thumbs/A-digital-Art-piece-psd53484.png",
-     "url": "http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8"                                                                         
+     "name": "AKA TV",
+     "image": "https://pbs.twimg.com/profile_images/570583259268935680/HLC45Kid.jpeg",
+     "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8"  
+                },
+{
+     "name": "GOLD TV",
+     "image": "http://2.bp.blogspot.com/-2xAakPNmfno/VQVHDowELvI/AAAAAAAADrQ/4NuDm6EW2nk/s1600/GOLDTV-800-600.png",
+     "url": "http://87.248.160.8/edge/smil:goldtv/playlist.m3u8"
+                },
+{
+     "name": "CLUBLAND TV",
+     "image": "http://www.creativespark.co.uk/wp-content/uploads/Clubland_TV_Identity_05-940x664.jpg",
+     "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8"  
+                },
+{
+     "name": "FOR MUSIC TV",
+     "image": "http://tivibox.tv/wp-content/uploads/2014/08/logo_grande.png",
+     "url": "http://wowza1.top-ix.org:80/quartaretetv1/formusicweb/huraivza.m3u8" 
+                },
+{
+     "name": "FRESH TV",
+     "image": "http://www.oscarkuipers.nl/wp-content/uploads/2011/01/freshTV2.png",
+     "url": "http://www.planeta-online.tv:1936/live/channel_4/huraivza.m3u8"  
+                },
+{
+     "name": "GOTICA TV",
+     "image": "http://poslouchejnetradio.mzf.cz/images/tv48.jpg",
+     "url": "http://149.11.34.6:1935/live/gotica.stream/huraivza.m3u8"     
+                },
+{
+     "name": "HD-ONE-DANCE HD",
+     "image": "http://juliewight.com/wp-content/uploads/2013/11/dance-backrounds.jpg",
+     "url": "rtmp://91.201.78.3:1935/live/dancehd"  
+                },
+{
+     "name": "HD-ONE-POP HD",
+     "image": "http://2.bp.blogspot.com/-SDMkqklODGM/U0MZh-MikqI/AAAAAAAAACY/hhHJHEa3q4k/s1600/pop_music_wallpaper_by_willmourato-d5v1yri.png",
+     "url": "rtmp://91.201.78.3:1935/live/pophd" 
+                },
+{
+     "name": "ROCK ONE TV",
+     "image": "http://i.ytimg.com/vi/BJop-XdkchE/maxresdefault.jpg",
+     "url": "mmsh://mediatv2.topix.it/24RockOne66"
+                },
+{
+     "name": "VIRGIN TV",
+     "image": "http://www.cbc.ca/radio-content/archive/undertheinfluence/Virgin%20logo.jpg",
+     "url": "rtmp://fms.105.net:1935/live/virgin1" 
+                },
+{
+     "name": "DJING HD",
+     "image": "http://4.bp.blogspot.com/-flDLZ4BSVGk/VQ3zqwdbx0I/AAAAAAAAD-4/p4lc73013hs/s1600/Djing%2BHD.png",
+     "url": "http://cdn.djing.com/tv/05.m3u8" 
+                },
+{
+     "name": "IMPRESCINDIBLES TV",
+     "image": "http://www.yellowmelodies.com/e-zine/numero8/Entrevistas/DIMP/logo.jpg",
+     "url": "http://149.11.34.78:1935/live/imprestv.stream/huraivza.m3u8" 
+                },
+{
+     "name": "JAZZ TV",
+     "image": "https://lh4.googleusercontent.com/-jlwTH1xfd2o/UotMRMfgk0I/AAAAAAAAAB0/dXrJyar8Lk8/s0-d/JAZZ%2Btv%2Blogo.jpg",
+     "url": "http://149.11.34.78:1935/live/jazztv.stream/huraivza.m3u8" 
+                },
+{
+     "name": "ESKA ROCK TV",
+     "image": "http://www.proszynski.pl/images/media/logo/eska.rock.jpg",
+     "url": "rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p" 
+                },
+{
+     "name": "FIRST MUSIC HD",
+     "image": "http://4.bp.blogspot.com/-JD889URTbYA/VQIe2jsQ71I/AAAAAAAADpQ/beCA7e6XPOY/s1600/first%2Bmusic%2BHD.jpg",
+     "url": "rtmp://109.239.142.62/live/livestream3"                                                            
                 },
 {
      "name": "MESUENA TV",
@@ -1658,12 +1728,27 @@
 {
      "name": "MTV LIVE",
      "image": "http://img2.wikia.nocookie.net/__cb20130807080843/tvcable/es/images/a/ab/MTV_Live_HD.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=432&lan=2&rows=40&f=.m3u8"                                                                               
+     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=432&lan=2&rows=40&f=.m3u8"  
+               },
+{
+     "name": "MTV HITS",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/170px-MTV_HITS_logo.svg.png",
+     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=476&lan=2&rows=40&f=.m3u8" 
+               },
+{
+     "name": "MTV DANCE",
+     "image": "http://img3.wikia.nocookie.net/__cb20110701075913/logopedia/images/8/82/MTV_Dance_logo.png",
+     "url": "http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$"
                 },
 {
-     "name": "KISS",
-     "image": "http://upload.wikimedia.org/wikipedia/en/f/f9/LAKisslogo.PNG",
-     "url": "http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8"              
+     "name": "MTV ROCKS",
+     "image": "http://4.bp.blogspot.com/-xu9fEVGoexc/TgJ9R7snjyI/AAAAAAAAAUQ/7iVvBPVLJnM/s1600/MTV+Rocks+logo.png",
+     "url": "http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?b?b*t$"                                                                             
+                },
+{
+     "name": "STAGE TV",
+     "image": "http://www.stagetv.org/StageTV-Logo-final-320px.png",
+     "url": "http://149.11.34.6:1935/live/stagetv.stream/huraivza.m3u8"              
                 },
 {
      "name": "URBAN TV",
@@ -1676,9 +1761,9 @@
      "url": "http://91.82.85.16:1935/relay15/nettv03_channel_1/HasBahCa.m3u8"
                 },
 {
-     "name": "PEPSI MTV",
-     "image": "http://www.rocktails.com.ar/wp-content/uploads/LogoPepsiMusic.jpg",
-     "url": "http://mtvindieschannel-lh.akamaihd.net/i/mtv_1@186176/master.m3u8"
+     "name": "XITE TV",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png",
+     "url": "http://highvolume02.streampartner.nl:80/vleugels2/livestream/huraivza.m3u8"
                 },
 {
      "name": "VHN",
@@ -1701,9 +1786,9 @@
      "url": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8"                                     
                 },
 {
-     "name": "MUSIC BLACK",
-     "image": "http://upload.wikimedia.org/wikipedia/fr/f/f0/M6_Black_Logo.png",
-     "url": "https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_black_hls_aes/m6_music_black_hls_aes_856.m3u8"       
+     "name": "M6 MUSIC",
+     "image": "http://2.bp.blogspot.com/-JBjcmWGlRNc/VQVBZElO4xI/AAAAAAAADqs/2-cb35P14ZU/s1600/M6_Music_2012.png",
+     "url": "http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8"      
                 },
 {
      "name": "TELEHIT HD",
