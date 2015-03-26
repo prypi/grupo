@@ -1072,10 +1072,10 @@
                 },
 {
      "name": "CANAL + ACCION",
-     "image": "http://3.bp.blogspot.com/-U3q8WYbjQK8/UxTcqbZ-dpI/AAAAAAAABM0/CovPlwMZ8SM/s1600/CanalPlusAccion.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plusaccion&w=670&h=400",
-     "referer": "http://cinestrenostv.tv/canales/nacionales/plus-accion.php",
-     "isHost": "true"
+     "image": "http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-22-300x163.jpg",
+      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plusaccion&w=670&h=400",
+       "isHost": "true",
+       "referer": "http://streamingfreetv.net/canal-accion/"
                  },
 {
      "name": "CANAL + COMEDIA",
