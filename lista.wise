@@ -228,68 +228,6 @@
                  },
 ]
 },
-{
-"name": "BEIN HD ",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT93BiSYzCGrKPbMrf4e61WxF7a_hpZJHIsRpDqoOjDVlyPzJj9",
-"stations": [
-            {   
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1qNeBylPChRHD9WR2ldtJGtCjGf_FsOEwFLbDeObU2TaLYGS0A",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=?#?ed?%h0#w18623jsda6523lDGD" 
-                    },
-                    {
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS7F8KfoZkJE4aboxABDcqMhZoPim8k5JhODwBP3aDDRnZb5pPKQ",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
-                    },
-                    {
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYEgyxnyqixzTuBcMeVIRmQe-b3fi5SF7IXKcU8Th1r4pKNssc",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://195.154.235.85:80/liverepeater playpath=302401 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXa7R0A9QVrdC1OTIxKXFqYAxiUhgkOZlau29Ts1f0KC1psNfX",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://195.154.232.181:80/liverepeater playpath=302402 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYqwpmmlQ2Pkb6EN0ffwTy_t-i2rPAI9ttrHWVH2h1AMO3xW8-SQ",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://89.248.168.57/iguide playpath=j7sit90urz5t7al swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
-                    },
-                    {
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSYKDJ5vMbUXehuVv1DX4o6QGaHxHDUENrutO79Rg4br8arn1L",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://195.154.235.85:80/liverepeater playpath=302403 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc_HSJAX8yJ0z02n1a0oa-NonJN72E0_I7UDbI2J6HYovw5W1q",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://195.154.252.188:80/liverepeater playpath=302404 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://89.248.172.95/iguide playpath=7x7mk11j8hypr5q swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
-                    },
-                    {
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://195.154.168.214:80/liverepeater playpath=302401 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://94.102.63.54/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
-                    },
-					{
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtJev1HJLmYhI2WJ42nvdNeQtFs5ZwfNlrGffMXSG9Qposl9gwag",
-                            "url": "rtmp://$OPT:rtmp-raw=rtmp://93.174.93.230/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
-                    },
-				 
-]
-},
 {                    
 "name": "TYC SPORTS",
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/TYC%20SPORTS.jpg",
@@ -587,7 +525,61 @@
      "image": "http://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",
      "url": "acestream://68796ea2df046d9ecdd3d469e143abe039792ea0"      
                  },
-
+{   
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1qNeBylPChRHD9WR2ldtJGtCjGf_FsOEwFLbDeObU2TaLYGS0A",
+                            "url": "rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=?#?ed?%h0#w18623jsda6523lDGD" 
+                    },
+                    {
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS7F8KfoZkJE4aboxABDcqMhZoPim8k5JhODwBP3aDDRnZb5pPKQ",
+                            "url": "rtmp://89.248.169.48/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
+                    },
+                    {
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYEgyxnyqixzTuBcMeVIRmQe-b3fi5SF7IXKcU8Th1r4pKNssc",
+                            "url": "rtmp://195.154.235.85:80/liverepeater playpath=302401 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
+                    },
+                    {
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXa7R0A9QVrdC1OTIxKXFqYAxiUhgkOZlau29Ts1f0KC1psNfX",
+                            "url": "rtmp://195.154.232.181:80/liverepeater playpath=302402 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
+                    },
+                    {
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYqwpmmlQ2Pkb6EN0ffwTy_t-i2rPAI9ttrHWVH2h1AMO3xW8-SQ",
+                            "url": "rtmp://89.248.168.57/iguide playpath=j7sit90urz5t7al swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
+                    },
+                    {
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSYKDJ5vMbUXehuVv1DX4o6QGaHxHDUENrutO79Rg4br8arn1L",
+                            "url": "rtmp://195.154.235.85:80/liverepeater playpath=302403 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
+                    },
+                    {
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc_HSJAX8yJ0z02n1a0oa-NonJN72E0_I7UDbI2J6HYovw5W1q",
+                            "url": "rtmp://195.154.252.188:80/liverepeater playpath=302404 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
+                    },
+                    {
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
+                            "url": "rtmp://89.248.172.95/iguide playpath=7x7mk11j8hypr5q swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
+                    },
+                    {
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
+                            "url": "rtmp://195.154.168.214:80/liverepeater playpath=302401 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch" 
+                    },
+                    {
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
+                            "url": "rtmp://94.102.63.54/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
+                    },
+					{
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtJev1HJLmYhI2WJ42nvdNeQtFs5ZwfNlrGffMXSG9Qposl9gwag",
+                            "url": "rtmp://93.174.93.230/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
+                    },				 
 ]
 },
 {                    
@@ -680,13 +672,23 @@
 ]
 },
 {                    
-"name": "GOLF",
-"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz4kiC2O1wk7py1zWI2DiwJ_wxh8MzAEB10OMXmNKUOEAQIHWT",
+"name": "VIASAT SPORT",
+"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtJYXPx9P0SsC1oJPGoPqO1x618dHndZXK2WtFEzcIxvOE__VQ8A",
 "stations": [
 {                                      
      "name": "VIASAT GOLF",
      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTausTHVsY0crC1JumpmWqVWYNROeDKhegvc8KI9ylBrz2Ew83c",
      "url": "http://93.184.221.133/00573D/911/911-0.m3u8"
+                 },
+{                                      
+     "name": "VIASAT GOLF 2",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyN0twdy-fBNpx9SlNg1z7rEb-F4LcURxQ_stapIztGk8ox5lq",
+     "url": "http://93.184.221.133/00573D/204/204-0.m3u8"
+                 },
+{                                      
+     "name": "VIASAT FOOTBALL",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc3yVvGWl7_YvG64W-SYs4P71GGrnhE7SNu2OUPBrp_yvHMAdVTw",
+     "url": "http://93.184.221.133/00573D/1341/1341-0.m3u8"
                  },				 
 ]
 },
