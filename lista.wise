@@ -505,31 +505,7 @@
 "name": "BEIN SPORT",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFH5CKu4ylKbtgDqS0670VA3pz9mICWkMXquhaOmMQDy7953IrA",
 "stations": [
-{
-     "name": "BEIN 1",
-     "image": "http://advar.ps/wp-content/uploads/2014/04/beIN-SPORT-1.jpg",
-     "url": "http://2co1.vp9.tv/chn/bin01/v.m3u8"
-                 },
-{
-     "name": "BEIN 1 FR ACES",
-     "image": "http://advar.ps/wp-content/uploads/2014/04/beIN-SPORT-1.jpg",
-     "url": "acestream://8bf226aaa56d4666aadd19a8313947c470ca7f31"
-                 },
-{
-     "name": "BEIN 2",
-     "image": "http://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",
-     "url": "http://2co1.vp9.tv/chn/bin02/v.m3u8"      
-                 },
-{
-     "name": "BEIN 2 FR ACES",
-     "image": "http://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",
-     "url": "acestream://68796ea2df046d9ecdd3d469e143abe039792ea0"      
-                 },
-{   
-                            "name": "BeinSport HD",
-                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1qNeBylPChRHD9WR2ldtJGtCjGf_FsOEwFLbDeObU2TaLYGS0A",
-                            "url": "rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=?#?ed?%h0#w18623jsda6523lDGD" 
-                    },
+
                     {
                             "name": "BeinSport HD",
                             "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS7F8KfoZkJE4aboxABDcqMhZoPim8k5JhODwBP3aDDRnZb5pPKQ",
