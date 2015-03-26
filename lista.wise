@@ -23,12 +23,6 @@
      "isHost": "true"                
                 },				 
 {
-     "name": "CANAL + LIGA (EVENTOS)",
-     "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
-     "url": "http://www.embedezcast.com/embedded/puerrol/1/645/395",
-     "isHost": "true"
-               },
-{
      "name": "LIGA (ACESTREAMS)",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
      "url": "acestream://7889394a083203f4ddddf571ab7b52d34e8e9b3a"
@@ -292,7 +286,7 @@
 {
      "name": "BT SPORT 1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt1.jpg",
-     "url": "rtmp://167.114.117.208/live/bt1v"
+     "url": "http://198.27.94.105/hls/74274c42d914378e8798b588f8ee9bb6.m3u8"
                 },
 {
      "name": "BT SPORT 1 ACES",
@@ -302,7 +296,7 @@
 {
      "name": "BT SPORT 2",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt%20Soprt%201.jpg",
-     "url": "rtmp://167.114.117.208/live/bt2v"
+     "url": "http://198.27.94.105/hls/a7acde0d2196acbda664518913bf747b.m3u8"
                  },
 {
      "name": "BT SPORT 2 ACES",
@@ -360,7 +354,7 @@
 {                                      
      "name": "SKY SPORTS 1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%201.png",
-     "url": "rtmp://167.114.117.208/live/sky1v"                                                                                        
+     "url": "http://198.27.94.105/hls/08ec7ff2ef9edbad23896cc67fceacf1.m3u8"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 1 ACES",
@@ -370,7 +364,7 @@
 {                                      
      "name": "SKY SPORTS 2",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%202.png",
-     "url": "rtmp://167.114.117.208/live/sky2v"                                                                                        
+     "url": "http://198.27.94.105/hls/925f9084c858a337f3dece668fc2225b.m3u8"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 2 ACES",
@@ -380,7 +374,7 @@
 {                                      
      "name": "SKY SPORTS 3",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%203.png",
-     "url": "rtmp://167.114.117.208/live/sky3v"                                                                                        
+     "url": "http://198.27.94.105/hls/cd4e1458de3c2c6b3a84ae44c0f53858.m3u8"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 3 ACES",
@@ -390,7 +384,7 @@
 {                                      
      "name": "SKY SPORTS 4",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%204.png",
-     "url": "rtmp://167.114.117.208/live/sky4v"                                                                                        
+     "url": "http://198.27.94.105/hls/39618065659a8c0c3384e140371db91e.m3u8"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 4 ACES",
@@ -400,7 +394,7 @@
 {                                      
      "name": "SKY SPORTS 5",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg",
-     "url": "acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b"                                                                                        
+     "url": "http://198.27.94.105/hls/0990d7f8faca7d7e885e5a21297ca878.m3u8"                                                                                        
                  },
 {
         "name": "SKY SPORTS 5 ACES",
@@ -433,6 +427,11 @@
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Extreme%20Sport%20Channel.png",
      "url": "acestream://257b676170ba09b8a26989cdad18173c4d1fa551"
                  },
+{
+        "name": "EXTREME SPORTS (OPC)",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV0V9MM9CjMUwae90X9pgt_YZB20MtRYg_Bnhc8bnjGth1PRvlEQ",
+     "url": "http://178.49.132.73/streaming/extreme_sports/tvrec/playlist.m3u8"
+                 },				 
 {                      
      "name": "FIGHTBOX",
      "image": "https://www.rokuchannels.tv/wp-content/uploads/2013/10/fightbox_live_roku1.png",
@@ -616,6 +615,17 @@
      "image": "http://cdn.fansided.com/wp-content/blogs.dir/259/files/2014/05/ncaa-basketball-oregon-state-colorado.jpg",
      "url": "http://xrxs.net/video/live-p12netw-2328.m3u8"
                  },
+]
+},
+{                    
+"name": "GOLF",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz4kiC2O1wk7py1zWI2DiwJ_wxh8MzAEB10OMXmNKUOEAQIHWT",
+"stations": [
+{                                      
+     "name": "VIASAT GOLF",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTausTHVsY0crC1JumpmWqVWYNROeDKhegvc8KI9ylBrz2Ew83c",
+     "url": "http://93.184.221.133/00573D/911/911-0.m3u8"
+                 },				 
 ]
 },
 {                    
@@ -1730,6 +1740,16 @@
      "image": "http://1.bp.blogspot.com/-HCcqvmaEdtU/UcF5QuwaZ4I/AAAAAAAAEv4/b4cHX9qBtRo/s320/lobastv.jpg",
      "url": "http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8"
                  },
+{
+     "name": "MUSIC BOX",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSd3PAGZa6JygjfW9gMxernfytGKF-u0HDh2D_11jrb3xmbVBXpWg",
+     "url": "http://87.245.214.43/streaming/musboxtv/16/tvrec/playlist.m3u8"
+                 },
+{
+     "name": "MUSIC BOX (RU)",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFH_nyhUEn14JjrBh4avDHuk8VyxGnDejndfveZypXfagLMs8_",
+     "url": "http://87.245.214.43/streaming/musboxru/16/tvrec/playlist.m3u8"
+                 },				 
 ]
 },
 {
@@ -1875,7 +1895,17 @@
      "name": "RADIO METAL",
      "image": "http://musicwithoutborders.files.wordpress.com/2012/03/heavy-metal-logo.jpg",
      "url": "http://hd.lagrosseradio.info:8200"
-                 },	
+                 },
+{
+     "name": "RADIO METALLICA",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkmubMn7S1VASt4JdgoPujkrrtwSmhVAzDxEfsLzsZBKt4CnR",
+     "url": "http://107.6.132.210:9400/"
+                 },
+{
+     "name": "RADIO AC/DC",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMtY9Xwp_Q4dQkMLTmvTWuL1kDOT-wKKrXlVwZRTaVCoTp0FGvYQ",
+     "url": "http://69.175.22.146:7016/"
+                 },				 
 {
      "name": "RADIO ROCK",
      "image": "http://bi.gazeta.pl/im/fd/d5/ea/z15390205Q,Logo.jpg",
@@ -1910,4 +1940,4 @@
 ]
 },
 ]
-}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+}
