@@ -229,10 +229,10 @@
 ]
 },
 {
-"name": "BEIN HD y BEIN SD",
+"name": "BEIN HD ",
 "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT93BiSYzCGrKPbMrf4e61WxF7a_hpZJHIsRpDqoOjDVlyPzJj9",
 "stations": [
-{
+            {   
                             "name": "BeinSport HD",
                             "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1qNeBylPChRHD9WR2ldtJGtCjGf_FsOEwFLbDeObU2TaLYGS0A",
                             "url": "rtmp://$OPT:rtmp-raw=rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=?#?ed?%h0#w18623jsda6523lDGD" 
@@ -287,11 +287,7 @@
                             "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtJev1HJLmYhI2WJ42nvdNeQtFs5ZwfNlrGffMXSG9Qposl9gwag",
                             "url": "rtmp://$OPT:rtmp-raw=rtmp://93.174.93.230/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD" 
                     },
-]
-},
-]
-},
-{				 
+				 
 ]
 },
 {                    
@@ -1816,10 +1812,6 @@
      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFH_nyhUEn14JjrBh4avDHuk8VyxGnDejndfveZypXfagLMs8_",
      "url": "http://87.245.214.43/streaming/musboxru/16/tvrec/playlist.m3u8"
                  },
-]
-},
-]
-},
 ]
 },
 {
