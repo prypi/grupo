@@ -42,6 +42,11 @@
      "isHost": "true"
                 },
 {
+     "name": "CANAL + DEPORTES 3",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/lacasa2_live@125189/master.m3u8"
+     			},
+{
      "name": "CANAL + FUTBOL",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
      "url": "http://www.embedezcast.com/embedded/puerrof2/1/645/395", 
@@ -111,7 +116,7 @@
                  },
 {
      "name": "MOVISTAR F1 (ACESTREAMS)",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/movistar%20F1.jpg",
+     "image": "http://motordigital.com/files/2014/02/movistar_tv_f1_motogp_motordigital.jpg",
      "url": "acestream://55ad9575a54e58c68b7c00773a9d89c7e1edb465" 
                  },
 {
@@ -179,6 +184,18 @@
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
      "url": "acestream://aad6e5b9735c14f9fce89e4edc3451ba91188a8d"
                 },
+]
+},
+{ 
+"name": "GOL TV",
+"image": "http://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png",
+"stations": [
+{ 
+ "name": "GOL TV",
+ "image": "http://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png",
+ "url": "http://castalba.tv/embed.php?cid=26272&wh=610&ht=420&r=www.pirlotvlive.com",
+ "isHost": "true"
+               },				
 ]
 },
 {                    
@@ -261,16 +278,16 @@
                 },
 ]
 },
-{                    
+{ 
 "name": "CMD",
-"image": "http://4.bp.blogspot.com/-QisruH5vdzA/USFSrzuw3GI/AAAAAAAAAQ0/wYdY95u81e0/s1600/CMD_DEPORTES.png",
+"image": "http://img3.wikia.nocookie.net/__cb20120923004448/logopedia/images/a/a2/CMD_Logo.png",
 "stations": [
-{                       
-     "name": "CMD",
-     "image": "http://4.bp.blogspot.com/-QisruH5vdzA/USFSrzuw3GI/AAAAAAAAAQ0/wYdY95u81e0/s1600/CMD_DEPORTES.png",
-     "url": "http://www.mips.tv/embedplayer/zeyucmd555/1/620/382",
-     "isHost": "true"
-                },
+{ 
+ "name": "CMD",
+ "image": "http://img3.wikia.nocookie.net/__cb20120923004448/logopedia/images/a/a2/CMD_Logo.png",
+ "url": "http://www.embeducaster.com/embedded/zeyu2100/1/620/382",
+ "isHost": "true"
+ },
 ]
 },
 ]
@@ -448,11 +465,6 @@
      "url": "rtmp://167.114.117.208/live/skynationv"                      
                  },
 {
-     "name": "BOX NATION ACES",
-     "image": "http://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",
-     "url": "rtmp://167.114.117.208/live/skynationv"                      
-                 },
-{
         "name": "MOTORS TV ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Motors%20Tv.png",
      "url": "acestream://3befdd17c4ac7e3e33010738d413257389c6a244"
@@ -505,7 +517,31 @@
 "name": "BEIN SPORT",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFH5CKu4ylKbtgDqS0670VA3pz9mICWkMXquhaOmMQDy7953IrA",
 "stations": [
-
+{
+     "name": "BEIN 1",
+     "image": "http://advar.ps/wp-content/uploads/2014/04/beIN-SPORT-1.jpg",
+     "url": "http://2co1.vp9.tv/chn/bin01/v.m3u8"
+                 },
+{
+     "name": "BEIN 1 FR ACES",
+     "image": "http://advar.ps/wp-content/uploads/2014/04/beIN-SPORT-1.jpg",
+     "url": "acestream://8bf226aaa56d4666aadd19a8313947c470ca7f31"
+                 },
+{
+     "name": "BEIN 2",
+     "image": "http://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",
+     "url": "http://2co1.vp9.tv/chn/bin02/v.m3u8"      
+                 },
+{
+     "name": "BEIN 2 FR ACES",
+     "image": "http://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",
+     "url": "acestream://68796ea2df046d9ecdd3d469e143abe039792ea0"      
+                 },
+{   
+                            "name": "BeinSport HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1qNeBylPChRHD9WR2ldtJGtCjGf_FsOEwFLbDeObU2TaLYGS0A",
+                            "url": "rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/p…/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=?#?ed?%h0#w18623jsda6523lDGD" 
+                    },
                     {
                             "name": "BeinSport HD",
                             "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS7F8KfoZkJE4aboxABDcqMhZoPim8k5JhODwBP3aDDRnZb5pPKQ",
