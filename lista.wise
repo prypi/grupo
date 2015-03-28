@@ -21,7 +21,18 @@
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400",
      "referer": "http://cinestrenostv.tv/ver-canales-nacionales-de-españa-online-en-directo/canales/nacionales/plus1.php",
      "isHost": "true"                
-                },				 
+                },
+{
+     "name": "BEIN ESPAÑOL",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
+     "url": "http://www.liveflashplayer.net/embedplayer/asdf3asd56fasdfassass/1/650/420",
+     "isHost": "true"                
+                },
+{
+     "name": "ELGOLES",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7zdMQJ3dc45GXEiL-TSid7pa-3K9miYpj-7SJZSm8lBZRr11k",
+     "url": "http://edge.hls.dt.hitbox.tv/hls/vghftr/index.m3u8"
+                 },				
 {
      "name": "LIGA (ACESTREAMS)",
      "image": "http://4.bp.blogspot.com/-Nt03xrBqZnw/UQMlj2WYYiI/AAAAAAAAAJE/zMAkjIxXHyA/s1600/plus-liga.jpg",
@@ -75,6 +86,11 @@
      "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
      "url": "rtmp://95.211.211.222/iguide playpath=wynj5ay2hae8dzy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
                 },
+{
+     "name": "SPORTMANIA",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sportmania.png",
+     "url": "rtmp://207.244.67.22/iguide playpath=ihx72xedulmc3gp swfUrl=http://http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
+                },				
 {
      "name": "SPORTMANIA (ACESTREAMS)",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sportmania.png",
@@ -157,6 +173,31 @@
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
      "url": "http://www.mips.tv/embedplayer/REVOLUCIONARIOSTV10/1/730/430"
                 },
+{                       
+     "name": "MULTICANAL 5",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "http://cctv2-lh.akamaihd.net/i/lacasa2_live@125189/master.m3u8"
+                },
+{                       
+     "name": "MULTICANAL EL GOLES",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "http://cctv-lh.akamaihd.net/i/hgfgtytr_live@125112/index_1080p_av-p.m3u8"
+                },
+{                       
+     "name": "MULTICANAL MAX DEPORT",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "rtmp://95.211.186.156/iguide playpath=rsti7dr3y0d6ek5 swfUrl=http://http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
+                },
+{                       
+     "name": "MULTICANAL MOTOSMEDIA",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "http://cctv2-lh.akamaihd.net/i/Mostomedia4_live@125197/master.m3u8"
+                },
+	{                       
+     "name": "MULTICANAL MOTOSMEDIA (OPC2)",
+     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
+     "url": "http://cctv2-lh.akamaihd.net/i/MostoMedia1_live@125196/master.m3u8"
+                },			
 ]
 },
 ]
@@ -243,6 +284,24 @@
      "image": "http://www.portalhdtvemfortaleza.com.br/wp-content/uploads/2013/07/fox-sports-2-hd-na-sky.jpg",
      "url": "http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?"
                  },
+{
+     "name": "FOX SPORT 3 MOTOGP",
+     "image": "http://www.ipuntotv.com/IMAGES/FoxSports_Logos_Fox%20Sports%203.jpg",
+     "url": "http://www.embeducaster.com/embedded/fox3perusalem/1/600/385",
+	 "isHost": "true"
+                 },
+]
+},
+{ 
+"name": "UNIVISION DEPORTES",
+"image": "http://corporate.univision.com/wp-content/uploads/2012/01/UnivisionDeportes_Hero_780x439.jpg",
+"stations": [
+{ 
+       "name": "UNIVISION DEPORTES",
+       "image": "http://corporate.univision.com/wp-content/uploads/2012/01/UnivisionDeportes_Hero_780x439.jpg",
+       "url": "http://www.mipsplayer.com/embedplayer/asdf3asdfasdfasss/1/620/382",
+       "isHost": "true"
+                   }, 
 ]
 },
 {                    
