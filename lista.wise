@@ -232,27 +232,22 @@
 {
      "name": "ESPN",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN.png",
-     "url": "http://live.oneplay.tv/reproducir/405.m3u8"
-                 },
-{
-     "name": "ESPN DEPORTES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN%20DEPORTES.jpg",
-     "url": "rtmp://50.7.78.138:443/live/live_psntv_espnd39"
+     "url": "http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8"
                  },
 {
      "name": "ESPN HD",
      "image": "http://www.nctc.com/wp-content/uploads/2012/08/espn.png",
-     "url": "http://live.oneplay.tv/reproducir/389.m3u8"
+     "url": "http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8"
                  },
 {
      "name": "ESPN 2",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN2.jpg",
-     "url": "http://live.oneplay.tv/reproducir/409.m3u8"
+     "url": "http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8"
                  },
 {
      "name": "ESPN 3",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN3.jpg",
-     "url": "http://live.oneplay.tv/reproducir/393.m3u8"                                       
+     "url": "http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8"                                       
                  },
 ]
 },
@@ -1509,22 +1504,32 @@
 {
      "name": "A&E",
      "image": "http://blog.cablevision.net.mx/wp-content/uploads/2011/06/AEHD.jpg",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=106&lan=2&rows=40&f=.m3u8"
+     "url": "http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8"
                  },
+{
+     "name": "TRU TV",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2GMDuXMTnxRUfK2DF6jfc7XVoOgSqG5H8HEKYQSuTVuk746VB",
+     "url": "http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8"
+                 },
+{
+     "name": "GARAGE TV",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPXHSUR0kuSEqdSpntF_fRvUrT9p2VJ4okLQEitdAW6yJKqqQG",
+     "url": "http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8"
+                 },					 
 {    
      "name": "ANIMAL PLANET",
      "image": "http://upload.wikimedia.org/wikipedia/en/3/3a/Animal_Planet_Canada_Logo.PNG",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&rows=40&f=.m3u8"       
+     "url": "http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8"       
                  },
 {
      "name": "CASA",
      "image": "http://previews.123rf.com/images/glopphy/glopphy1112/glopphy111200030/11591198-house-and-keys-creative-logo-design-home.jpg",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?"
+     "url": "http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8"
                  },
 {
      "name": "DISCOVERY",
      "image": "http://labandasesupera.files.wordpress.com/2010/05/discovery_channel_logo_320.jpg",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=258&lan=2&rows=40&f=.m3u8"
+     "url": http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8""
                  },
 {
      "name": "DISCOVERY CIVILIZATION",
@@ -1534,12 +1539,12 @@
 {
      "name": "DISCOVERY INVESTIGACION",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/discovery%20investigacion.jpg",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=153&lan=2&rows=40&f=.m3u8"  
+     "url": "http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8"  
                  },
 {
      "name": "DISCOVERY THEATRE",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/discovery%20theatre.jpg",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=241&lan=2&rows=40&f=.m3u8"  
+     "url": "http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8"  
                  },
 {
      "name": "DISCOVERY TURBO",
@@ -1552,24 +1557,34 @@
      "url": "http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?"  
                  },
 {
+     "name": "DISCOVERY WORLD",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlHtejJSreZi6A5vlPvlxjK-xHRYuJ_QuzxXFxys-US8ZXraKp",
+     "url": "http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8"  
+                 },	
+{
+     "name": "LIFE TIME",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDSo6BL5cQxGQmxdxcDBRXTnfOvKZBnxoJKFteEj7j_9s6GCPf",
+     "url": "http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8"
+                 },
+	{
+     "name": "TLC",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjO2-F_6YtAyUhmuHgU0pvHNYGn_E2o7RY6RefJsUl1Bl74bbSEA",
+     "url": "http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8"
+                 },			 
+{
      "name": "HISTORIA",
      "image": "http://img2.wikia.nocookie.net/__cb20100604120138/logopedia/images/a/a2/Canal_de_Historia.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=246&lan=2&rows=40&f=.m3u8"
-                 },
-{
-     "name": "HOGAR UTIL",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/hogar_util.jpg",
-     "url": "http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573"
+     "url": "http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8"
                  },
 {
      "name": "HOME & HEALTH",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/home%26health.jpg",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=266&lan=2&rows=40&f=.m3u8"
+     "url": "http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8"
                  },
 {
      "name": "NATIONAL GEOGRAPHIC",
-     "image": "http://img3.wikia.nocookie.net/__cb20100927231400/logopedia/images/f/ff/National_Geographic_Society.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=270&lan=2&rows=40&f=.m3u8"       
+     "image": "http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8",
+     "url": ""       
                  },
 {
      "name": "NATURA",
@@ -1581,12 +1596,12 @@
 {
      "name": "NAT GEO WILD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/National%20Geographic%20Wild.jpg",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=250&lan=2&rows=40&f=.m3u8"
+     "url": "http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8"
                 },
 {    
      "name": "WOBI",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/WOBI.jpg",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=294&lan=2&rows=40&f=.m3u8"       
+     "url": "http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8"       
                  },
 ]
 },
