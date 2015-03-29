@@ -17,7 +17,7 @@
 "stations": [
 {
      "name": "CANAL +",
-     "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
+     "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400",
      "referer": "http://cinestrenostv.tv/ver-canales-nacionales-de-españa-online-en-directo/canales/nacionales/plus1.php",
      "isHost": "true"                
@@ -39,21 +39,12 @@
      "url": "acestream://7889394a083203f4ddddf571ab7b52d34e8e9b3a"
                  },				 
 {
-     "name": "CANAL + DEPORTES",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=181&autoplay=true",
-     "referer": "http://verdirectotv.net/ver-divinity-online-en-directo-las-24horas-por-internet-gratis/",                        
-     "isHost": "true"
+     "name": "CANAL + DEPORTES HD",
+     "image": "http://www.adslzone.tv/app/uploads/2011/03/canalplus_deportes_hd.png",
+     "url": "http://cctv2-lh.akamaihd.net/z/lacasa2_live@125189/master.m3u8"
                 },
 {
-     "name": "CANAL + DEPORTES 2",
-     "image": "http://img2.wikia.nocookie.net/__cb20150205123511/logopedia/images/8/84/Canal_%2B_HD_Deportes_2.png",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=88&autoplay=true",
-     "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
-     "isHost": "true"
-                },
-{
-     "name": "CANAL + DEPORTES 3",
+     "name": "CANAL + DEPORTES 1",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/2000px-Canal%2B_Deportes_2008.svg.png",
      "url": "http://cctv2-lh.akamaihd.net/i/lacasa2_live@125189/master.m3u8"
      			},
@@ -85,11 +76,6 @@
      "name": "GOL TV (OPCION 2)",
      "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
      "url": "rtmp://95.211.211.222/iguide playpath=wynj5ay2hae8dzy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
-                },
-{
-     "name": "SPORTMANIA",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sportmania.png",
-     "url": "rtmp://207.244.67.22/iguide playpath=ihx72xedulmc3gp swfUrl=http://http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
                 },				
 {
      "name": "SPORTMANIA (ACESTREAMS)",
@@ -179,15 +165,10 @@
      "url": "http://cctv2-lh.akamaihd.net/i/lacasa2_live@125189/master.m3u8"
                 },
 {                       
-     "name": "MULTICANAL EL GOLES",
-     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/hgfgtytr_live@125112/index_1080p_av-p.m3u8"
-                },
-{                       
-     "name": "MULTICANAL MAX DEPORT",
-     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "rtmp://95.211.186.156/iguide playpath=rsti7dr3y0d6ek5 swfUrl=http://http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
-                },
+     "name": "MULTICANAL 6",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?cid=20232337"
+                },				
 {                       
      "name": "MULTICANAL MOTOSMEDIA",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
@@ -332,8 +313,9 @@
 "stations": [
 {                       
      "name": "DIRECTV SPORTS",
-     "image": "http://tododeportesusa.com/portal/images/demo/logo02.png",
-     "url": "http://www.canalvivo.com.ar/wp-content/uploads/2013/06/directv.jpg"
+     "image": "http://i.imgur.com/lSKat26.png",
+     "url": "http://castalba.tv/embed.php?cid=26544&wh=620&ht=382&r=soloveodeportes.co",
+	  "isHost": "true"
                 },
 ]
 },
@@ -750,17 +732,7 @@
      "name": "VIASAT GOLF",
      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTausTHVsY0crC1JumpmWqVWYNROeDKhegvc8KI9ylBrz2Ew83c",
      "url": "http://93.184.221.133/00573D/911/911-0.m3u8"
-                 },
-{                                      
-     "name": "VIASAT GOLF 2",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyN0twdy-fBNpx9SlNg1z7rEb-F4LcURxQ_stapIztGk8ox5lq",
-     "url": "http://93.184.221.133/00573D/204/204-0.m3u8"
-                 },
-{                                      
-     "name": "VIASAT FOOTBALL",
-     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc3yVvGWl7_YvG64W-SYs4P71GGrnhE7SNu2OUPBrp_yvHMAdVTw",
-     "url": "http://93.184.221.133/00573D/1341/1341-0.m3u8"
-                 },				 
+                 },			 
 ]
 },
 {                    
@@ -850,27 +822,27 @@
 {
      "name": "ARENAVISION 1 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
-     "url": "acestream://95a000e77f1edc7c2a8ef05c1748f509d5187046"
+     "url": "acestream://993da7094652a122420e81e9abd3aafe5d5090a8"
                  },
 {
      "name": "ARENAVISION 2 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
-     "url": "acestream://0570a2e652f4131c30d6233ec10c76f1df59eec5"
+     "url": "acestream://b592d53fe8860ea88e9e80432d458d334e955b86"
                  },
 {
      "name": "ARENAVISION 3 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
-     "url": "acestream://5e853e113756d09e1f9e1cfff9d54fa857361e0e"
+     "url": "acestream://f766246706d3f363c3af006630f252183647042c"
                  },
 {
      "name": "ARENAVISION 4 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
-     "url": "acestream://fca8a95b4bc8feca80617697c3a57a48561126a4"
+     "url": "acestream://a3c9a6e0b2bf04957bfe9819be067c1da9cd8f6b"
                  },
 {
      "name": "ARENAVISION 5 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
-     "url": "acestream://0937bf05113d65c736d9cf52197b6c91124d4608"
+     "url": "acestream://bf0fd488f5d3ed9c938633576a66917d02b3773d"
                  },
 {
         "name": "ARENAVISION 6 SOP",
@@ -942,6 +914,11 @@
      "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"          
                  },
+{
+     "name": "ANTENA3 HD",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antena3hd.png/200px-Antena3hd.png",
+     "url": "http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on"
+                },				 
 {
      "name": "CUATRO HD",
      "image": "http://upload.wikimedia.org/wikipedia/en/6/68/CuatroTV.png",
@@ -1169,27 +1146,27 @@
 "stations": [
 {                              
      "name": "CANAL +",
-     "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
+     "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400",
      "referer": "http://cinestrenostv.tv/ver-canales-nacionales-de-españa-online-en-directo/canales/nacionales/plus1.php",
      "isHost": "true"                  
                 },     
 {
      "name": "CANAL + HD",
-     "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
+     "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
      "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184&autoplay=true",
      "referer": "http://verdirectotv.net/ver-divinity-online-en-directo-las-24horas-por-internet-gratis/",                        
      "isHost": "true"
                 },
 {
      "name": "CANAL + HD (OPC 2)",
-     "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
+     "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
      "url": "http://www.embedezcast.com/embedded/lacham12/1/645/395",
      "isHost": "true"
                 },
 {
      "name": "CANAL + (ACESTREAMS)",
-     "image": "https://media.zenfs.com/en_US/Entertainment/Variety/canal-plus-logo.jpg",
+     "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
      "url": "acestream://c06ee4206da9f52e00cb62023dde60fc62da64cc"
                 },
 {
@@ -1222,18 +1199,6 @@
      "name": "CANAL + SERIES",
      "image": "http://www.chicadelatele.com/wp-content/uploads/2013/11/canal-plus-series-logo-530.jpg",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plusseries&w=650&h=400",
-     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
-     "isHost": "true"
-                 },
-{
-     "name": "GRAN HERMANO VIPS",
-     "image": "http://www.vertele.com/files/2014/12/granhermanovip-285x172.jpg",
-     "url": "http://ghvip24ios-lh.akamaihd.net/i/mitele/ghvip24hios_1@123107/index_350_av-b.m3u8?sd=10&rebase=on"
-                 },
-{
-     "name": "GRAN HERMANO VIPS (2)",
-     "image": "http://www.formulatv.com/images/articulos/43000/43041_4105904849-th1.jpg",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=149&autoplay=true",
      "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
      "isHost": "true"
                  },
