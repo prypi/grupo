@@ -1335,80 +1335,230 @@
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Latino.jpg",
 "stations": [
 {
-     "name": "AXN",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&rows=40&f=.m3u8"
-                 },
-{
-     "name": "FOX",
-     "image": "http://img2.wikia.nocookie.net/__cb20090226214941/lossimpson/es/images/a/a5/800px-FOX_wordmark-orange_svg.png",
-     "url": "http://live.oneplay.tv/reproducir/125.m3u8"
-                 },
-{
-     "name": "TNT HD",
-     "image": "http://ohmyphone.orange.es/UpImages/ohmyphone/2011/05/tnt.jpg",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8"
-                },
-{
-     "name": "SYFY",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=141&lan=2&rows=40&f=.m3u8"
-                  },
-{
-     "name": "TNT SERIES",
-     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRS67K5AfkKv0NQKqmMoh4H978FL_vQ-m0m6MH3iH9IJJZoDOBD",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?"
-                  },
-{
-     "name": "FX",
-     "image": "http://www.worldleagueofamericanfootball.com/sitebuildercontent/sitebuilderpictures/.pond/FX_logo.jpg.w300h98.jpg",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?"
-                  },
-{
-     "name": "SONY",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/9/9e/Sony_Logo_1995.jpg",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?"
-                  },
-{
-     "name": "CINECANAL PLUS",
-     "image": "http://img1.wikia.nocookie.net/__cb20130815233814/tvcable/es/images/4/43/Cinecanal_Plus.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=312&lan=2&rows=40&f=.m3u8"                       
-                },
-{
-     "name": "CINEMA LATINO",
-     "image": "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/c0.0.851.315/p851x315/10862703_10155075304940657_1822353808731189716_o.jpg",
-     "url": "rtmp://50.7.78.138:443/live/live_cinemalatinohd01"                
-                 },
-{
-     "name": "MGM",
-     "image": "http://upload.wikimedia.org/wikipedia/en/0/0c/Mgm_channel_nl.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=17&lan=2&rows=40&f=.m3u8"
-                 },
-{
-     "name": "CINEMAX",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=.m3u8"                                               
-         },
-{
-     "name": "UNIVERSAL HD",
-     "image": "http://xk9.com/wp-content/uploads/2013/04/id-unianistu.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=100&lan=2&rows=40&f=.m3u8"
-                 },
-{
-     "name": "DEPELICULA",
-     "image": "http://corporate.univision.com/wp-content/uploads/2014/05/DePelicula_logo_hero_780x439.jpg",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?"                                                                                   
-                 },
-{
-     "name": "TCM",
-     "image": "http://www.logotypes101.com/logos/501/117CD47956380247F1273F5E48D24F38/TCM.png",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?"            
-                 },
-{
-     "name": "WARNER",
-     "image": "http://img2.wikia.nocookie.net/__cb20130406134924/logopedia/images/f/f7/Warner_Bros._Shield.png",
-     "url": "link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?"
-                  },
+                            "name": "UNIVERSAL",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTodzB8LTDLKNiG7F7dO0pTGWoh-r0BW1O1OYw8J-WFnNcUtS1AwA",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "TNT",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRebWh8--wNACHlJSxfiCubNoarGKTnHlLYky3WTSjygYmMyRwP",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "TLC",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlMLiwrnn6pl833qQ1KTHj-QgVvV-EUrO_NAAnH6VaU5eUg4Y5Q",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "TELENOVELAS",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzuk6EncFCwb3ZsRsCVfWluxTQMv_Tyi-fHfKxUnlotWcsbRY9KQ",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "TBS",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-FOuOJ7sUBeLl6q5-ynhdpcUDsqOqh12zmTnLw-Mefce7V9iHxQ",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "PROYECTO 40",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh6DCmFi08A_F2MXjh7184g3lygKhVEQE-dOm4Uof7o1MFnRFG",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "MTV",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuqkcZKtbA9zmn-aYJGB6v-XsHmwBQ4R_kDIjhk9fnWF7jgWgE0w",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "GOURMET",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA0BU7j6N-V7hwEPRUxZ_rDYPic5RbSn7wUVRSTw8Um77Jvxce",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "GOLDEN EDGE",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwrPgxP4paKr6uxm04VJuJtVyInjXHqlKs26ddHLYSKGaDnkIyvA",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "GLITZ",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsudGw7Vgz98nmOxkCebEtyCyFlACqaGOvHTKUSS9EuOhjGqCN0A",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FOX MOVIES HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi7B4wEkuT3l4bvpgRtWluXGjeGI1CqytoFs8Rx0phWay4-Goq",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FOX LIFE",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSaMtRvVo59eETm9248paZNn4gpKlxjmqxRZxSMg6-XzQHLXVNog",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FOX FAMILY",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRt_NOtnjmP0hoq6-baWhojs0Yf6WkOYOqmQKLMy0zPHMvRK3CXfg",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FOX CINEMA",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJgZFkNfkUn2ckFTsxwxDAU1i3P1rT9bWWHHpalBoLNWfYlWbOjQ",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FOX",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK91Pn-Hzrjr3kyx4tsGQE_mbAdGd_HZakZQZIoQSascigQ5pG",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FILM ZONE HD",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1eHwyfKklBg2O9BLXpSuWZd94ZHikL9UKWtWxfF-yfxqhHyHetw",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "E",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTydKdUJ5hQg9COgaiDkO_BSq9RysXHGIN5zxMPHhZdRhNXO2FB",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "DISTRITO COMEDIA",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNKg9tErLA91s4QVTxy2jANpucT2dMxo0vY8sXSz9GVPZsLwXCUQ",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "COMEDY CENTRAL",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1JbVOFSzptJD6UICB0a-XvnYR3rO7pN-FwSph-K4mVkrIPgxj",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "CINECANAL",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhh5IIDfRcXgfufkeKBDrTCSuy7HrOjLlzQqd6RML8_NTTnp45BA",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "BBC",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9wdX79D_VE7YTzbZnFXdq8QOyQkGsPFrMyGVEURYPmdLPhwNevg",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "BANDAMAX",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbSY0JQEOlXw-W5YlqrIPcRGprdzV7xaxKYjOPnmw3KRtLR2YRA",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "VH1",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrISPTQgzkhFqieq8qaQQ5IVIgItdwyI3tNmM3HtM9KzKvu7u2",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "TNT SERIES",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQIpw-Ww1ubfF6qXb1iMkSje3bH1dCAowCM2G4bU_0sy9VwFYVeA",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "TELEHIT",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqGpXwk0waq7-R5-i2EByoj_fJkKkqXntpf9QlD1hF-IiHLSyZ",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "TELEFORMULA",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyx-Lt_0SXF1SIrMiD0ZhcFjrWs4VpHe_IB_Irx-Pk3DeTnL2gg",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "TCM",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dwlH0ehSagUQspnbcuPefRf7QKsWiCym4S2lfSqIlE-CWvWQ",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "SYFY",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxslnMrSBfwdr3qe42FtqkPD_W6WMLWDGRBO9VlwzweB_Sps7k",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "STUDIO UNIVERSAL",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSUNTA8QrGZ9-oCoco7Yd1fXO-vJ1IG8P6bLabu6-JtMkJBGgqBw",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "SPACE HD",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyEVjwwC1ON1gcI3Dgf5RPtzd26iNkhwv0OOC5F7NLrP1jLPB0EQ",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "SONY",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV81d8dEOUszSyECbzD9GImTr0mnuNzJ9DY3yKgE9-nkUXVCqG",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "MTV LIVE",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYhIk7ABeZmAHxR7PlK8cw06qznFSm4Ko-FQqRjIrLPzwL6yY6Ww",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FX HD",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFwUa-XGFM2LaZUkY6eXv-l3tbnCrHuy_NW62E74EIIscMsSayNg",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FX",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQihORFFZIPjGNGdb5Fes6Yp6T1fymxgNO_5UtK4d74cCUkGGz5",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FOX CLASSICS",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtRpxCS8S6UKqYMgXjByLP5EQQ1jYFTypYwNidCwgxKrl3UP5jRg",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "FOX ACTION HD",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS94DuR9H4j41c_g20KXLMj3FCtoTaJqsLyWdcLqF8SDPfRLuiT",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "EL TRECE",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7N4dEIR9BHO-aGr_H2kZr7Q7q3aP5pblosG1aAtOvKxotcd8J",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "DE PELICULA HD",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQB9eN33Zj0IEWxRdrtmeHJJ6eQuMyjW1B20a0tqAOjjTXfO_tjnw",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "CANAL ONCE",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuERH3C7cMGt63PYzZIVXV2uKkcEv3zyYi8cTshvzrI9gFnyc9w",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "CANAL DE LAS ESTRELLAS",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgA4DSSu1jVPJCBrUG0cWDra_YvE1Re8IfTPh54pm0sBBdl7DP",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "CANAL 5",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoeCN0p2ZSBeMSegmvrtQCW2Mzc1gmkQRL5gUvgbP69cefOs5",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "AMC",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVhdm9MSeluwYdR-YULmtg7a78j3CvAoacPD4ZpHzybvmENTPFg",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "AXN HD",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7V0ELj9nwa-5WusXq_TkyY531zQZo3Jy4tWjwdfFPgoFmjOL2HQ",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "AZTECA 7",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVVs9RTj0hsTV0D-cIOCovfEkPEYHA9XkJ4LJSnvIkw81d6N_Vzg",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL17/PROFILE03.m3u8?" 
+                    },
+                    {
+                            "name": "AZTECA NOTICIAS",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmpKN7d2f3gMMd_vWNA5DfoY4TimmH_h9irlhNYI_mXr2JdkOQjg",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?"
+                    },
 ]
 },
 ]
@@ -1667,62 +1817,61 @@
 "name": "LATINO",
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Latino.jpg",
 "stations": [
-{                                                                        
-     "name": "DISNEY XD",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?"  
-                },
-{                                                                        
-     "name": "DISNEY JR",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Disney%20Junior.jpg",
-     "url": "http://live.oneplay.tv/reproducir/201.m3u8"  
-                },
-{                                                                        
-     "name": "DISCOVERY KIDS",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Discovery%20Kids.jpg",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=193&lan=2&rows=40&f=.m3u8"  
-                },
-{                                                                        
-     "name": "CBEEBIES",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",
-     "url": "http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=197&lan=2&rows=40&f=.m3u8"  
-                },
 {
-     "name": "DISNEY CHANNEL",
-     "image": "http://img3.wikia.nocookie.net/__cb20140522232848/disney/images/f/f1/Disney-hed-2014.jpg",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?"    
-                },
+                            "name": "TOONCAST",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH4JY-7jYxG7HohKNL4otH2LVPKC0UQ0naAtphmWIMcfIEzBC9",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?" 
+                    },
+ {
+                            "name": "TIIN",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPTFRswWiWIAOZ-4PWpzLOT7OjUaxqjMq5igc9XJzeG_feiKGh1g",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?" 
+                    },
 {
-     "name": "NICK JR",
-     "image": "http://img2.wikia.nocookie.net/__cb20131025213820/my-favorite-logos/images/f/f6/Nick_Jr_Ducks.JPG",
-     "url": "http://live.oneplay.tv/reproducir/205.m3u8"        
-                },
+                            "name": "NICK",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDoXq1KNvMlfYCor3meAmuMv0T-7r3ig2Hm7BkbDY7JKJNb6UF",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?" 
+                    },
 {
-     "name": "TIIN",
-     "image": "http://jugarjuegogratis.com/wp-content/uploads/2011/10/tiin-canal-programacion.jpg",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?"
-                },
+                            "name": "DISNEY XD",
+                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1RRWj8jFcdol9mppUAJFgGTjmWlutV70efPdReNRk0Rq73xnDsw",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?" 
+                    },
 {
-     "name": "BABIES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/BabyTV.png",
-     "url": "http://live.oneplay.tv/reproducir/197.m3u8"
-                },
- 
+                            "name": "DISCOVERY KIDS",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdICWJ2JOv1DGQhjUeKmh-unVxgznNoNujcBKv5UXnAfRY4EBd",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?" 
+                    },
 {
-     "name": "TOONCAST",
-     "image": "http://img2.wikia.nocookie.net/__cb20120126231243/logopedia/images/f/f5/Tooncast.jpg",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?"
-                },
+                            "name": "CARTOON NETWORK",
+                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwCUQUhTl4q1uGMIlPAcXw6tcZcgvC58iczqyb1iYizSRS-sLkUg",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?" 
+                    },
 {
-     "name": "CARTOON NETWORK",
-     "image": "http://fc08.deviantart.net/fs71/i/2013/306/0/0/logo_de_cartoon_network_hecho_por_mi_by_victorflynnfletcher-d6ssg8o.png",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?"
-                 },
+                            "name": "BOOMERANG",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMmmvTGddNR8QJPJoBblx3DUpHY5bkEwbjBwpZv2YCPKE65i2Rag",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?" 
+                    },
 {
-     "name": "BOOMERANG",
-     "image": "http://img1.wikia.nocookie.net/__cb20110804210704/cartoonnetwork/images/4/47/Boomerang_US_logo.png",
-     "url": "http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?"
-                 },
+                            "name": "WARNER HD",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdYYxs0Yw8eJ-gGkFnIzyWLDUoUnrdduu7vVXvHZTjCkDHwP9kPA",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?" 
+                    },
+{
+                            "name": "NICK JR",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW8vE6H9mZnLk4v5oKbVZ4le1Y0hPJ3LghEw5vdhGqrSlxDUj8",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?" 
+                    },
+{
+                            "name": "DISNEY JR",
+                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0zn1k3eygp4F29XO4jRjnwnXwmAxTZhXaa8FLXdEVTLUXGqejBQ",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?" 
+                    },
+{
+                            "name": "DISNEY CHANNEL",
+                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRauz1T86cWmhmPPsbUEAvBOt1a4KapiXQlIBP0ykOy3wLaw49U",
+                            "url": "http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?" 
+                    },					
 ]
 },
 ]
