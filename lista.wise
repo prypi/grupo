@@ -1038,7 +1038,9 @@
 {
      "name": "CUATRO HD",
      "image": "http://upload.wikimedia.org/wikipedia/en/6/68/CuatroTV.png",
-     "url": "http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8"                    
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=103&autoplay=true",
+	 "referer": "http://cinestrenostv.tv/canales/nacionales/lacuatro.php",
+      "isHost": "true"	  
                   },
 {
      "name": "TELECINCO HD",
@@ -1047,11 +1049,6 @@
                  },
 {
      "name": "TELECINCO (2) HD",
-     "image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
-     "url": "http://mdsiosgeo1-lh.akamaihd.net/i/mitele/esmediaset_11@168495/index_0_av-p.m3u8"
-                 },
-{
-     "name": "TELECINCO (3) HD",
      "image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
      "url": "http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8?sd=10&rebase=on"
                  },				 
@@ -1081,7 +1078,7 @@
      "name": "FDF",
      "image": "http://publiespstatic-a.akamaihd.net/FDF_PUBIMA20130221_0008_17.jpg",
      "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=179&autoplay=true",
-     "referer": "http://www.kioskodehatgarbyfcobo.com/2012/12/ver-fdf-factoria-de-ficcion-online-24.html",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/fdf.php",
      "isHost": "true"        
                 },
 {
@@ -1313,8 +1310,8 @@
 {                                                                                                      
      "name": "CANAL + DCINE",
      "image": "http://img88.xooimage.com/files/4/c/d/500px-canal-_dcine_2008.svg-36d27c1.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=dcine1&w=670&h=400",
-     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=dcine1&w=650&h=400",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/plus-dcine.php",
      "isHost": "true"
                 },
 {
@@ -1328,6 +1325,7 @@
      "name": "CANAL + COMEDIA",
      "image": "http://i.imgur.com/854ZMKc.png",
      "url": "http://vercosasgratis.com/embed.php?a=6549&id=&width=650&height=400&autostart=true&strech=",
+	 "referer": "http://cinestrenostv.tv/canales/nacionales/plus-comedia.php",
      "isHost": "true"
                   },
 {
