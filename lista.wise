@@ -654,6 +654,51 @@
      "image": "http://img2.wikia.nocookie.net/__cb20120329095341/logopedia/images/3/3d/ESP_2_GGS_RVB.png",
      "url": "http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(eusp2)/Stream(05)/index.m3u8"      
                  },
+{
+     "name": "EUROSPORT UK",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxx9SiFKly1YLIEzzYHoIgvWJ7F7w7jycvHtqxdOZvyViaean6",
+     "url": "http://gkn89:iptv@93.184.221.133/00573D/1210/1210-0.m3u8"      
+                 },
+{
+     "name": "EUROSPORT 2 UK",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxx9SiFKly1YLIEzzYHoIgvWJ7F7w7jycvHtqxdOZvyViaean6",
+     "url": "http://gkn89:iptv@93.184.221.133/00573D/1211/1211-0.m3u8"      
+                 },
+{
+     "name": "EUROSPORT HD UK",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrtcPS9o8JYI-1EnV1QE3WQeQCTeuddHfylWHSw7XH6FsrRh0hTA",
+     "url": "http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8"      
+                 },				 
+{
+     "name": "Eurosport HD RU",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfrOkVSrQsbn3_ZuCjB5JUp_B4uphSSzrY1MZJjymbvP25qtobg",
+     "url": "http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2"      
+                 },
+{
+     "name": "Eurosport HD BG",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQISZEw6uGpIErADVx0cfBIuwfHTZv-531jpIImqRgw1_sWZBdkqA",
+     "url": "http://w3.drundoo.com:81/playlist-EurosportHD=3.m3u8"      
+                 },
+{
+     "name": "Eurosport RU",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqheRG-DqhYsUP88gY2qqQ38boZmE4tQn2QYrOy6xxBFAljtcb",
+     "url": "http://88.150.210.146/iptv/9da10de2b4a0499116d762e83c570cd7/141/index.m3u8"      
+                 },
+{
+     "name": "Eurosport 2 RU",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqheRG-DqhYsUP88gY2qqQ38boZmE4tQn2QYrOy6xxBFAljtcb",
+     "url": "http://88.150.210.146/iptv/9da10de2b4a0499116d762e83c570cd7/539/index.m3u8"      
+                 },	
+{
+     "name": "Eurosport 3 RU",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqheRG-DqhYsUP88gY2qqQ38boZmE4tQn2QYrOy6xxBFAljtcb",
+     "url": "http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2"      
+                 },
+{
+     "name": "Eurosport DE",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7mf4vvW0FH-9V6vTjdLGSWkd-zfKilYlL8Fl7hA2Kn4OXjKO",
+     "url": "http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:eurosport_de/playlist.m3u8"      
+                 },				 
 ]
 },
 {
@@ -668,14 +713,14 @@
 ]
 },
 {                    
-"name": "NTV+ FUTBOL",
+"name": "NTV+ DEPORTE",
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/HTB%20GROUP.jpg",
 "stations": [
 {
         "name": "NTV+ 1SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
      "url": "rtmp://edge03-07.az.myvideo.az/dvrh264/ntvfootball/ playpath=mp4:ntvfootball swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=ntvfootball"
-                 },
+                 },				 
 {
         "name": "NTV+ 1SD ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
@@ -716,6 +761,11 @@
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B3.jpg",
      "url": "acestream://3ff7d476908a10d92f0dbd9dec504edfa3136edb"
                  },
+{
+        "name": "NTV+ BASKET",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgFuCMig-Xr06idoDO1wnF5xga2Li_oH02rJ2NRppS1GIkRctC",
+     "url": "http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:sport1/playlist.m3u8"
+                 },				 
 ]
 },
 {                    
@@ -776,20 +826,82 @@
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORT%20TV%20GROUP.jpg",
 "stations": [
 {                                      
-     "name": "SPORT TV1",
+     "name": "SPORT TV 1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%20TV%201.png",
      "url": "rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"                                                                                               
                  },
 {                                      
-     "name": "SPORT TV2",
+     "name": "SPORT TV 2",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORT%20TV2.jpg",
      "url": "rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/"                                                                                               
                  },
 {                                      
-     "name": "SPORTTV3",
+     "name": "SPORT TV 3",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%20TV%203.png",
      "url": "rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/"                                                                                               
                  },
+]
+},
+{                    
+"name": "SPORT TIME HD",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe8BbTLJIViaTi4hA8-og6st4_0Sr6Yr6RAOxCvWdpExQx3fNo",
+"stations": [
+{                                      
+     "name": "SPORT TIME 1",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlIPLvwZzSmdt39vjY-C-ZL4O4O0Q1_E7IcVwnpZJfIxWC5084",
+     "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200"                                                                                               
+                 },
+{                                      
+     "name": "SPORT TIME 2",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlIPLvwZzSmdt39vjY-C-ZL4O4O0Q1_E7IcVwnpZJfIxWC5084",
+     "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200"                                                                                               
+                 },
+{                                      
+     "name": "SPORT TIME 3",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlIPLvwZzSmdt39vjY-C-ZL4O4O0Q1_E7IcVwnpZJfIxWC5084",
+     "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200"                                                                                               
+                 },	
+{                                      
+     "name": "SPORT TIME 4",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlIPLvwZzSmdt39vjY-C-ZL4O4O0Q1_E7IcVwnpZJfIxWC5084",
+     "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200"                                                                                               
+                 },
+{                                      
+     "name": "SPORT TIME 5",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlIPLvwZzSmdt39vjY-C-ZL4O4O0Q1_E7IcVwnpZJfIxWC5084",
+     "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200"                                                                                               
+                 },
+{                                      
+     "name": "SPORT TIME 6",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlIPLvwZzSmdt39vjY-C-ZL4O4O0Q1_E7IcVwnpZJfIxWC5084",
+     "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200"                                                                                               
+                 },	
+{                                      
+     "name": "SPORT TIME 7",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlIPLvwZzSmdt39vjY-C-ZL4O4O0Q1_E7IcVwnpZJfIxWC5084",
+     "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200"                                                                                               
+                 },				 
+]
+},
+{                    
+"name": "SPORT TV (RU)",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzZOrQcvlpxc_ufmhF4hlngCKKJYaqwp-YuwQkhBKxmkjuLDvYCg",
+"stations": [
+{                                      
+     "name": "SPORT RU",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-AoqzJChKx8bl-oIuX72t1dicKeLbG8ooIAq8Qp6ShWDaxv7",
+     "url": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2"                                                                                               
+                 },
+{                                      
+     "name": "SPORT 1 SD RU",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvjW4hNgT5NiNLr7PU58dCowzA7SND1FaGY8W5us9GZBkzxYrn",
+     "url": "http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2"                                                                                               
+                 },
+{                                      
+     "name": "SPORT HD RU",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtAjgQ-d9KF9qrXXjt2YbjzL3BE-ib9VUZYi6pxsK6Mg3ujs-V",
+     "url": "http://hlsstr03.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2"                                                                                               
+                 },				 
 ]
 },
 {
@@ -920,40 +1032,29 @@
 {
      "name": "ANTENA 3",
      "image": "http://www.formulatv.com/fotos/a/76000/76431/9tho2jqs5sdxqpa7394cb734508c3cc_logo-antena3-television_m.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=ant3&w=670&h=400",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"          
-                 },
-{
-     "name": "ANTENA 3 (SD)",
-     "image": "http://www.formulatv.com/fotos/a/76000/76431/9tho2jqs5sdxqpa7394cb734508c3cc_logo-antena3-television_m.png",
-     "url": "http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on"
+     "url": "http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8"
      
-                 },				 
-{
-     "name": "ANTENA3 HD",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antena3hd.png/200px-Antena3hd.png",
-     "url": "http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on"
-                },	
-{
-     "name": "ANTENA3 HD (OPC2)",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antena3hd.png/200px-Antena3hd.png",
-     "url": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8"
-                },				
+                 },				 					
 {
      "name": "CUATRO HD",
      "image": "http://upload.wikimedia.org/wikipedia/en/6/68/CuatroTV.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=cuatro&w=650&h=400",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"                    
+     "url": "http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8"                    
                   },
 {
      "name": "TELECINCO HD",
      "image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tele5&w=650&h=400",
-     "referer": "http://pontucanal.net/canales/telecinco.html",
-     "isHost": "true"
+     "url": "http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8"
                  },
+{
+     "name": "TELECINCO (2) HD",
+     "image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
+     "url": "http://mdsiosgeo1-lh.akamaihd.net/i/mitele/esmediaset_11@168495/index_0_av-p.m3u8"
+                 },
+{
+     "name": "TELECINCO (3) HD",
+     "image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
+     "url": "http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8?sd=10&rebase=on"
+                 },				 
 {
      "name": "LA SEXTA HD",
      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13tDyPtaSbxPLmSo8S2xUE77CfrrLMETakm1O3duK7vcG_Na9",
@@ -977,24 +1078,27 @@
         "referer": "http://canalesgratis.me/canales/parmountchannel.php"
                      },				 
 {
-     "name": "EURONEWS",
-     "image": "http://advanced-television.com/wp-content/uploads/2010/10/Euronews-Logo.jpg",
-     "url": "rtmp://149.11.34.78/live/euronewses.stream"
-                 },
-{
      "name": "FDF",
      "image": "http://publiespstatic-a.akamaihd.net/FDF_PUBIMA20130221_0008_17.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=fdf&w=670&h=400",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=179&autoplay=true",
+     "referer": "http://www.kioskodehatgarbyfcobo.com/2012/12/ver-fdf-factoria-de-ficcion-online-24.html",
      "isHost": "true"        
                 },
 {
      "name": "NEOX",
      "image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=neox&w=670&h=400",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"        
+     "url": "http://a3live-lh.akamaihd.net/i/neox_1@35261/master.m3u8"    
                  },
+{
+     "name": "NOVA",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfW8Q4t9Cxez64t6Tlhkjvc9sgob7kPe7eAZprgbbxwnrwMpWrPA",
+     "url": "http://a3live-lh.akamaihd.net/i/eventos6_1@35271/master.m3u8"    
+                 },
+{
+     "name": "NOVA (2)",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfW8Q4t9Cxez64t6Tlhkjvc9sgob7kPe7eAZprgbbxwnrwMpWrPA",
+     "url": "http://a3live-lh.akamaihd.net/i/eventos2_1@14840/master.m3u8"    
+                 },				 
 ]
 },
 {
@@ -1656,6 +1760,11 @@
      "image": "http://blog.cablevision.net.mx/wp-content/uploads/2011/06/AEHD.jpg",
      "url": "http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?"
                  },
+{
+     "name": "DISCOVERI ARG",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW7iG4A8qj-G6reLmjb8Wtgw_vJR7PAc6HK4lXAWfOMidi1p27",
+     "url": "http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8"
+                 },				 
 {
      "name": "TRU TV",
      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2GMDuXMTnxRUfK2DF6jfc7XVoOgSqG5H8HEKYQSuTVuk746VB",
