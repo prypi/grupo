@@ -147,27 +147,12 @@
 {                       
      "name": "MULTICANAL 2",
      "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "rtmp://207.244.67.22/iguide playpath=ihx72xedulmc3gp swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
+     "url": "rtmp://66.55.92.71/app/premiertv3002s-channel"
                 },
 {                       
      "name": "MULTICANAL 3",
      "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
      "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
-                },
-{                       
-     "name": "MULTICANAL 4",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://www.mips.tv/embedplayer/REVOLUCIONARIOSTV10/1/730/430"
-                },
-{                       
-     "name": "MULTICANAL 5",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/lacasa2_live@125189/master.m3u8"
-                },
-{                       
-     "name": "MULTICANAL 6",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?cid=20232337"
                 },				
 {                       
      "name": "MULTICANAL MOTOSMEDIA",
@@ -486,12 +471,12 @@
      "url": "rtmpe://l.xuscacamusca.se:Abouda/r/ playpath=wwenetwork412 swfUrl=http://mybeststream.xyz/NzAyZDMxNjk1MWFjN2QyNWQ1NWNkODEx/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/Abouda/gen_h.php?id=27470&width=100%25&height=100%"
                  },				 
 {
-        "name": "EXTREME SPORTS",
+        "name": "EXTREME SPORTS ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Extreme%20Sport%20Channel.png",
      "url": "acestream://257b676170ba09b8a26989cdad18173c4d1fa551"
                  },
 {
-        "name": "EXTREME SPORTS (OPC)",
+        "name": "EXTREME SPORTS",
      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV0V9MM9CjMUwae90X9pgt_YZB20MtRYg_Bnhc8bnjGth1PRvlEQ",
      "url": "http://178.49.132.73/streaming/extreme_sports/tvrec/playlist.m3u8"
                  },				 
@@ -2179,57 +2164,6 @@
      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFH_nyhUEn14JjrBh4avDHuk8VyxGnDejndfveZypXfagLMs8_",
      "url": "http://87.245.214.43/streaming/musboxru/16/tvrec/playlist.m3u8"
                  },
-]
-},
-{
-"name": "EURONEWS",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCDI2JhiGd_vqsUcXTiQ5yp8Zqx_svdtdaEpk5jz2i4NxY7hi",
-"stations": [
-    {
-                            "name": " EuroNews Turkte",
-                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOw9tjYlHroqOuwmnsyxIjAFnhCFfXUhGtX05SkZsCwG1ePqlk8g",
-                            "url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/tr_vidan750_rtp.sdp" 
-                    },
-                    {
-                            "name": " EuroNews Arabic",
-                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWsEx9f5bzONobK0FhTqzFimxzJBzMPpY1KMgjWB8VjveK4mx1",
-                            "url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ar_vidan750_rtp.sdp" 
-                    },
-                    {
-                            "name": " EuroNews English",
-                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM-jnhLbUf6-qKCPRwkafQJCM4vB0qNR7ZuewyPipki3hSw9mauw",
-                            "url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp" 
-                    },
-                    {
-                            "name": " EuroNews French",
-                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI4y0AtmtiVu71l-HuQWZIEvC4IzHxkWyj0ElryG8GXH6qAX8xzA",
-                            "url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp" 
-                    },
-                    {
-                            "name": " EuroNews German",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1EvYDwwlyht4LP5sz4o81Z17mggeejIEoBNKjqTQHlnmNtVuyKQ",
-                            "url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/de_vidan750_rtp.sdp" 
-                    },
-                    {
-                            "name": " EuroNews Italian",
-                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTa_JXVqNheaA_fd-BEGiCSMox4TFpZE_Ny2wY2uqvqy12udSDL",
-                            "url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/it_vidan750_rtp.sdp" 
-                    },
-                    {
-                            "name": " EuroNews Portuguese",
-                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBSnnZ25L6Yx3vEwLR1QY2HOoXQxO50W1hi3lJY3y4PoFaDyWTDw",
-                            "url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp" 
-                    },
-                    {
-                            "name": " EuroNews Russian",
-                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK4iXOIulP3e9EXrwLvc0peUM5_kWjhTlXkqpa6hF7LHD0e82P",
-                            "url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp" 
-                    },
-                    {
-                            "name": " EuroNews Spanish",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTBBVCTFsJJR4UWE48GykAn0sBnn9FruGKtAyPyiy3VU51RIQ",
-                            "url": "rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp"
-                    },				 
 ]
 },
 {
