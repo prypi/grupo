@@ -344,7 +344,7 @@
 {
      "name": "BT SPORT 1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt1.jpg",
-     "url": "http://198.27.94.105/hls/74274c42d914378e8798b588f8ee9bb6.m3u8"
+     "url": "http://109.123.70.48/hls/channel6.m3u8?s=MBXrf"
                 },
 {
      "name": "BT SPORT 1 ACES",
@@ -354,7 +354,7 @@
 {
      "name": "BT SPORT 2",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt%20Soprt%201.jpg",
-     "url": "http://198.27.94.105/hls/a7acde0d2196acbda664518913bf747b.m3u8"
+     "url": "http://109.123.70.48/hls/channel11.m3u8?s=MBXrf"
                  },
 {
      "name": "BT SPORT 2 ACES",
@@ -396,12 +396,12 @@
 {                       
      "name": "MULTICANAL 1",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://edge.hls.dt.hitbox.tv/hls/kora34/index.m3u8"
+     "url": "http://cctv2-lh.akamaihd.net/i/deportivotve13_live@125189/index_1080p_av-p.m3u8"
                 },
 {                       
      "name": "MULTICANAL 2",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://edge.hls.dt.hitbox.tv/hls/zonasports2/index.m3u8"
+     "url": "http://cctv-lh.akamaihd.net/i/zonaxx1_live@125118/index_1080p_av-p.m3u8"
                 },				
 ]
 },
@@ -412,7 +412,7 @@
 {                                      
      "name": "SKY SPORTS 1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%201.png",
-     "url": "http://sipragezabava.com/live/sky1"                                                                                        
+     "url": "http://109.123.70.48/hls/channel1.m3u8?s=MBXrf"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 1 ACES",
@@ -422,7 +422,7 @@
 {                                      
      "name": "SKY SPORTS 2",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%202.png",
-     "url": "http://198.27.94.105/hls/925f9084c858a337f3dece668fc2225b.m3u8"                                                                                        
+     "url": "http://109.123.70.48/hls/channel2.m3u8?s=MBXrf"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 2 ACES",
@@ -432,7 +432,7 @@
 {                                      
      "name": "SKY SPORTS 3",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%203.png",
-     "url": "http://sipragezabava.com/live/sky3"                                                                                        
+     "url": "http://109.123.70.48/hls/channel3.m3u8?s=MBXrf"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 3 ACES",
@@ -442,7 +442,7 @@
 {                                      
      "name": "SKY SPORTS 4",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%204.png",
-     "url": "http://sipragezabava.com/live/sky4"                                                                                        
+     "url": "http://109.123.70.48/hls/channel4.m3u8?s=MBXrf"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 4 ACES",
@@ -452,7 +452,7 @@
 {                                      
      "name": "SKY SPORTS 5",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg",
-     "url": "http://198.27.94.105/hls/0990d7f8faca7d7e885e5a21297ca878.m3u8"                                                                                        
+     "url": "http://109.123.70.48/hls/channel7.m3u8?s=MBXrf"                                                                                        
                  },
 {
         "name": "SKY SPORTS 5 ACES",
@@ -462,7 +462,7 @@
 {                                      
      "name": "SKY SPORTS F1",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky%20Sports%20F1.png",
-     "url": "http://198.27.94.105/hls/skysportsf1_1.m3u8"                                                                                               
+     "url": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysf1&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskysf1"                                                                                               
                  },
 {                                      
      "name": "SKY SPORTS F1 ACES",
@@ -508,7 +508,7 @@
 {
      "name": "BOX NATION",
      "image": "http://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",
-     "url": "rtmp://167.114.117.208/live/skynationv"                      
+     "url": "http://109.123.70.48/hls/channel9.m3u8?s=MBXrf"                      
                  },
 {
         "name": "MOTORS TV ACES",
