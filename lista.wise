@@ -51,13 +51,13 @@
 {
      "name": "CANAL + FUTBOL",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
-     "url": "http://www.embedezcast.com/embedded/puerrof2/1/645/395", 
+     "url": "http://www.embedezcast.com/embedded/cararatas/1/645/395", 
      "isHost": "true"                  
                },
 {
      "name": "CANAL + LIGA CAMPEONES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
-     "url": "http://www.embedezcast.com/embedded/puerrolc/1/645/395",
+     "url": "http://www.embedezcast.com/embedded/marronl/1/645/395",
      "isHost": "true"                                                                                   
                 },
 {
@@ -68,14 +68,14 @@
 {
      "name": "GOL TV",
      "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=gol&w=670&h=400",
+     "url": "http://freetvcast.pw/embed.php?a=2&id=&width=670&height=400&autostart=true&strech=",
      "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"
                 },
 {
      "name": "GOL TV (OPCION 2)",
      "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
-     "url": "rtmp://95.211.211.222/iguide playpath=wynj5ay2hae8dzy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
+     "url": "rtmp://66.85.133.160/live?token=bHfUk1V_zLmW5ok4AR7PmQExpired=1428149607 playpath=emitesportss7 swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://1broadcastlive.com/embed/embed.php?channel=emitesportss7&w=800&h=420"
                 },				
 {
      "name": "SPORTMANIA (ACESTREAMS)",
@@ -153,7 +153,17 @@
      "name": "MULTICANAL 3",
      "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
      "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
-                },				
+                },
+{                       
+     "name": "MULTICANAL 4",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/deportivotve13_live@125189/index_1080p_av-p.m3u8"
+                },
+{                       
+     "name": "MULTICANAL 5",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv-lh.akamaihd.net/i/zonaxx1_live@125118/index_1080p_av-p.m3u8"
+                },			
 {                       
      "name": "MULTICANAL MOTOSMEDIA",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
@@ -381,7 +391,7 @@
 {                       
      "name": "MULTICANAL 1",
      "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv2-lh.akamaihd.net/i/deportivotve13_live@125189/index_1080p_av-p.m3u8"
+     "url": "http://cctv-lh.akamaihd.net/i/zonanba2_live@125117/index_1080p_av-p.m3u8"
                 },
 {                       
      "name": "MULTICANAL 2",
