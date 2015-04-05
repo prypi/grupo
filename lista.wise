@@ -3173,14 +3173,10 @@
 {
 "name": "ESTRENOS DE CINE",
 "image": "http://www.nadacomercial.com/wordpress/wp-content/uploads/2012/05/proximos-estrenos-sala-de-cine-Logo.jpg",
-"groups": [
-{
-"name": "ESPAÑOL",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrJA-Jqfjaqhi_fVmmvqTyt7-XA8sUFSHLOd2x3i_vn6DsPCTQgA",
 "stations": [
 {
                        "name": "Insurgente (2015)",
-                       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTb4pM3XLfmFQrDjsM48D2_bU3rARcMTg4iAsYShyHTqgtyM5bEcw",
+                       "image": "https://encrypted-tbn3.gstatic.com/      images?q=tbn:ANd9GcTb4pM3XLfmFQrDjsM48D2_bU3rARcMTg4iAsYShyHTqgtyM5bEcw",
                        "url": "http://allmyvideos.net/b285tbn55tsr",
                        "isHost": "true"                         
                 },
