@@ -2378,7 +2378,7 @@
      "image": "http://4.bp.blogspot.com/-Gc_6SgJbzh8/T94dhYIPflI/AAAAAAAAEaI/rpx_cxUvaOs/s400/90s1.jpg",
      "url": "http://31.12.64.204:8000/A-RADIO-90s-JUICE"
                  },
-	]
+]
 },
 {
 "name": "ACESTREAM",
@@ -3084,12 +3084,6 @@
                             "image": "indirizzo_immagine",
                             "url": "acestream://ed3c8502c86691e6fbfb8183e078e5743c2c36ea"
                     },			 
- 
-]
-},
-]
-}
-},
                     {
                             "name": "Musiq1.tv (??????)",
                             "image": "indirizzo_immagine",
@@ -3167,16 +3161,13 @@
                     },
 ]
 },
-]
-]
-},
 {
 "name": "ESTRENOS DE CINE",
 "image": "http://www.nadacomercial.com/wordpress/wp-content/uploads/2012/05/proximos-estrenos-sala-de-cine-Logo.jpg",
 "stations": [
 {
                        "name": "Insurgente (2015)",
-                       "image": "https://encrypted-tbn3.gstatic.com/      images?q=tbn:ANd9GcTb4pM3XLfmFQrDjsM48D2_bU3rARcMTg4iAsYShyHTqgtyM5bEcw",
+                       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTb4pM3XLfmFQrDjsM48D2_bU3rARcMTg4iAsYShyHTqgtyM5bEcw",
                        "url": "http://allmyvideos.net/b285tbn55tsr",
                        "isHost": "true"                         
                 },
@@ -3442,7 +3433,7 @@
                         "name": "Autómata",
                         "image": "http://ia.media-imdb.com/images/M/MV5BNzgyMDcyMjMwMV5BMl5BanBnXkFtZTgwNjY5MTA1MjE@._V1_SY317_CR2,0,214,317_AL_.jpg",
                         "url": "http://streamcloud.eu/62f506laeujg/Aut__mata.BRS.avi.html",
-			"isHost": "true"              
+			            "isHost": "true"              
                 },
 {
                         "name": "Siempre Alice",
@@ -3466,13 +3457,13 @@
                         "name": "Zombis Nazis 2",
                         "image": "http://ia.media-imdb.com/images/M/MV5BMTk2MTEwOTcwOF5BMl5BanBnXkFtZTgwMDEzMjM2MjE@._V1_SX214_AL_.jpg",
                         "url": "http://streamcloud.eu/kyf6igq085t0/Zomb1N4z2HDR.Barbie.avi.html",
-			"isHost": "true"             
+			            "isHost": "true"             
                 },
 {
                         "name": "Un Encuentro Prometedor",
                         "image": "http://ia.media-imdb.com/images/M/MV5BMTQ0MjgzOTYxMV5BMl5BanBnXkFtZTcwMTE2MTQ1Nw@@._V1_SY317_CR4,0,214,317_AL_.jpg",
                         "url": "http://streamcloud.eu/mnpuhywb45g4/Un.Encuentro.Prometedor.HDRip.avi.html",
-			"isHost": "true"             
+			            "isHost": "true"             
                 },
 {
                         "name": "La Teoría Del Todo",
@@ -3629,7 +3620,7 @@
                         "name": "uego Sucio En Las Vegas",
                         "image": "http://ia.media-imdb.com/images/M/MV5BMTA4NTI5MzE0MDReQTJeQWpwZ15BbWU4MDk0OTY3MzMx._V1_SX214_AL_.jpg",
                         "url": "http://streamcloud.eu/085ewhwgn9rp/Juego.Sucio.en.las.vegas.HDRip.avi.html",
-			"isHost": "true"           
+			            "isHost": "true"           
                 },
 {
                         "name": "Invencible",
