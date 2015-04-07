@@ -1148,7 +1148,7 @@
 {
      "name": "TELEMADRID",
      "image": "http://s01.s3c.es/imag/_v0/640x300/8/1/f/telemadridrecursonuevo.jpg",
-     "url": "http://token-lh.akamaihd.net/i/Telemadrid_1@123660/index_1_av-p.m3u8"
+     "url": "rtmp://telemadridlivefs.fplive.net:443/telemadridlive-live?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= playpath=stream1?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20140807.1543/federatedVideoUI/BrightcovePlayer.swf?uid=1408790741537 live=1 pageUrl=http://www.telemadrid.es/?q=emision_en_directo"
                 },
 {
      "name": "CANAL EXTREMADURA",
