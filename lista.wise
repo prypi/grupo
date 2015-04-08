@@ -127,7 +127,13 @@
      "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
      "url": "http://freetvcast.pw/embed.php?a=2&id=&width=670&height=400&autostart=true&strech=",
      "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"                                
+     "isHost": "true"  
+                },
+{
+     "name": "GOL TV (OPCION 2)",
+     "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
+     "url": "http://www.mipsplayer.com/embedplayer/marrong1/1/645/395",
+     "isHost": "true"                                      
                 },
 {
      "name": "GOL TV (ACESTREAMS)",
