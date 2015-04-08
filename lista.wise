@@ -16,11 +16,29 @@
 "image": "http://www.elconfidencial.com/fotos/noticias/2010070620espa%C3%B1oles.jpg",
 "stations": [ 
 {
+     "name": "CANAL + Y MULTICANAL",
+     "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
+     "url": "rtmp://199.168.116.11/app/premiertv2004s-channel"  
+                },
+{                                                                                                      
      "name": "CANAL + HD",
      "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184&autoplay=true",
-     "referer": "http://verdirectotv.net/ver-divinity-online-en-directo-las-24horas-por-internet-gratis/",                        
-     "isHost": "true"               
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=720&h=440",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "isHost": "true"    
+                },
+{
+     "name": "CANAL + HD (OPC 2)",
+     "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
+     "url": "http://www.embedezcast.com/embedded/marronl/1/645/395",
+     "isHost": "true"  
+               },
+{                                                                                                      
+     "name": "CANAL + HD (OPC 3)",
+     "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "isHost": "true"                       
                 },
 {
      "name": "CANAL + (ACESTREAMS)",
@@ -41,52 +59,79 @@
 {
      "name": "LIGA + MULTICANAL 2",
      "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/lacasa2_live@125189/master.m3u8"
-               },
+     "url": "http://cctv-lh.akamaihd.net/i/deportivotve27_live@125113/master.m3u8"
+                },
 {
      "name": "LIGA + MULTICANAL 3",
      "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
-     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"                                                   
+     "url": "rtmp://199.168.116.11/app/premiertv2004s-channel"
+               },
+{
+     "name": "LIGA + MULTICANAL 4",
+     "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
+     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"  
+               },
+{
+     "name": "LIGA + MULTICANAL 5",
+     "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
+     "url": "http://cctv-lh.akamaihd.net/i/lacasa2_live@125112/index_1080p_av-p.m3u8"                                                  
                },
 {
      "name": "LIGA (ACESTREAMS)",
      "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
-     "url": "acestream://7889394a083203f4ddddf571ab7b52d34e8e9b3a"   
+     "url": "acestream://7889394a083203f4ddddf571ab7b52d34e8e9b3a" 
                },
 { 
- "name": "CANAL + DEPORTES",
- "image": "http://www.adslzone.tv/app/uploads/2011/03/canalplus_deportes_hd.png",
- "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=181&autoplay=true",
- "referer": "http://verdirectotv.net/ver-divinity-online-en-directo-las-24horas-por-internet-gratis/", 
- "isHost": "true"
+     "name": "CANAL + DEPORTES",
+     "image": "http://www.adslzone.tv/app/uploads/2011/03/canalplus_deportes_hd.png",
+     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=181&autoplay=true",
+     "referer": "http://verdirectotv.net/ver-divinity-online-en-directo-las-24horas-por-internet-gratis/",                        
+     "isHost": "true"  
                },
 {
-     "name": "CANAL + Y MULTICANAL",
-     "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/deportivotve27_live@125113/master.m3u8"                   
-               },			   
+     "name": "DEPORTES (OPC2)",
+     "image": "http://www.adslzone.tv/app/uploads/2011/03/canalplus_deportes_hd.png",
+     "url": "http://freetvcast.pw/embed.php?a=6&id=&width=720&height=420&autostart=true&strech=",
+     "referer": "http://pontucanal.net/canales/cuatro.html",
+     "isHost": "true"  
+               },
+{                       
+     "name": "DEPORTES + MULTICANAL",
+     "image": "http://www.adslzone.tv/app/uploads/2011/03/canalplus_deportes_hd.png",
+     "url": "http://cctv-lh.akamaihd.net/i/deportivotve27_live@125113/master.m3u8"          
+               },
+{                       
+     "name": "DEPORTES + MULTICANAL (OPC.2)",
+     "image": "http://www.adslzone.tv/app/uploads/2011/03/canalplus_deportes_hd.png",
+     "url": "http://cctv-lh.akamaihd.net/i/lacasa2_live@125112/index_1080p_av-p.m3u8"                 
+                },
 {
-     "name": "FUTBOL + MULTICANAL",
+     "name": "CANAL + FUTBOL",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/deportivotve13_live@125189/index_1080p_av-p.m3u8", 
-     "isHost": "true"                  
+     "url": "http://www.embedezcast.com/embedded/marronf12/1/645/395", 
+     "isHost": "true"               
                },
 {
      "name": "CANAL + LIGA CAMPEONES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
      "url": "http://www.embedezcast.com/embedded/puerrolc/1/645/395",
-     "isHost": "true"                                                                                                 
+     "isHost": "true" 
+                 },
+{
+     "name": "CAMPEONES (ACESTREAMS)",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
+     "url": "acestream://7d8cd8a8f5feac300db5917db833790c34af99e0"                                                                                                 
                  },
 {
      "name": "GOL TV",
-     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
+     "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
      "url": "http://freetvcast.pw/embed.php?a=2&id=&width=670&height=400&autostart=true&strech=",
      "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"                                
                 },
 {
      "name": "GOL TV (ACESTREAMS)",
-     "image": "http://www.nuevofutbol.com/wp-content/uploads/golt3.jpg",
+     "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
      "url": "acestream://3599e74e016d3e406f71644f9a58a809d2bedba5"               
                 },
 {
@@ -95,7 +140,7 @@
      "url": "acestream://27873cf82c5860aca601e316c10dcfccc4085406"
                 },
 {
-     "name": "BEIN ESPA�OL",
+     "name": "BEIN ESPAÑOL",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
      "url": "http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8"
                 },
@@ -106,9 +151,9 @@
      "isHost": "true"  
                 },
 {
-     "name": "BEIN + MULTICANAL",
+     "name": "BEIN (OPCION 3)",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/zonaxx1_live@125118/index_1080p_av-p.m3u8"                   
+     "url": "http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8"                   
                 },
 {
      "name": "EUROSPORT",
@@ -120,12 +165,14 @@
 {
      "name": "TELEDEPORTE",
      "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8"     
-                },
+     "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8" 
+                 },
 {
-     "name": "TELEDEPORTE (ACESTREAMS)",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-     "url": "acestream://1e78967e800870ab6323da9fdae198dc9c8f7c0a"
+     "name": "BARSA TV",
+     "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=barsa&w=720&h=440",
+     "referer": "http://pontucanal.net/canales/cuatro.html",
+     "isHost": "true"                             
                  },
 {
      "name": "REAL MADRID TV",
@@ -170,12 +217,12 @@
 {
      "name": "MULTICANAL 1",
      "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "rtmp://178.162.199.154/iguide playpath=p7wksud7foc4cqd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
+     "url": "rtmp://207.244.67.22/iguide playpath=p7wksud7foc4cqd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
                },
 {                       
      "name": "MULTICANAL 2",
      "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv-lh.akamaihd.net/i/zonanba2_live@125117/index_1080p_av-p.m3u8"
+     "url": "http://iphone-streaming.ustream.tv/uhls/20336339/streams/live/iphone/playlist.m3u8"
                 },
 {                       
      "name": "MULTICANAL 3",
@@ -185,13 +232,13 @@
 {                       
      "name": "MULTICANAL 4",
      "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/deportivotve13_live@125189/index_1080p_av-p.m3u8"
+     "url": "http://cctv-lh.akamaihd.net/i/deportivotve27_live@125113/master.m3u8"
                 },
 {                       
      "name": "MULTICANAL 5",
      "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/lacasa2_live@125189/master.m3u8"     
-                },			
+     "url": "rtmp://199.168.116.19/app/premiertv2004s-channel"             
+                }, 			
 ]
 },
 ]
@@ -296,6 +343,17 @@
        "url": "http://www.mipsplayer.com/embedplayer/asdf3asdfasdfasss/1/620/382",
        "isHost": "true"
                    }, 
+]
+},
+{                    
+"name": "TVCD DEPORTES",
+"image": "http://lcd.juanfutbol.com/wp-content/uploads/2014/04/Captura-de-pantalla-2014-04-03-a-las-13.04.02.png",
+"stations": [
+{                       
+     "name": "TVCD DEPORTES",
+     "image": "http://lcd.juanfutbol.com/wp-content/uploads/2014/04/Captura-de-pantalla-2014-04-03-a-las-13.04.02.png",
+     "url": "http://187.247.255.139/Apple/TVCDeportes.m3u8"
+                },
 ]
 },
 {                    
@@ -1442,8 +1500,8 @@
 {                                                                                                      
      "name": "CANAL + DCINE",
      "image": "http://img88.xooimage.com/files/4/c/d/500px-canal-_dcine_2008.svg-36d27c1.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=dcine1&w=650&h=400",
-     "referer": "http://cinestrenostv.tv/canales/nacionales/plus-dcine.php",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=dcine&w=650&h=400",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
      "isHost": "true"
                 },
 {
