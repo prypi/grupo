@@ -766,7 +766,18 @@
      "name": "Eurosport DE",
      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7mf4vvW0FH-9V6vTjdLGSWkd-zfKilYlL8Fl7hA2Kn4OXjKO",
      "url": "http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:eurosport_de/playlist.m3u8"      
-                 },				 
+                 },	
+]
+},
+{
+"name": "MOTO GP",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM4547mD5ffTNG115PCRW2i-7fVi0C2SP9rExp7Feau0ELKh2uoA",
+"stations": [
+{
+     "name": "MOTO GP",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRslMQWAAR7F5Cu3vQ4xP9IQQ5MM4vc_px-PzpsXm309fjwVtdX",
+     "url": "rtmp://104.219.250.32/live?token=xjt5tR_-CZgBSUoETkb1RQExpired=1429342938 app=live?token=xjt5tR_-CZgBSUoETkb1RQExpired=1429342938 playpath=ver9exn8kk swfUrl=http://http://free.tvcast.pw/player.swf pageUrl=http://http://freetvcast.pw/embed.php?a=92&id=&width=700&height=400&autostart=true&strech= token= #ed%h0#w@12Fuck"
+                 },          				 
 ]
 },
 {
