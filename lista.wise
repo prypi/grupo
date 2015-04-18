@@ -1504,13 +1504,13 @@
      "url": "http://vercosasgratis.com/embed.php?a=6545&id=&width=650&height=400&autostart=true&strech=",
      "isHost": "true"
                 },
-{                                                                                                      
-     "name": "CANAL + DCINE",
-     "image": "http://img88.xooimage.com/files/4/c/d/500px-canal-_dcine_2008.svg-36d27c1.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=dcine1&w=650&h=400",
-     "referer": "http://cinestrenostv.tv/canales/nacionales/plus-dcine.php",
-     "isHost": "true"
-                },
+{
+     "name": "CANAL+ DCINE",
+     "image": "http://2.bp.blogspot.com/-nE14LkZ3I3w/UQM1ZOxsuQI/AAAAAAAAAKk/8mwnIfd1wCE/s1600/plus-dcine.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=dcine&w=650&h=400",
+	 "isHost": "true",                       
+     "referer": "http://www.hispaniatv.tv/TV/Nacionales/canal-plus-dcine.html"
+	             },
 {
      "name": "CANAL + ACCION",
      "image": "http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-22-300x163.jpg",
@@ -1627,6 +1627,12 @@
      "image": "http://dogwaymedia.com/wp-content/uploads/2011/12/sesion1-232x134.jpg",
      "url": "rtmp://videos3.lasteles.com/live/sesioncontinuatv.stream"
                  },
+{
+      "name": "FX",
+      "image": "indirizzo_immagine",
+      "url": "http://www.embeducaster.com/embedded/fx3014/1/600/385",
+	  "isHost": "true"
+                    },                    				 
 ]
 },
 {
