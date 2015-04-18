@@ -143,7 +143,7 @@
      "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8" 
                  },
 {
-     "name": "BARSA TV",
+     "name": "BARÇA TV",
      "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=barsa&w=720&h=440",
      "referer": "http://pontucanal.net/canales/cuatro.html",
@@ -155,11 +155,6 @@
      "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=82&autoplay=true",
      "referer": "http://verdirectotv.com/tv/digitales/plustoros.html",
      "isHost": "true"                
-                 },
-{
-     "name": "F1 Y MOTO GP (ACESTREAMS)",
-     "image": "http://motordigital.com/files/2014/02/movistar_tv_f1_motogp_motordigital.jpg",
-     "url": "acestream://4c7b83f20ea64b61c30050c857842d14eec25f54"
                  },
 {
      "name": "ESPORT3",
@@ -183,6 +178,27 @@
      "referer": "http://verdirectotv.com/tv/digitales/plustoros.html",
      "isHost": "true"
                  },
+]
+},
+{
+"name": "MOTO GP Y F1",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM4547mD5ffTNG115PCRW2i-7fVi0C2SP9rExp7Feau0ELKh2uoA",
+"stations": [
+{
+     "name": "F1 Y MOTO GP MOVISTAR(ACESTREAMS)",
+     "image": "http://motordigital.com/files/2014/02/movistar_tv_f1_motogp_motordigital.jpg",
+     "url": "acestream://4c7b83f20ea64b61c30050c857842d14eec25f54"
+                 },
+{
+     "name": "F1 Y MOTO GP Movistar Multi HD(ACESTREAMS)",
+     "image": "http://motordigital.com/files/2014/02/movistar_tv_f1_motogp_motordigital.jpg",
+     "url": "acestream://9fbaf061929c91c612723459d3be505b26f6a5f1"
+                 },				 
+{
+     "name": "Movistar MotoGP (ACESTREAMS)",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRslMQWAAR7F5Cu3vQ4xP9IQQ5MM4vc_px-PzpsXm309fjwVtdX",
+     "url": "acestream://b1f713948a35ada66022d7df26651a4376096dcb"
+                 }, 				 
 ]
 },
 {                    
@@ -766,18 +782,7 @@
      "name": "Eurosport DE",
      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7mf4vvW0FH-9V6vTjdLGSWkd-zfKilYlL8Fl7hA2Kn4OXjKO",
      "url": "http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:eurosport_de/playlist.m3u8"      
-                 },	
-]
-},
-{
-"name": "MOTO GP",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM4547mD5ffTNG115PCRW2i-7fVi0C2SP9rExp7Feau0ELKh2uoA",
-"stations": [
-{
-     "name": "MOTO GP",
-     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRslMQWAAR7F5Cu3vQ4xP9IQQ5MM4vc_px-PzpsXm309fjwVtdX",
-     "url": "rtmp://104.219.250.32/live?token=xjt5tR_-CZgBSUoETkb1RQExpired=1429342938 app=live?token=xjt5tR_-CZgBSUoETkb1RQExpired=1429342938 playpath=ver9exn8kk swfUrl=http://http://free.tvcast.pw/player.swf pageUrl=http://http://freetvcast.pw/embed.php?a=92&id=&width=700&height=400&autostart=true&strech= token= #ed%h0#w@12Fuck"
-                 },          				 
+                 },	         				 
 ]
 },
 {
@@ -1121,70 +1126,55 @@
 {
      "name": "ANTENA 3",
      "image": "http://www.formulatv.com/fotos/a/76000/76431/9tho2jqs5sdxqpa7394cb734508c3cc_logo-antena3-television_m.png",
-     "url": "http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8"
-     
-                 },				 					
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=ant3&w=670&h=400",
+     "referer": "http://pontucanal.net/canales/cuatro.html",
+     "isHost": "true"          
+                 },
 {
      "name": "CUATRO HD",
      "image": "http://upload.wikimedia.org/wikipedia/en/6/68/CuatroTV.png",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=103&autoplay=true",
-	 "referer": "http://cinestrenostv.tv/canales/nacionales/lacuatro.php",
-      "isHost": "true"	  
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=cuatro&w=650&h=400",
+     "referer": "http://pontucanal.net/canales/cuatro.html",
+     "isHost": "true"                    
                   },
 {
      "name": "TELECINCO HD",
      "image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
-     "url": "http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8"
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tele5&w=650&h=400",
+     "referer": "http://pontucanal.net/canales/telecinco.html",
+     "isHost": "true"
                  },
 {
-     "name": "TELECINCO (2) HD",
-     "image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
-     "url": "http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8?sd=10&rebase=on"
-                 },				 
-{
-     "name": "LA SEXTA HD",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13tDyPtaSbxPLmSo8S2xUE77CfrrLMETakm1O3duK7vcG_Na9",
-     "url": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8"       
-                 },
-{
-     "name": "LA SEXTA SD",
-     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ2nIOx3tj_4MJtzReYMDxk3ROXaLTpnSwrvJjJjj9eo2by73W3A",
-     "url": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on"       
-                 },				 
+     "name": "LA SEXTA",
+     "image": "http://www.kiddyminimodel.es/blog/wp-content/uploads/2013/10/laSexta.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=sexta&w=650&h=400",
+     "referer": "http://pontucanal.net/canales/cuatro.html",
+     "isHost": "true"  
+                  },
 {
      "name": "ENERGY",
      "image": "http://www.adslzone.tv/content/uploads/2011/11/energy.jpg",
      "url": "http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-b.m3u8"
                  },
 {
-             "name": "PARAMOUNT CHANEL",
-        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Paramount-Channel-logo.jpg/190px-Paramount-Channel-logo.jpg",
-        "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=paramountchannel&w=650&h=400",
-        "isHost": "true",
-        "referer": "http://canalesgratis.me/canales/parmountchannel.php"
-                     },				 
+     "name": "EURONEWS",
+     "image": "http://advanced-television.com/wp-content/uploads/2010/10/Euronews-Logo.jpg",
+     "url": "rtmp://149.11.34.78/live/euronewses.stream"
+                 },
 {
      "name": "FDF",
      "image": "http://publiespstatic-a.akamaihd.net/FDF_PUBIMA20130221_0008_17.jpg",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=179&autoplay=true",
-     "referer": "http://cinestrenostv.tv/canales/nacionales/fdf.php",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=fdf&w=670&h=400",
+     "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"        
                 },
 {
      "name": "NEOX",
      "image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
-     "url": "http://a3live-lh.akamaihd.net/i/neox_1@35261/master.m3u8"    
-                 },
-{
-     "name": "NOVA",
-     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfW8Q4t9Cxez64t6Tlhkjvc9sgob7kPe7eAZprgbbxwnrwMpWrPA",
-     "url": "http://a3live-lh.akamaihd.net/i/eventos6_1@35271/master.m3u8"    
-                 },
-{
-     "name": "NOVA (2)",
-     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfW8Q4t9Cxez64t6Tlhkjvc9sgob7kPe7eAZprgbbxwnrwMpWrPA",
-     "url": "http://a3live-lh.akamaihd.net/i/eventos2_1@14840/master.m3u8"    
-                 },				 
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=neox&w=670&h=400",
+     "referer": "http://pontucanal.net/canales/cuatro.html",
+     "isHost": "true"        
+                 },			 
 ]
 },
 {
@@ -1484,71 +1474,65 @@
 "name": "ESPAÑOL",
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/En_Espa%C3%B1ol.jpg",
 "stations": [
-{                              
-     "name": "CANAL +",
-     "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400",
-     "referer": "http://cinestrenostv.tv/ver-canales-nacionales-de-españa-online-en-directo/canales/nacionales/plus1.php",
-     "isHost": "true"                  
-                },     
-{
+{                                                                                                      
      "name": "CANAL + HD",
      "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=184&autoplay=true",
-     "referer": "http://verdirectotv.net/ver-divinity-online-en-directo-las-24horas-por-internet-gratis/",                        
-     "isHost": "true"
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=720&h=440",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "isHost": "true"    
                 },
-{
+{                                                                                                      
      "name": "CANAL + HD (OPC 2)",
      "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
-     "url": "http://www.embedezcast.com/embedded/lacham12/1/645/395",
-     "isHost": "true"
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "isHost": "true"                      
                 },
 {
      "name": "CANAL + (ACESTREAMS)",
      "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
-     "url": "acestream://c06ee4206da9f52e00cb62023dde60fc62da64cc"
+     "url": "acestream://c06ee4206da9f52e00cb62023dde60fc62da64cc"  
                 },
-{
-     "name": "CANAL + 2",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%202%20Hd.jpg",
-     "url": "http://vercosasgratis.com/embed.php?a=6545&id=&width=650&height=400&autostart=true&strech=",
-     "isHost": "true"
+{                                                                                                      
+     "name": "CANAL 2 + HD",
+     "image": "http://sinfuturoysinunduro.files.wordpress.com/2010/09/logo_canal_dos.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus2&w=720&h=440",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "isHost": "true"            
                 },
-{
-     "name": "CANAL+ DCINE",
-     "image": "http://2.bp.blogspot.com/-nE14LkZ3I3w/UQM1ZOxsuQI/AAAAAAAAAKk/8mwnIfd1wCE/s1600/plus-dcine.jpg",
+{                                                                                                      
+     "name": "CANAL + DCINE",
+     "image": "http://img88.xooimage.com/files/4/c/d/500px-canal-_dcine_2008.svg-36d27c1.png",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=dcine&w=650&h=400",
-	 "isHost": "true",                       
-     "referer": "http://www.hispaniatv.tv/TV/Nacionales/canal-plus-dcine.html"
-	             },
-{
-     "name": "CANAL + ACCION",
-     "image": "http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-22-300x163.jpg",
-      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plusaccion&w=670&h=400",
-       "isHost": "true",
-       "referer": "http://streamingfreetv.net/canal-accion/"
-                 },
-{
-     "name": "CANAL + COMEDIA",
-     "image": "http://i.imgur.com/854ZMKc.png",
-     "url": "http://vercosasgratis.com/embed.php?a=6549&id=&width=650&height=400&autostart=true&strech=",
-	 "referer": "http://cinestrenostv.tv/canales/nacionales/plus-comedia.php",
-     "isHost": "true"
-                  },
-{
-          "name": "CANAL+ SERIES",
-        "image": "http://www.plus.es/recorte/?id=672126&v=DPBLAN&r=guia&t=l",
-        "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plusseries&w=650&h=400",
-        "isHost": "true",
-        "referer": "http://pontucanal.net/canales/plusseries.html?VW=650&VH=400"
-                   },
-{
-     "name": "COMEDY CENTRAL",
-     "image": "http://upload.wikimedia.org/wikipedia/de/6/61/Comedy_Central_Logo_Blau.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=comedycentral&w=650&h=400",
      "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
      "isHost": "true"
+                },
+{
+     "name": "CANAL + ACCION",
+     "image": "http://3.bp.blogspot.com/-U3q8WYbjQK8/UxTcqbZ-dpI/AAAAAAAABM0/CovPlwMZ8SM/s1600/CanalPlusAccion.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plusaccion&w=720&h=440",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/plus-accion.php",
+     "isHost": "true"                
+                 },
+{
+     "name": "CANAL + COMEDIA (off)",
+     "image": "http://i.imgur.com/854ZMKc.png",
+     "url": "rtmp://94.23.247.151/redirect?token=wcSM8KFsQ5zUIKoVgsuYLwExpired=1427755669 playpath=verf832cc77c3a7953061b67a52b757c114 swfUrl=http://vercosasgratis.com/player.swf pageUrl=http://vercosasgratis.com/",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/plus-accion.php",
+     "isHost": "true"                
+                  },
+{
+     "name": "CANAL + SERIES",
+     "image": "http://www.chicadelatele.com/wp-content/uploads/2013/11/canal-plus-series-logo-530.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plusseries&w=650&h=440",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "isHost": "true"
+                 },
+{
+     "name": "CALLE 13",
+     "image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=calle13&w=670&h=400",
+     "isHost": "true"                              
                  },
 {
         "name": "FOX",
@@ -1557,12 +1541,6 @@
         "isHost": "true",
         "referer": "http://pontucanal.net/canales/fox.html?VW=650&VH=400"  
                     },
-{
-     "name": "FOX LIFE",
-     "image": "http://upload.wikimedia.org/wikipedia/en/4/44/Fox-Life.png",
-     "url": "http://vercosasgratis.com/embed.php?a=6359&id=&width=650&height=400&autostart=true&strech=",
-     "isHost": "true"
-                 },
 {
      "name": "AXN",
      "image": "http://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",
@@ -1573,24 +1551,17 @@
 {
      "name": "SYFY",
      "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=syfy&w=650&h=400",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=syfy&w=670&h=400",
      "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
      "isHost": "true"
                   },
 {
      "name": "XTRM",
      "image": "http://4.bp.blogspot.com/-Ha8vfxxLJUA/VEyQahAUyfI/AAAAAAAAB2Q/Wsyjz6chQrA/s320/descarga%2B(5).jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=xtrm2&w=650&h=400",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=xtrm2&w=670&h=400",
      "referer": "http://pontucanal.net/canales/xtrm.html",
      "isHost": "true"                                  
                   },
-{
-         "name": "CALLE 13",
-       "image": "http://alejandrapons.files.wordpress.com/2012/08/logo13.gif",
-       "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=calle13&w=650&h=400",
-       "isHost": "true",
-       "referer": "http://vercanalestv.com/tv/nacionales/calle-13.html"
-                   },				  
 {
      "name": "BUZZ ROJO",
      "image": "https://lh5.googleusercontent.com/-0AfuA8yVhYU/Uu-KIWLQvpI/AAAAAAAABTQ/3SCHBKTO6wk/s496/buzz.jpg",
@@ -1601,38 +1572,17 @@
 {
      "name": "HOLLYWOOD",
      "image": "http://img1.wikia.nocookie.net/__cb20140514123652/logosfake/images/4/47/Canal_Hollywood_HD.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=hollywood&w=720&h=440",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=hollywood&w=670&h=400",
      "referer": "http://cinestrenostv.tv/canales/nacionales/tnt.php",
      "isHost": "true"
                   },
 {
      "name": "TNT HD",
      "image": "http://2.bp.blogspot.com/-xE-NPwg1B-Y/US6tHr_eAGI/AAAAAAAAAIs/NnqXokvKAo4/s1600/TNT-en-Vivo-Onlinehddetv.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tnt&w=650&h=400",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tnt&w=670&h=400",
      "referer": "http://pontucanal.net/canales/tnt.html",
      "isHost": "true"
-                  },
-{
-             "name": "TNT",
-        "image": "http://www.canaltnt.es/sites/all/themes/tnt/images/logo.png",
-        "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tnt&w=650&h=400",
-        "isHost": "true",
-        "referer": "http://pontucanal.net/canales/tnt.html?VW=650&VH=400"
-                    },
-{
-         "name": "AMC",
-         "image": "http://blog.ono.es/wp-content/uploads/2014/11/amclogo4__140305172543.png",
-         "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=amc&w=650&h=400",
-         "referer": "http://pontucanal.net/canales/amc.html",
-         "isHost": "true"
-                },
-                {
-         "name": "Hollywood HD",
-         "image": "http://www.todotele.com/wp-content/uploads/2012/12/canal-hollywood-HD.jpg",
-         "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=hollywood&w=650&h=400",
-         "referer": "http://pontucanal.net/canales/hollywood.html",
-         "isHost": "true"
-                },					
+                 },					
 {
      "name": "CINE SESION CONTINUA ESPAÑA",
      "image": "http://dogwaymedia.com/wp-content/uploads/2011/12/sesion1-232x134.jpg",
@@ -1640,7 +1590,7 @@
                  },
 {
       "name": "FX",
-      "image": "indirizzo_immagine",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQihORFFZIPjGNGdb5Fes6Yp6T1fymxgNO_5UtK4d74cCUkGGz5",
       "url": "http://www.embeducaster.com/embedded/fx3014/1/600/385",
 	  "isHost": "true"
                     },                    				 
@@ -3247,6 +3197,12 @@
 "name": "ESTRENOS DE CINE",
 "image": "http://www.nadacomercial.com/wordpress/wp-content/uploads/2012/05/proximos-estrenos-sala-de-cine-Logo.jpg",
 "stations": [
+{
+                        "name": "El violinista del diablo(2013)",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZGhid89C6IkG72WiTnxWEXE28S46R8UWqbk0bfbyylMZpLkMbmA",
+                        "url": "http://www.flashx.tv/embed-ldh5kkgw0qa3-640x272.html",
+                        "isHost": "true"
+                },
 {
                         "name": "The Guest",
                         "image": "http://es.web.img2.acsta.net/cx_160_213/b_1_d6d6d6/pictures/15/03/16/15/55/505015.jpg",
