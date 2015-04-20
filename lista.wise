@@ -1108,6 +1108,12 @@
 "image": "http://www.nadacomercial.com/wordpress/wp-content/uploads/2012/05/proximos-estrenos-sala-de-cine-Logo.jpg",
 "stations": [
 {
+                        "name": "¡Asu Mare! 2 Latino",
+                        "image": "http://imgs24.com/images/A_Asu_Mare_2-115311317-large.th.jpg",
+                        "url": "http://powvideo.net/embed-f0fvfentwefg-640x360.html",
+                        "isHost": "true"
+                },
+{
                         "name": "Loco de amor",
                         "image": "http://imgs24.com/images/lovesick1.th.jpg",
                         "url": "http://powvideo.net/embed-ucimidvkb7qa-640x360.html",
@@ -1690,7 +1696,7 @@
                         "image": "https://3.bp.blogspot.com/-k9BXA5mGjEk/VMknvy9g1iI/AAAAAAAALjk/oyB476_KlVQ/s200/Legorge.jpg",
                         "url": "http://streamcloud.eu/j9lsvwd7e0r3/La_Liga_de_la_Justicia_contra_la_Liga_de_Bizarro_HDRip_C.avi.html",
 			"isHost": "true"                  
-                },					 
+                },							 
 ]
 },
 ]
@@ -3789,10 +3795,5 @@
                     },
 ]
 },
-{
-"name": "ESTRENOS DE CINE",
-"image": "http://www.nadacomercial.com/wordpress/wp-content/uploads/2012/05/proximos-estrenos-sala-de-cine-Logo.jpg",
-"stations": [
-{
-                        "name": "El violinista del diablo(2013)",
-                        "image": "https://encrypted-tbn0.gstatic.com/images?
+]
+}
