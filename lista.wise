@@ -1,6 +1,6 @@
 {
         "name": "The List",
-        "author": "prypi",
+        "author": "prypi y company",
         "url": "https://raw.githubusercontent.com/prypi/grupo/master/lista.wise",
         groups: [              
 {                    
@@ -21,11 +21,6 @@
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=Liga&w=650&h=400",
      "referer": "http://pontucanal.net/#modal4",
      "isHost": "true"    
-               },
-{
-     "name": "CANAL + (ACESTREAMS)",
-     "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
-     "url": "acestream://c06ee4206da9f52e00cb62023dde60fc62da64cc"              
                },
 {
      "name": "CANAL + LIGA",
@@ -78,12 +73,19 @@
      "isHost": "true"                         
                  },
 {
+     "name": "CANAL + FUTBOL (OPC2)",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
+     "url": "http://1broadcastlive.com/embed/embed.php?channel=plus_futbol&w=650&h=400",
+	 "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"                         
+                 },				 
+{
      "name": "CANAL + LIGA CAMPEONES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
      "url": "http://freetvcast.pw/embed.php?a=38&id=&width=670&height=400&autostart=true&strech=",
      "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"                           
-                 },
+                 },				 
 {
      "name": "CAMPEONES (ACESTREAMS)",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
@@ -102,6 +104,13 @@
      "url": "http://www.mipsplayer.com/embedplayer/marrong1/1/645/395",
      "isHost": "true"                                      
                 },
+{
+     "name": "GOL TV (OPCION 3)",
+     "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=gol&w=650&h=400",
+	 "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"                                      
+                },				
 {
      "name": "GOL TV (ACESTREAMS)",
      "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
@@ -171,6 +180,13 @@
      "referer": "http://cinestrenostv.tv/canales/toros.html",
      "isHost": "true"
                   },
+{
+     "name": "PLUS TOROS (OPC2)",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwYGRwHj0029LUwEHcZCLp7OR48WleAQ5pp-vshD9J_GWxYRcd",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=toros&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                  },				  
 ]
 },
 {
@@ -194,76 +210,60 @@
                  }, 				 
 ]
 },
-{                    
+{ 
 "name": "MULTICANAL",
 "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
 "stations": [
 {
-     "name": "MULTICANAL 1",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv-lh.akamaihd.net/i/Biophobia4_live@125124/index_1080p_av-p.m3u8"
-               },
-{                       
-     "name": "MULTICANAL 2",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/biophobia_live@125194/index_1080p_av-p.m3u8"              
-                },
-{                       
-     "name": "MULTICANAL 3",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
-                },
-{                       
-     "name": "MULTICANAL 4",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/fslimites2000_live@125186/index_1080p_av-p.m3u8"   
-                },
-{                       
-     "name": "MULTICANAL 5",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv-lh.akamaihd.net/i/premiertv1010_live@125115/master.m3u8"  
-                },
-{                       
-     "name": "MULTICANAL 6",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "rtmp://31.220.0.155/privatestream/ playpath=lacasadeltikitaka1?keys=xxb7sJsEaA20NMwPIz9X_A&keyt=1429299056 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=lacasadeltikitaka1&width=810&height=490"        
-                },
-]
-},
-{                    
-"name": "MULTICANAL",
-"image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-"stations": [
-{
-     "name": "MULTICANAL 1",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv-lh.akamaihd.net/i/MRC1HD1_live@125114/index_1080p_av-p.m3u8"
-               },
-{                       
-     "name": "MULTICANAL 2",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "rtmp://89.248.169.48/iguide playpath=p7wksud7foc4cqd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD"
-                },
-{                       
-     "name": "MULTICANAL 3",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv-lh.akamaihd.net/i/deportivotve13_live@125114/index_1080p_av-p.m3u8"
-                },
-{                       
-     "name": "MULTICANAL 4",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
-                },
-{                       
-     "name": "MULTICANAL 5",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8"  
-                },
-{                       
-     "name": "MULTICANAL 6",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/Biophobia4_live@125188/index_1080p_av-p.m3u8"            
-                },		
+ "name": "MULTICANAL 1",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
+ },
+{ 
+ "name": "MULTICANAL 2",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "http://cctv-lh.akamaihd.net/i/fslimites2000_live@125108/index_1080p_av-p.m3u8" 
+ },
+{ 
+ "name": "MULTICANAL 3",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "http://cctv2-lh.akamaihd.net/i/futboltatope666_live@125195/index_1080p_av-p.m3u8"
+ },
+{ 
+ "name": "MULTICANAL 4",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "http://cctv2-lh.akamaihd.net/i/Futbolatope3_live@125189/index_1080p_av-p.m3u8" 
+ },
+{ 
+ "name": "MULTICANAL 5",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "rtmp://199.168.116.19/app/avision10s-channel" 
+ },
+{ 
+ "name": "MULTICANAL 6",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "http://cctv-lh.akamaihd.net/i/Zonax1x_live@125124/index_1080p_av-p.m3u8" 
+ },
+{ 
+ "name": "MULTICANAL 7",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "http://cctv2-lh.akamaihd.net/i/Zonax3y_live@125189/index_1080p_av-p.m3u8" 
+ },
+{ 
+ "name": "MULTICANAL 8",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "http://cctv-lh.akamaihd.net/i/emitesport_live@125112/index_1080p_av-p.m3u8" 
+ },
+{ 
+ "name": "MULTICANAL 9",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "http://cctv2-lh.akamaihd.net/i/emitesportshd_live@125191/index_1080p_av-p.m3u8" 
+ },
+{ 
+ "name": "MULTICANAL 10",
+ "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+ "url": "http://hls.goodgame.ru/hls/33998.m3u8" 
+ },		
 ]
 },
 ]
@@ -1101,6 +1101,25 @@
 "image": "http://www.nadacomercial.com/wordpress/wp-content/uploads/2012/05/proximos-estrenos-sala-de-cine-Logo.jpg",
 "stations": [
 {
+                        "name": "HÉROE DE CENTRO COMERCIAL 2",
+                        "image": "http://www.locopelis.com/files/uploads/9158.jpg",
+                        "url": "http://videoapi.my.mail.ru/videos/embed/mail/gottsu04/_myvideo/296.html",
+                        "isHost": "true"
+						},
+{
+                        "name": "Una noche para sobrevivir",
+                        "image": "http://www.yaske.to/upload/images/027d48a453669b567b6428a2a26678cc.jpg",
+                        "url": "http://streamin.to/7on9p1f3cf0f?1",
+                        "isHost": "true"
+						},
+{
+                        "name": "Musarañas",
+                        "image": "http://www.yaske.to/upload/images/1dbd4d690cc8eacb840a380a5b2f1544.jpg",
+                        "url": "http://streamin.to/8a7jyhem5t9w?1",
+                        "isHost": "true"
+						},
+
+{
                         "name": "OJOS GRANDES",
                         "image": "http://www.peliculasrey.com/wp-content/uploads/2015/01/ojos-grandes-200x300.jpg",
                         "url": "https://www.cloudy.ec/embed.php?id=0f1c5c1c7093f&width=660&height=360",
@@ -1745,6 +1764,13 @@
      "isHost": "true"
                  },
 {
+     "name": "LA 1 (OPC2)",
+     "image": "http://www.cw2014.unican.es/wp-content/uploads/2014/10/Logo_TVE-1.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tv1&w=650&h=400",
+	 "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                 },				 
+{
      "name": "24H. TV",
      "image": "http://tutele.s3.amazonaws.com/wp-content/uploads/2014/01/canal-24-horas-logo.jpg",
      "url": "http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8"     
@@ -1756,12 +1782,26 @@
      "isHost": "true"                
                 },
 {
+     "name": "TVE2 (OPC2)",
+     "image": "http://www.irtve.es/css/rtve.commons/rtve.multisign2014/custom/CTV_LA2/i/mosca_CTV_LA2.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tve2&w=650&h=400",
+	 "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"                
+                },				
+{
      "name": "ANTENA 3",
      "image": "http://www.formulatv.com/fotos/a/76000/76431/9tho2jqs5sdxqpa7394cb734508c3cc_logo-antena3-television_m.png",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=ant3&w=670&h=400",
      "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"          
                  },
+{
+     "name": "ANTENA 3 (OPC2)",
+     "image": "http://www.formulatv.com/fotos/a/76000/76431/9tho2jqs5sdxqpa7394cb734508c3cc_logo-antena3-television_m.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=ant3&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"          
+                 },				 
 {
      "name": "ANTENA 3 HD",
      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbHtMVDI79YqyKHaPAJbgt89B_BnpXN-NMPriY6hXLAf7WqupL",
@@ -1774,6 +1814,13 @@
      "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"                    
                   },
+{
+     "name": "TELECINCO",
+     "image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tele5&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                 },				  
 {
      "name": "TELECINCO HD",
      "image": "http://upload.wikimedia.org/wikipedia/it/b/bb/Telecinco_HD_2012.png",
@@ -1799,6 +1846,13 @@
      "url": "http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-b.m3u8"
                  },
 {
+     "name": "ENERGY (OPC 2)",
+     "image": "http://www.adslzone.tv/content/uploads/2011/11/energy.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=energy&w=650&h=400",
+	 "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                 },				 
+{
      "name": "EURONEWS",
      "image": "http://advanced-television.com/wp-content/uploads/2010/10/Euronews-Logo.jpg",
      "url": "rtmp://149.11.34.78/live/euronewses.stream"
@@ -1818,24 +1872,45 @@
      "isHost": "true"        
                  },
 {
+     "name": "NEOX (OPC2)",
+     "image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=neox&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"        
+                 },				 
+{
      "name": "DIVINITY",
      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJTVJDMtdoDKiUNPZ7lOtoKuUrUc5NtxN-QJcwitZOyraYvotBFg",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=divinity2&w=650&h=400",
      "referer": "http://pontucanal.net/#modal4",
      "isHost": "true"        
-                 },					 
+                 },				 
 {
      "name": "NOVA",
      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRt0RNr_RDQ7VHSZqZX-Ej_iamOhWBTBVj3d605ubS7yK0_qx3pbg",
      "url": "http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8"  
                   },
 {
+     "name": "NOVA",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZu8FvzCPvid9jeza8qI1RQTQqHnijTKQSXlBjt5jIb9qLo1fX",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=nova&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"        
+                 },				  
+{
         "name": "PARAMOUNT CHANEL",
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Paramount-Channel-logo.jpg/190px-Paramount-Channel-logo.jpg",
         "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=paramountchannel&w=650&h=400",
         "isHost": "true",
         "referer": "http://canalesgratis.me/canales/parmountchannel.php"
-                   },			  
+                   },
+{
+        "name": "INTERECONOMIA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgFImHyPr16yGs-To8BP8r6cAZ0sQBzIzNzOd0ktcWfsmp5Lvz7w",
+        "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=inter&w=650&h=400",
+        "isHost": "true",
+        "referer": "http://pontucanal.net/#modal4"
+                   },				   
 ]
 },
 {
@@ -2149,6 +2224,13 @@
      "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
      "isHost": "true"                      
                 },
+{                                                                                                      
+     "name": "CANAL + HD (OPC 3)",
+     "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"                      
+                },				
 {
      "name": "CANAL + (ACESTREAMS)",
      "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
@@ -2169,10 +2251,17 @@
      "isHost": "true"
                 },
 {                                                                                                      
-     "name": "CANAL + DCINE (OPC)",
+     "name": "CANAL + DCINE (OPC 2)",
      "image": "http://img88.xooimage.com/files/4/c/d/500px-canal-_dcine_2008.svg-36d27c1.png",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=dcine&w=650&h=400",
      "referer": "http://pontucanal.net/canales/dcine.html",
+     "isHost": "true"
+                },	
+{                                                                                                      
+     "name": "CANAL + DCINE (OPC 3)",
+     "image": "http://img88.xooimage.com/files/4/c/d/500px-canal-_dcine_2008.svg-36d27c1.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=dcine1&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
      "isHost": "true"
                 },				
 {
@@ -2183,12 +2272,26 @@
      "isHost": "true"                
                  },
 {
+     "name": "CANAL + ACCION (OPC 2)",
+     "image": "http://3.bp.blogspot.com/-U3q8WYbjQK8/UxTcqbZ-dpI/AAAAAAAABM0/CovPlwMZ8SM/s1600/CanalPlusAccion.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plusaccion&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"                
+                 },				 
+{
      "name": "CANAL + COMEDIA",
      "image": "http://i.imgur.com/854ZMKc.png",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=comediaplus&w=650&h=400",
      "referer": "http://pontucanal.net/canales/comediaplus.html",
      "isHost": "true"                
                   },
+{
+     "name": "CANAL + COMEDIA(OPC 2)",
+     "image": "http://i.imgur.com/854ZMKc.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=comediaplus&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"                
+                  },				  
 {
      "name": "CANAL + SERIES",
      "image": "http://www.chicadelatele.com/wp-content/uploads/2013/11/canal-plus-series-logo-530.jpg",
@@ -2197,11 +2300,25 @@
      "isHost": "true"
                  },
 {
+     "name": "CANAL + SERIES",
+     "image": "http://www.chicadelatele.com/wp-content/uploads/2013/11/canal-plus-series-logo-530.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plusseries&w=650&h=440",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                 },				 
+{
      "name": "CALLE 13",
      "image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=calle13&w=670&h=400",
      "isHost": "true"                              
                  },
+{
+     "name": "CALLE 13(OPC2)",
+     "image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=calle13&w=650&h=400",
+	 "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"                              
+                 },				 
 {
         "name": "FOX",
         "image": "http://www.plus.es/recorte/?id=FOXGE&v=DP&r=canal&t=m",
@@ -2210,12 +2327,26 @@
         "referer": "http://pontucanal.net/canales/fox.html?VW=650&VH=400"  
                     },
 {
+        "name": "FOX(OPC2)",
+        "image": "http://www.plus.es/recorte/?id=FOXGE&v=DP&r=canal&t=m",
+        "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=fox&w=650&h=400",
+        "isHost": "true",
+        "referer": "http://pontucanal.net/#modal4"  
+                    },					
+{
      "name": "AXN",
      "image": "http://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=axn&w=670&h=400",
      "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
      "isHost": "true"
                  },
+{
+     "name": "AXN (OPC2)",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=axn&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                 },				 
 {
      "name": "SYFY",
      "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
@@ -2224,12 +2355,26 @@
      "isHost": "true"
                   },
 {
+     "name": "SYFY >(OPC2)",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=syfy&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                  },				  
+{
      "name": "XTRM",
      "image": "http://4.bp.blogspot.com/-Ha8vfxxLJUA/VEyQahAUyfI/AAAAAAAAB2Q/Wsyjz6chQrA/s320/descarga%2B(5).jpg",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=xtrm2&w=670&h=400",
      "referer": "http://pontucanal.net/canales/xtrm.html",
      "isHost": "true"                                  
                   },
+{
+     "name": "XTRM (OPC2)",
+     "image": "http://4.bp.blogspot.com/-Ha8vfxxLJUA/VEyQahAUyfI/AAAAAAAAB2Q/Wsyjz6chQrA/s320/descarga%2B(5).jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=xtrm2&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"                                  
+                  },				  
 {
      "name": "BUZZ ROJO",
      "image": "https://lh5.googleusercontent.com/-0AfuA8yVhYU/Uu-KIWLQvpI/AAAAAAAABTQ/3SCHBKTO6wk/s496/buzz.jpg",
@@ -2245,12 +2390,26 @@
      "isHost": "true"
                   },
 {
+     "name": "HOLLYWOOD (OPC2)",
+     "image": "http://img1.wikia.nocookie.net/__cb20140514123652/logosfake/images/4/47/Canal_Hollywood_HD.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=hollywood&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                  },				  
+{
      "name": "TNT HD",
      "image": "http://2.bp.blogspot.com/-xE-NPwg1B-Y/US6tHr_eAGI/AAAAAAAAAIs/NnqXokvKAo4/s1600/TNT-en-Vivo-Onlinehddetv.jpg",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tnt&w=670&h=400",
      "referer": "http://pontucanal.net/canales/tnt.html",
      "isHost": "true"
-                 },					
+                 },	
+{
+     "name": "TNT HD (OPC2)",
+     "image": "http://2.bp.blogspot.com/-xE-NPwg1B-Y/US6tHr_eAGI/AAAAAAAAAIs/NnqXokvKAo4/s1600/TNT-en-Vivo-Onlinehddetv.jpg",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=tnt&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                 },				 
 {
      "name": "CINE SESION CONTINUA ESPAÑA",
      "image": "http://dogwaymedia.com/wp-content/uploads/2011/12/sesion1-232x134.jpg",
@@ -2268,7 +2427,14 @@
        "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=amc&w=650&h=400",
        "referer": "http://pontucanal.net/canales/amc.html",
        "isHost": "true"
-                  },					
+                  },
+{
+       "name": "COSMO",
+       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcwQSKEwTtOe_8vMW72WBcaGJvuKvS0aOXp50p5ZQFCHVfI9HozA",
+       "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=cosmo&w=650&h=400",
+       "referer": "http://pontucanal.net/#modal4",
+       "isHost": "true"
+                  },				  
 ]
 },
 {
@@ -2547,22 +2713,22 @@
 {
      "name": "HISTORIA",
      "image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=100&autoplay=true",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=historia&w=650&h=400",
      "isHost": "true",
-     "referer": "http://verdirectotv.com/tv/documentales/history.html" 
+     "referer": "http://pontucanal.net/#modal4" 
                  },
 {
      "name": "A&E",
      "image": "http://blog.cablevision.net.mx/wp-content/uploads/2011/06/AEHD.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=ande&w=720&h=440",
-     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=ande&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
      "isHost": "true"
                  },
 {
       "name": "ODISEA",
       "image": "http://img.vayatele.com/2011/02/logocanalodisea.jpg",
-      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=odisea&w=%20650%20&h=%20400",
-      "referer": "http://pontucanal.net/canales/odisea.html",
+      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=odisea&w=650&h=400",
+      "referer": "http://pontucanal.net/#modal4",
       "isHost": "true"
                  },
 {
@@ -2580,12 +2746,19 @@
      "isHost": "true"
                  },
 {
-     "name": "NAT GEO WILD",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/National%20Geographic%20Wild.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=natgeowild&w=670&h=400",
-     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "name": "NAT GEO",
+     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-dCEV9m3r_Iz0vCk4QMqUL_C_Gv1-iU-HEY5HFGUkxGgX1_rX",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=natgeo&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
      "isHost": "true"
                 },
+{
+     "name": "NAT GEO WILD",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLI5AiyKzaBQWLGautzzmwoNvFaa907GU7Ic3s-XAtD30XtBZN",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=natgeowild&w=650&h=400",
+     "referer": "http://pontucanal.net/#modal4",
+     "isHost": "true"
+                },				
 {
      "name": "HOGAR UTIL",
      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ67qE6i2Xqd6q_kJzr3AaLPGqB9AeT0GwdgoUwAACs4bkFCuTbSA",
@@ -3076,4 +3249,21 @@
      "url": "http://broadcast.infomaniak.net/jazzblackmusic-high.aac"
                  },	
 {
-     "na
+     "name": "RADIO AÑOS 70",
+     "image": "http://thumbs.dreamstime.com/z/peace-symbol-seventies-29358325.jpg",
+     "url": "http://31.12.64.204:8000/A-RADIO-70s-JUICE"
+                 },	
+{
+     "name": "RADIO AÑOS 80",
+     "image": "http://3.bp.blogspot.com/--BHA4_-uClE/TwuVrFW73jI/AAAAAAAAALU/fl7VZ_uFGr0/s1600/love_80s_4cd_2011.marked.jpg",
+     "url": "http://31.12.64.204:8000/A-RADIO-80s-JUICE"
+                 },	
+	{
+     "name": "RADIO AÑOS 90",
+     "image": "http://4.bp.blogspot.com/-Gc_6SgJbzh8/T94dhYIPflI/AAAAAAAAEaI/rpx_cxUvaOs/s400/90s1.jpg",
+     "url": "http://31.12.64.204:8000/A-RADIO-90s-JUICE"
+                 },
+]
+},
+]
+}
