@@ -23,6 +23,11 @@
      "isHost": "true"    
                },
 {
+     "name": "CANAL + (ACESTREAMS)",
+     "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
+     "url": "acestream://c06ee4206da9f52e00cb62023dde60fc62da64cc"              
+               },
+{
      "name": "CANAL + LIGA",
      "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
      "url": "http://freetvcast.pw/embed.php?a=3&id=&width=670&height=400&autostart=true&strech=",
@@ -73,19 +78,12 @@
      "isHost": "true"                         
                  },
 {
-     "name": "CANAL + FUTBOL (OPC2)",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
-     "url": "http://1broadcastlive.com/embed/embed.php?channel=plus_futbol&w=650&h=400",
-	 "referer": "http://pontucanal.net/#modal4",
-     "isHost": "true"                         
-                 },				 
-{
      "name": "CANAL + LIGA CAMPEONES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
      "url": "http://freetvcast.pw/embed.php?a=38&id=&width=670&height=400&autostart=true&strech=",
      "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"                           
-                 },				 
+                 },
 {
      "name": "CAMPEONES (ACESTREAMS)",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
@@ -104,13 +102,6 @@
      "url": "http://www.mipsplayer.com/embedplayer/marrong1/1/645/395",
      "isHost": "true"                                      
                 },
-{
-     "name": "GOL TV (OPCION 3)",
-     "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=gol&w=650&h=400",
-	 "referer": "http://pontucanal.net/#modal4",
-     "isHost": "true"                                      
-                },				
 {
      "name": "GOL TV (ACESTREAMS)",
      "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
@@ -178,13 +169,6 @@
      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwYGRwHj0029LUwEHcZCLp7OR48WleAQ5pp-vshD9J_GWxYRcd",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=toros&w=670&h=400",
      "referer": "http://cinestrenostv.tv/canales/toros.html",
-     "isHost": "true"
-                  },
-{
-     "name": "PLUS TOROS (OPC2)",
-     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwYGRwHj0029LUwEHcZCLp7OR48WleAQ5pp-vshD9J_GWxYRcd",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=toros&w=650&h=400",
-     "referer": "http://pontucanal.net/#modal4",
      "isHost": "true"
                   },				  
 ]
@@ -263,7 +247,27 @@
  "name": "MULTICANAL 10",
  "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
  "url": "http://hls.goodgame.ru/hls/33998.m3u8" 
- },		
+ },
+ {
+     "name": "MULTICANAL 11",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
+               },
+{                       
+     "name": "MULTICANAL 12",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv-lh.akamaihd.net/i/fslimites2000_live@125108/index_1080p_av-p.m3u8"                           
+                },
+{                       
+     "name": "MULTICANAL 13",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/Futbolatope3_live@125189/index_1080p_av-p.m3u8"                  
+                },
+{                       
+     "name": "MULTICANAL 14",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv-lh.akamaihd.net/i/Zonax1x_live@125124/index_1080p_av-p.m3u8"                             
+                },
 ]
 },
 ]
@@ -277,12 +281,7 @@
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN.png",
 "stations": [
 {
-     "name": "ESPN",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN.png",
-     "url": "http://live.oneplay.tv/reproducir/405.m3u8"
-                 },
-{
-     "name": "ESPN",
+     "name": "ESPN DEPORTES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ESPN%20DEPORTES.jpg",
      "url": "http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?"
                  },
@@ -317,12 +316,6 @@
      "image": "http://www.portalhdtvemfortaleza.com.br/wp-content/uploads/2013/07/fox-sports-2-hd-na-sky.jpg",
      "url": "http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?"
                  },
-{
-     "name": "FOX SPORT 3 MOTOGP",
-     "image": "http://www.ipuntotv.com/IMAGES/FoxSports_Logos_Fox%20Sports%203.jpg",
-     "url": "http://www.embeducaster.com/embedded/fox3perusalem/1/600/385", 
-     "isHost": "true"  
-                 },
 ]
 },
 {                    
@@ -337,6 +330,30 @@
 ]
 },
 {                    
+"name": "TDN",
+"image": "http://3.bp.blogspot.com/-Ih-d_EOtr0c/UWV-iMeJQUI/AAAAAAAAL_0/jId6LJEXHK4/s1600/tdn_2012_final.jpg",
+"stations": [	 
+{
+     "name": "TDN",
+     "image": "http://3.bp.blogspot.com/-Ih-d_EOtr0c/UWV-iMeJQUI/AAAAAAAAL_0/jId6LJEXHK4/s1600/tdn_2012_final.jpg",
+     "url": "http://www.liveflashplayer.net/embedplayer/ASDF3/1/660/400",
+     "isHost": "true"  
+                 },				
+]
+},
+{                    
+"name": "CMD",
+"image": "http://canalesdeportivos.com/logos/cmd.jpg",
+"stations": [	 
+{
+     "name": "CMD",
+     "image": "http://canalesdeportivos.com/logos/cmd.jpg",
+     "url": "http://www.mipsplayer.com/embedplayer/zeyucmn11/1/620/382",
+     "isHost": "true"  
+                 },				
+]
+},
+{                    
 "name": "TVCD DEPORTES",
 "image": "http://lcd.juanfutbol.com/wp-content/uploads/2014/04/Captura-de-pantalla-2014-04-03-a-las-13.04.02.png",
 "stations": [
@@ -348,28 +365,6 @@
 ]
 },
 {                    
-"name": "DIRECTV SPORTS",
-"image": "http://i.imgur.com/lSKat26.png",
-"stations": [	 
-{   
-     "name": "DIRECTV SPORTS",
-     "image": "http://i.imgur.com/lSKat26.png",
-     "url": "http://cctv-lh.akamaihd.net/i/rovaldimix_live@125124/index_1080p_av-p.m3u8"
-                 },
-]
-},
-{                    
-"name": "TDN",
-"image": "http://3.bp.blogspot.com/-Ih-d_EOtr0c/UWV-iMeJQUI/AAAAAAAAL_0/jId6LJEXHK4/s1600/tdn_2012_final.jpg",
-"stations": [	 
-{   
-     "name": "TDN",
-     "image": "http://3.bp.blogspot.com/-Ih-d_EOtr0c/UWV-iMeJQUI/AAAAAAAAL_0/jId6LJEXHK4/s1600/tdn_2012_final.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/rovaldimix_live@125124/index_1080p_av-p.m3u8"
-                 },
-]
-},
-{                    
 "name": "AZTECA DEPORTES",
 "image": "http://www.morethanjustsports.com/Files/2010/11/aztecadeportes.com-logo.png",
 "stations": [
@@ -377,18 +372,6 @@
      "name": "AZTECA DEPORTES",
      "image": "http://www.morethanjustsports.com/Files/2010/11/aztecadeportes.com-logo.png",
      "url": "http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8"
-                },
-]
-},
-{                    
-"name": "GOL TV",
-"image": "http://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png",
-"stations": [
-{                       
-     "name": "GOL TV",
-     "image": "http://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png",
-     "url": "http://castalba.tv/embed.php?cid=26272&wh=610&ht=420&r=www.pirlotvlive.com",
-     "isHost": "true"
                 },
 ]
 },
@@ -415,19 +398,20 @@
 "stations": [
 {
      "name": "BT SPORT 1",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt1.jpg",
-     "url": "rtmp://80.82.78.39:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=13&width=600&height=450 token=#atd%#$ZH"
+     "image": "https://www.magnet.ie/wp-content/uploads/2011/12/BTSport1HD_RGB.jpg",
+     "url": "rtmp://178.18.31.60:443/liverepeater playpath=191331 swfUrl=http://bernardotv.club/gofuckyourself.swf live=1 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH"
                 },
+{
+     "name": "BT SPORTS 2",
+     "image": "http://www.magnet.ie/wp-content/uploads/2011/12/BTSport2HD_RGB.jpg",
+     "url": "rtmp://178.18.31.56:443/liverepeater playpath=191836 swfUrl=http://bernardotv.club/gofuckyourself.swf live=1 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH"
+                 },
 {
      "name": "BT SPORT 1 ACES",
      "image": "http://googlechromecast.com/wp-content/uploads/2014/04/bt-sport.jpg",
      "url": "acestream://30c6626b6d2f284a7014073208d15b74fbb2dafb"
                  },
-{
-     "name": "BT SPORT 2",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt%20Soprt%201.jpg",
-     "url": "rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH"
-                 },
+
 {
      "name": "BT SPORT 2 ACES",
      "image": "http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg",
@@ -458,33 +442,42 @@
         "name": "EUROSPORT 2 ACES",
      "image": "http://img2.wikia.nocookie.net/__cb20120329095341/logopedia/images/3/3d/ESP_2_GGS_RVB.png",
      "url": "acestream://ddfff14de2883f3513d49dd078bfe0aa3fbcab6f"
-                 },
-]
-},
-{
-"name": "MULTICANAL",
-"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/MULTICANAL.jpg",
-"stations": [
-{                       
-     "name": "MULTICANAL 1",
-     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/zonanba2_live@125117/index_1080p_av-p.m3u8"
-                },
-{                       
-     "name": "MULTICANAL 2",
-     "image": "http://img4.wikia.nocookie.net/__cb20131111180902/deportes-computadores/images/2/20/Logo-Deportes-copy.jpg",
-     "url": "http://cctv-lh.akamaihd.net/i/zonaxx1_live@125118/index_1080p_av-p.m3u8"
-                },				
+                 },				
 ]
 },
 {
 "name": "SKY SPORTS",
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%20GROUP.jpg",
 "stations": [
-{                                      
-     "name": "SKY SPORTS 1",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%201.png",
-     "url": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys1&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys1"                                                                                        
+{
+     "name": "SKY SPORTS 1 HD",
+     "image": "http://1.bp.blogspot.com/-wdlAQctyGF8/U36lIopkuEI/AAAAAAAAARo/gIldfGU6mgs/s1600/im.jpeg",
+     "url": "rtmp://178.18.31.60:443/liverepeater playpath=191327 swfUrl=http://bernardotv.club/gofuckyourself.swf live=1 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH"
+                },
+{
+     "name": "SKY SPORTS 2 HD",
+     "image": "http://3.bp.blogspot.com/-_siFbFpAHko/U36lYEFEFlI/AAAAAAAAARw/jvenSLIIQYY/s1600/im.jpeg",
+     "url": "rtmp://178.18.31.62:443/liverepeater playpath=191328 swfUrl=http://bernardotv.club/gofuckyourself.swf live=1 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH"
+                },
+{
+     "name": "SKY SPORTS 3 HD",
+     "image": "http://1.bp.blogspot.com/-5RG9uacR3mg/U36lhS_HaPI/AAAAAAAAAR4/APixD08cj44/s1600/im.jpeg",
+     "url": "rtmp://89.248.172.159:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH"
+                },
+{
+     "name": "SKY SPORTS 4 HD",
+     "image": "http://1.bp.blogspot.com/--IEwJB9AA8s/U36lvfVSwjI/AAAAAAAAASA/JjC6zgX1QOQ/s1600/im.jpeg",
+     "url": "rtmp://80.82.78.39:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH"
+                },
+{
+     "name": "SKY SPORTS 5 HD",
+     "image": "http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png",
+     "url": "rtmp://80.82.78.39:443/liverepeater playpath=11 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH"
+                },
+{
+     "name": "SKY SPORTS F1",
+     "image": "http://johnnyherbert.org/sites/default/files/images/home-slideshow/sky-sports-testimonial_0.png",
+     "url": "rtmp://137.63.71.18:443/liverepeater playpath=35 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH"
                  },
 {                                      
      "name": "SKY SPORTS 1 ACES",
@@ -492,49 +485,19 @@
      "url": "acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955"                                                                                        
                  },
 {                                      
-     "name": "SKY SPORTS 2",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%202.png",
-     "url": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2"                                                                                        
-                 },
-{                                      
      "name": "SKY SPORTS 2 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%202.png",
      "url": "acestream://97518ab8451a5c9e8da2b92245ac0ea6622a519c"                                                                                        
-                 },
-{                                      
-     "name": "SKY SPORTS 3",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%203.png",
-     "url": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys3&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys3"                                                                                        
                  },
 {                                      
      "name": "SKY SPORTS 3 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%203.png",
      "url": "acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887"                                                                                        
                  },
-{                                      
-     "name": "SKY SPORTS 4",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%204.png",
-     "url": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys4&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys4"                                                                                        
-                 },
-{                                      
-     "name": "SKY SPORTS 4 ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SKY%20SPORTS%204.png",
-     "url": "rtmp://167.114.117.208/live/sky1v"                                                                                        
-                 },
-{                                      
-     "name": "SKY SPORTS 5",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg",
-     "url": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys5&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys5"                                                                                        
-                 },
 {
         "name": "SKY SPORTS 5 ACES",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg",
      "url": "acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b"
-                 },
-{                                      
-     "name": "SKY SPORTS F1",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky%20Sports%20F1.png",
-     "url": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysf1&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskysf1"                                                                                               
                  },
 {                                      
      "name": "SKY SPORTS F1 ACES",
@@ -637,12 +600,12 @@
 "stations": [
 {
      "name": "BEIN 1",
-     "image": "http://advar.ps/wp-content/uploads/2014/04/beIN-SPORT-1.jpg",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1qNeBylPChRHD9WR2ldtJGtCjGf_FsOEwFLbDeObU2TaLYGS0A",
      "url": "http://2co1.vp9.tv/chn/bin01/v.m3u8"
                  },
 {
      "name": "BEIN 1 FR ACES",
-     "image": "http://advar.ps/wp-content/uploads/2014/04/beIN-SPORT-1.jpg",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1qNeBylPChRHD9WR2ldtJGtCjGf_FsOEwFLbDeObU2TaLYGS0A",
      "url": "acestream://8bf226aaa56d4666aadd19a8313947c470ca7f31"
                  },
 {
@@ -654,128 +617,7 @@
      "name": "BEIN 2 FR ACES",
      "image": "http://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg",
      "url": "acestream://68796ea2df046d9ecdd3d469e143abe039792ea0"      
-                 },
-{   
-                            "name": "BeinSport 1 HD",
-                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1qNeBylPChRHD9WR2ldtJGtCjGf_FsOEwFLbDeObU2TaLYGS0A",
-                            "url": "rtmp://195.154.253.203:80/liverepeater playpath=303153 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 2 HD",
-                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS7F8KfoZkJE4aboxABDcqMhZoPim8k5JhODwBP3aDDRnZb5pPKQ",
-                            "url": "rtmp://195.154.253.203:80/liverepeater playpath=303153 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 3 HD",
-                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYEgyxnyqixzTuBcMeVIRmQe-b3fi5SF7IXKcU8Th1r4pKNssc",
-                            "url": "rtmp://195.154.250.234:80/liverepeater playpath=303156 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 4 HD",
-                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXa7R0A9QVrdC1OTIxKXFqYAxiUhgkOZlau29Ts1f0KC1psNfX",
-                            "url": "rtmp://195.154.240.167:80/liverepeater playpath=302404 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 5 HD",
-                            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYqwpmmlQ2Pkb6EN0ffwTy_t-i2rPAI9ttrHWVH2h1AMO3xW8-SQ",
-                            "url": "rtmp://195.154.232.181:80/liverepeater playpath=302405 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 6 HD",
-                            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSYKDJ5vMbUXehuVv1DX4o6QGaHxHDUENrutO79Rg4br8arn1L",
-                            "url": "rtmp://195.154.250.199:80/liverepeater playpath=302406 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 7 HD",
-                            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc_HSJAX8yJ0z02n1a0oa-NonJN72E0_I7UDbI2J6HYovw5W1q",
-                            "url": "rtmp://195.154.233.201:80/liverepeater playpath=302407 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 8 HD",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
-                            "url": "rtmp://195.154.235.85:80/liverepeater playpath=302408 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 9 HD",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
-                            "url": "rtmp://195.154.168.146:80/liverepeater playpath=302409 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 10 HD",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
-                            "url": "rtmp://195.154.232.181:80/liverepeater playpath=302410 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },	
-                    {
-                            "name": "BeinSport 11 HD",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
-                            "url": "rtmp://195.154.168.217:80/liverepeater playpath=302411 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },
-                    {
-                            "name": "BeinSport 12 HD",
-                            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMn4InzRifXyCK3cnsZ2bAf4GOO4AccHlErStqE_hWhOEW_F96",
-                            "url": "rtmp://195.154.216.101:80/liverepeater playpath=302412 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co.uk/ token=Fo5_n0w?U.rA6l3-70w47ch" 
-                    },						
-]
-},
-{                    
-"name": "EUROSPORT",
-"image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/EUROSPORT%20GROUP.jpg",
-"stations": [
-{
-     "name": "EUROSPORT 1",
-     "image": "http://img3.wikia.nocookie.net/__cb20120329095623/logopedia/images/a/a2/ESP_GGS_RVB.png",
-     "url": "http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8"  
-                 },
-{
-     "name": "EUROSPORT 2",
-     "image": "http://img2.wikia.nocookie.net/__cb20120329095341/logopedia/images/3/3d/ESP_2_GGS_RVB.png",
-     "url": "http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(eusp2)/Stream(05)/index.m3u8"      
-                 },
-{
-     "name": "EUROSPORT UK",
-     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxx9SiFKly1YLIEzzYHoIgvWJ7F7w7jycvHtqxdOZvyViaean6",
-     "url": "http://gkn89:iptv@93.184.221.133/00573D/1210/1210-0.m3u8"      
-                 },
-{
-     "name": "EUROSPORT 2 UK",
-     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxx9SiFKly1YLIEzzYHoIgvWJ7F7w7jycvHtqxdOZvyViaean6",
-     "url": "http://gkn89:iptv@93.184.221.133/00573D/1211/1211-0.m3u8"      
-                 },
-{
-     "name": "EUROSPORT HD UK",
-     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrtcPS9o8JYI-1EnV1QE3WQeQCTeuddHfylWHSw7XH6FsrRh0hTA",
-     "url": "http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8"      
-                 },				 
-{
-     "name": "Eurosport HD RU",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfrOkVSrQsbn3_ZuCjB5JUp_B4uphSSzrY1MZJjymbvP25qtobg",
-     "url": "http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2"      
-                 },
-{
-     "name": "Eurosport HD BG",
-     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQISZEw6uGpIErADVx0cfBIuwfHTZv-531jpIImqRgw1_sWZBdkqA",
-     "url": "http://w3.drundoo.com:81/playlist-EurosportHD=3.m3u8"      
-                 },
-{
-     "name": "Eurosport RU",
-     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqheRG-DqhYsUP88gY2qqQ38boZmE4tQn2QYrOy6xxBFAljtcb",
-     "url": "http://88.150.210.146/iptv/9da10de2b4a0499116d762e83c570cd7/141/index.m3u8"      
-                 },
-{
-     "name": "Eurosport 2 RU",
-     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqheRG-DqhYsUP88gY2qqQ38boZmE4tQn2QYrOy6xxBFAljtcb",
-     "url": "http://88.150.210.146/iptv/9da10de2b4a0499116d762e83c570cd7/539/index.m3u8"      
-                 },	
-{
-     "name": "Eurosport 3 RU",
-     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqheRG-DqhYsUP88gY2qqQ38boZmE4tQn2QYrOy6xxBFAljtcb",
-     "url": "http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2"      
-                 },
-{
-     "name": "Eurosport DE",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7mf4vvW0FH-9V6vTjdLGSWkd-zfKilYlL8Fl7hA2Kn4OXjKO",
-     "url": "http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:eurosport_de/playlist.m3u8"      
-                 },	         				 
+                 },					         				 
 ]
 },
 {
@@ -797,52 +639,7 @@
         "name": "NTV+ 1SD",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
      "url": "rtmp://edge03-07.az.myvideo.az/dvrh264/ntvfootball/ playpath=mp4:ntvfootball swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=ntvfootball"
-                 },				 
-{
-        "name": "NTV+ 1SD ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
-     "url": "acestream://891e71ee07593aab0b0d2a4d37026c11a8dccced"
-                 },
-				 {
-        "name": "NTV+ 1HD ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B.jpg",
-     "url": "acestream://e10c6414422b384dc8805f759dbf5226072cf7a6"
-                 },
-{
-        "name": "NTV+ 2SD",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B2.jpg",
-     "url": "http://185.38.12.20:8087/media/hls_147_148/ntvplusf2_hd/index.m3u8"
-                 },
-{
-        "name": "NTV+ 2SD ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B2.jpg",
-     "url": "acestream://19a0de5c159ff26bc8bb609f00599309626e324d"
-                 },
-{
-        "name": "NTV+ 2HD ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B2.jpg",
-     "url": "acestream://b5f150af39a670701f2deab69c3f5fc045400982"
-                 },
-{
-        "name": "NTV+ 3SD",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B3.jpg",
-     "url": "http://185.38.12.20:8087/media/hls_147_148/ntvplusf3_hd/index.m3u8"
-                 },
-{
-        "name": "NTV+ 3SD ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B3.jpg",
-     "url": "acestream://cb742bb151978591fbe24d05d4c1fbae5fbb0c14"
-                 },
-{
-        "name": "NTV+ 3HD ACES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/htb%2B3.jpg",
-     "url": "acestream://3ff7d476908a10d92f0dbd9dec504edfa3136edb"
-                 },
-{
-        "name": "NTV+ BASKET",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgFuCMig-Xr06idoDO1wnF5xga2Li_oH02rJ2NRppS1GIkRctC",
-     "url": "http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:sport1/playlist.m3u8"
-                 },				 
+                 },				 		 
 ]
 },
 {                    
@@ -853,18 +650,7 @@
      "name": "SPOR PAC USA HD",
      "image": "http://cdn.fansided.com/wp-content/blogs.dir/259/files/2014/05/ncaa-basketball-oregon-state-colorado.jpg",
      "url": "http://xrxs.net/video/live-p12netw-2328.m3u8"
-                 },
-]
-},
-{                    
-"name": "VIASAT SPORT",
-"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtJYXPx9P0SsC1oJPGoPqO1x618dHndZXK2WtFEzcIxvOE__VQ8A",
-"stations": [
-{                                      
-     "name": "VIASAT GOLF",
-     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTausTHVsY0crC1JumpmWqVWYNROeDKhegvc8KI9ylBrz2Ew83c",
-     "url": "http://93.184.221.133/00573D/911/911-0.m3u8"
-                 },					 
+                 },				 
 ]
 },
 {                    
@@ -1014,42 +800,42 @@
 "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
 "stations": [
 {
-     "name": "ARENAVISION 1",
+     "name": "ARENAVISION 1 ACES",
  "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
  "url": "acestream://f263f5357adb5d7e1e7b9041689e1a34fc2f526f"
  },
 {
- "name": "ARENAVISION 2",
+ "name": "ARENAVISION 2 ACES",
  "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
  "url": "acestream://ceb71fb687b06020e3e7adea39f9154b9dc6e674"
  },
 {
- "name": "ARENAVISION 3",
+ "name": "ARENAVISION 3 ACES",
  "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
  "url": "acestream://8c14bf9ce02b0a8c58c0be6a86d7584f92863029"
  },
 {
- "name": "ARENAVISION 4",
+ "name": "ARENAVISION 4 ACES",
  "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
  "url": "acestream://f7a5fc69baaddfcd6386c86d2c122ae0467c32c8"
  },
 {
- "name": "ARENAVISION 5",
+ "name": "ARENAVISION 5 ACES",
  "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
  "url": "acestream://96ce4aaac4995a069c8336ddae70d373d52c40cd" 
  },
 {
- "name": "ARENAVISION 6",
+ "name": "ARENAVISION 6 ACES",
  "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
  "url": "acestream://ce5625e1e832dedcd1d4997f0ed495889f963a9f"
  },
 {
- "name": "ARENAVISION 13",
+ "name": "ARENAVISION 13 ACES",
  "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
  "url": "rtmp://89.248.169.48/iguide playpath=p7wksud7foc4cqd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed ( #ed )%h0#w18623jsda6523lDGD" 
  },
 {
- "name": "ARENAVISION 14",
+ "name": "ARENAVISION 14 ACES",
  "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg",
  "url": "rtmp://167.114.159.156/app/avision8s-channel"
                  },
@@ -1100,25 +886,6 @@
 "name": "ESTRENOS DE CINE",
 "image": "http://www.nadacomercial.com/wordpress/wp-content/uploads/2012/05/proximos-estrenos-sala-de-cine-Logo.jpg",
 "stations": [
-{
-                        "name": "HÉROE DE CENTRO COMERCIAL 2",
-                        "image": "http://www.locopelis.com/files/uploads/9158.jpg",
-                        "url": "http://videoapi.my.mail.ru/videos/embed/mail/gottsu04/_myvideo/296.html",
-                        "isHost": "true"
-						},
-{
-                        "name": "Una noche para sobrevivir",
-                        "image": "http://www.yaske.to/upload/images/027d48a453669b567b6428a2a26678cc.jpg",
-                        "url": "http://streamin.to/7on9p1f3cf0f?1",
-                        "isHost": "true"
-						},
-{
-                        "name": "Musarañas",
-                        "image": "http://www.yaske.to/upload/images/1dbd4d690cc8eacb840a380a5b2f1544.jpg",
-                        "url": "http://streamin.to/8a7jyhem5t9w?1",
-                        "isHost": "true"
-						},
-
 {
                         "name": "OJOS GRANDES",
                         "image": "http://www.peliculasrey.com/wp-content/uploads/2015/01/ojos-grandes-200x300.jpg",
