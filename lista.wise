@@ -16,91 +16,72 @@
 "image": "http://www.elconfidencial.com/fotos/noticias/2010070620espa%C3%B1oles.jpg",
 "stations": [ 
 {                                                                                                      
-     "name": "CANAL + LIGA HD",
-     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGQ3ydMIq_WEZikB-DMPK31CotXPyw6uimQL966BTcpSIml_yC",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=Liga&w=650&h=400",
-     "referer": "http://pontucanal.net/#modal4",
+     "name": "CANAL + HD",
+     "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=670&h=400",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
      "isHost": "true"    
                },
+{                                                                                                      
+     "name": "CANAL + HD (OPC 2)",
+     "image": "http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=720&h=440",
+     "referer": "http://cinestrenostv.tv/canales/nacionales/axn.php",
+     "isHost": "true"                                                         
+                },
 {
      "name": "CANAL + (ACESTREAMS)",
      "image": "http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg",
-     "url": "acestream://c06ee4206da9f52e00cb62023dde60fc62da64cc"              
+     "url": "acestream://c06ee4206da9f52e00cb62023dde60fc62da64cc"                           
                },
 {
      "name": "CANAL + LIGA",
      "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
-     "url": "http://freetvcast.pw/embed.php?a=3&id=&width=670&height=400&autostart=true&strech=",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"                  
+     "url": "http://www.mipsplayer.com/embedplayer/averketal/1/645/395",
+     "isHost": "true"                     
                },
 {
      "name": "LIGA + MULTICANAL 1",
      "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/biophobia_live@125194/index_1080p_av-p.m3u8"
+     "url": "http://cctv2-lh.akamaihd.net/i/Futbolatope3_live@125189/index_1080p_av-p.m3u8"
                 },
 {
      "name": "LIGA + MULTICANAL 2",
      "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
-     "url": "http://cctv-lh.akamaihd.net/i/Biophobia4_live@125124/index_1080p_av-p.m3u8"              
-               },
-{
-     "name": "LIGA + MULTICANAL 3",
-     "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/fslimites2000_live@125186/index_1080p_av-p.m3u8"    
-               },
-{
-     "name": "LIGA + MULTICANAL 4",
-     "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
-     "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"                                                                                                
+     "url": "http://cctv-lh.akamaihd.net/i/ftrederf_live@125108/index_1080p_av-p.m3u8"                                                                                                                        
                },
 {
      "name": "LIGA (ACESTREAMS)",
      "image": "http://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
-     "url": "acestream://7889394a083203f4ddddf571ab7b52d34e8e9b3a"                
+     "url": "acestream://e5044faad4f541cb02ca6ea360159a43ba610fb1"                                                       
                },
 {
-     "name": "CANAL + DEPORTES",
+     "name": "CANAL + DEPORTES (OFF)",
      "image": "http://www.adslzone.tv/app/uploads/2011/03/canalplus_deportes_hd.png",
-     "url": "http://freetvcast.pw/embed.php?a=6&id=&width=670&height=420&autostart=true&strech=",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"             
+     "url": "rtmp://66.85.133.160/live?token=DOXRNeHz1gMI9ypKkAHDrAExpired=1429868429 playpath=ver9flrrak swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://1broadcastlive.com/embed/embed.php?channel=kasimirotv2&w=670&h=400 live=1 token=#ed%h0#w@12Fuck timeout=14"                                                                                                                               
                },
-{                       
-     "name": "DEPORTES + MULTICANAL",
-     "image": "http://www.adslzone.tv/app/uploads/2011/03/canalplus_deportes_hd.png",
-     "url": "rtmp://31.220.0.155/privatestream/ playpath=lacasadeltikitaka1?keys=xxb7sJsEaA20NMwPIz9X_A&keyt=1429299056 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=lacasadeltikitaka1&width=810&height=490"                                                                 
-                },
 {
      "name": "CANAL + FUTBOL",
      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/550px-Canal%2B_F%C3%BAtbol_2008.svg.png",
-     "url": "http://www.embedezcast.com/embedded/marronf12345yaaa/1/645/395",
-     "isHost": "true"                         
-                 },
+     "url": "http://www.embedezcast.com/embedplayer/marronf12345yaaa/1/645/395",
+     "isHost": "true"                                                                                  
+                },
 {
      "name": "CANAL + LIGA CAMPEONES",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
-     "url": "http://freetvcast.pw/embed.php?a=38&id=&width=670&height=400&autostart=true&strech=",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"                           
+     "image": "ttp://2.bp.blogspot.com/-eWpDTlRmoN4/UxTcpHiN8UI/AAAAAAAABMc/2H3L6SpOvQA/s1600/canalplusliga.png",
+     "url": "http://www.embedezcast.com/embedplayer/marronlc1/1/645/395",
+     "isHost": "true"                                      
                  },
 {
      "name": "CAMPEONES (ACESTREAMS)",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Liga%20de%20Campeones.png",
-     "url": "acestream://f3f6d9c82be8e7d33a9dc366d16b4f464e483039"                                                                                                 
-                 },
+     "url": "acestream://f3f6d9c82be8e7d33a9dc366d16b4f464e483039"                                                                                                              
+                },
 {
      "name": "GOL TV",
      "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
-     "url": "http://freetvcast.pw/embed.php?a=2&id=&width=670&height=400&autostart=true&strech=",
-     "referer": "http://pontucanal.net/canales/cuatro.html",
-     "isHost": "true"  
-                },
-{
-     "name": "GOL TV (OPCION 2)",
-     "image": "http://www.goltelevision.com/public_data/css/images/logo_gol_t_r2.png",
-     "url": "http://www.mipsplayer.com/embedplayer/marrong1/1/645/395",
-     "isHost": "true"                                      
+     "url": "http://www.mipsplayer.com/embedplayer/marrong12/1/645/395",
+     "isHost": "true"    
                 },
 {
      "name": "GOL TV (ACESTREAMS)",
@@ -110,25 +91,25 @@
 {
      "name": "SPORTMANIA (ACESTREAMS)",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sportmania.png",
-     "url": "acestream://27873cf82c5860aca601e316c10dcfccc4085406"
-                },
-{
-     "name": "BEIN ESPAÑOL",
-     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
-     "url": "http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8"
+     "url": "acestream://27873cf82c5860aca601e316c10dcfccc4085406"                  
                 },
 {                       
-     "name": "BEIN (OPCION 2)",
+     "name": "BEIN Ñ",
      "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
      "url": "http://www.liveflashplayer.net/embedplayer/asdf3asd56fasdfassass/1/650/420",
-     "isHost": "true"                                 
+     "isHost": "true"                 
                 },
 {
-     "name": "EUROSPORT",
-     "image": "http://img3.wikia.nocookie.net/__cb20120329095623/logopedia/images/a/a2/ESP_GGS_RVB.png",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=95&autoplay=true",
+     "name": "BEIN Ñ (OPCION 2)",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
+     "url": "http://castalba.tv/embed.php?cid=25916&wh=728&ht=420&r=www.pirlotvlive.com",
      "referer": "http://verdirectotv.com/tv/nacionales/antena3.html",
      "isHost": "true"  
+                 },
+{
+     "name": "BEIN Ñ (OPCION 3)",
+     "image": "https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bein%20Sport%20Espa%C3%B1ol.jpg",
+     "url": "http://sjc-uhls-proxy02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=13502247"                                                                         
                  },
 {
      "name": "TELEDEPORTE",
@@ -136,22 +117,27 @@
      "url": "http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8" 
                  },
 {
-     "name": "BARÇA TV",
+     "name": "BARSA TV",
      "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
-     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=barsa&w=720&h=440",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=barsa&w=670&h=400",
      "referer": "http://pontucanal.net/canales/cuatro.html",
      "isHost": "true"                             
                  },
 {
      "name": "REAL MADRID TV",
      "image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
-     "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=82&autoplay=true",
+     "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=realm&w=670&h=400",
      "referer": "http://verdirectotv.com/tv/digitales/plustoros.html",
      "isHost": "true"                
                  },
 {
+     "name": "F1 (ACESTREAMS)",
+     "image": "http://motordigital.com/files/2014/02/movistar_tv_f1_motogp_motordigital.jpg",
+     "url": "acestream://4c7b83f20ea64b61c30050c857842d14eec25f54"             
+                 },
+{
      "name": "ESPORT3",
-     "image": "http://www.insidefmx.com/wp-content/uploads/2012/01/Esport3_logo2011.png",
+     "image": "http://upload.wikimedia.org/wikipedia/ca/e/ec/Esport3_logo2011.png",
      "url": "http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b798000.m3u8"  
                  },
 {
@@ -165,114 +151,88 @@
      "url": "rtmp://149.11.34.78:1935/live/velatv.stream"                
                  },
 {
-     "name": "PLUS TOROS",
-     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwYGRwHj0029LUwEHcZCLp7OR48WleAQ5pp-vshD9J_GWxYRcd",
+     "name": "CANAL + TOROS",
+     "image": "http://4.bp.blogspot.com/-wdHMf-9kCYg/UXr1XVgY_oI/AAAAAAAAM_8/_zZGadtze5U/s320/canal-toros.png",
      "url": "http://privado.streamingfreetv.net/embed/embed.php?channel=toros&w=670&h=400",
-     "referer": "http://cinestrenostv.tv/canales/toros.html",
-     "isHost": "true"
-                  },				  
-]
-},
-{
-"name": "MOTO GP Y F1",
-"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM4547mD5ffTNG115PCRW2i-7fVi0C2SP9rExp7Feau0ELKh2uoA",
-"stations": [
-{
-     "name": "F1 Y MOTO GP MOVISTAR(ACESTREAMS)",
-     "image": "http://motordigital.com/files/2014/02/movistar_tv_f1_motogp_motordigital.jpg",
-     "url": "acestream://4c7b83f20ea64b61c30050c857842d14eec25f54"
+     "referer": "http://verdirectotv.com/tv/digitales/plustoros.html",
+     "isHost": "true" 
                  },
-{
-     "name": "F1 Y MOTO GP Movistar Multi HD(ACESTREAMS)",
-     "image": "http://motordigital.com/files/2014/02/movistar_tv_f1_motogp_motordigital.jpg",
-     "url": "acestream://9fbaf061929c91c612723459d3be505b26f6a5f1"
-                 },				 
-{
-     "name": "Movistar MotoGP (ACESTREAMS)",
-     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRslMQWAAR7F5Cu3vQ4xP9IQQ5MM4vc_px-PzpsXm309fjwVtdX",
-     "url": "acestream://b1f713948a35ada66022d7df26651a4376096dcb"
-                 }, 				 
 ]
 },
-{ 
+{                    
 "name": "MULTICANAL",
 "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
 "stations": [
 {
- "name": "MULTICANAL 1",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
- },
-{ 
- "name": "MULTICANAL 2",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "http://cctv-lh.akamaihd.net/i/fslimites2000_live@125108/index_1080p_av-p.m3u8" 
- },
-{ 
- "name": "MULTICANAL 3",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "http://cctv2-lh.akamaihd.net/i/futboltatope666_live@125195/index_1080p_av-p.m3u8"
- },
-{ 
- "name": "MULTICANAL 4",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "http://cctv2-lh.akamaihd.net/i/Futbolatope3_live@125189/index_1080p_av-p.m3u8" 
- },
-{ 
- "name": "MULTICANAL 5",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "rtmp://199.168.116.19/app/avision10s-channel" 
- },
-{ 
- "name": "MULTICANAL 6",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "http://cctv-lh.akamaihd.net/i/Zonax1x_live@125124/index_1080p_av-p.m3u8" 
- },
-{ 
- "name": "MULTICANAL 7",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "http://cctv2-lh.akamaihd.net/i/Zonax3y_live@125189/index_1080p_av-p.m3u8" 
- },
-{ 
- "name": "MULTICANAL 8",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "http://cctv-lh.akamaihd.net/i/emitesport_live@125112/index_1080p_av-p.m3u8" 
- },
-{ 
- "name": "MULTICANAL 9",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "http://cctv2-lh.akamaihd.net/i/emitesportshd_live@125191/index_1080p_av-p.m3u8" 
- },
-{ 
- "name": "MULTICANAL 10",
- "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
- "url": "http://hls.goodgame.ru/hls/33998.m3u8" 
- },
- {
-     "name": "MULTICANAL 11",
+     "name": "MULTICANAL 1",
      "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
      "url": "http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8"
                },
 {                       
+     "name": "MULTICANAL 2",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "rtmp://167.114.159.184/app/avision13s-channel"                           
+                },
+{                       
+     "name": "MULTICANAL 3",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/emitehd_live@125197/index_1080p_av-p.m3u8"                  
+                },
+{                       
+     "name": "MULTICANAL 4",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/futboltatope666_live@125195/index_1080p_av-p.m3u8"  
+               },
+{                       
+     "name": "MULTICANAL 5",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv-lh.akamaihd.net/i/ftrederf_live@125108/index_1080p_av-p.m3u8"                           
+                },
+{                       
+     "name": "MULTICANAL 6",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/Zonax2x_live@125187/index_1080p_av-p.m3u8"   
+                },
+{                       
+     "name": "MULTICANAL 7",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/xriv3_live@125188/index_1080p_av-p.m3u8"                  
+                },
+{                       
+     "name": "MULTICANAL 8",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv-lh.akamaihd.net/i/laiolasila_live@125117/index_1080p_av-p.m3u8"  
+               },
+{                       
+     "name": "MULTICANAL 9",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/nessifra1_live@125196/index_1080p_av-p.m3u8"                           
+                },
+{                       
+     "name": "MULTICANAL 10",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/miloxtv001d_live@125189/index_1080p_av-p.m3u8"                 
+                },
+{                       
+     "name": "MULTICANAL 11",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv-lh.akamaihd.net/i/emitesport_live@125112/master.m3u8"   
+               },
+{                       
+     "name": "MULTICANAL 11",
+     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
+     "url": "http://cctv2-lh.akamaihd.net/i/Zonax3y_live@125189/index_1080p_av-p.m3u8" 
+               },
+{                       
      "name": "MULTICANAL 12",
      "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv-lh.akamaihd.net/i/fslimites2000_live@125108/index_1080p_av-p.m3u8"                           
-                },
-{                       
-     "name": "MULTICANAL 13",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv2-lh.akamaihd.net/i/Futbolatope3_live@125189/index_1080p_av-p.m3u8"                  
-                },
-{                       
-     "name": "MULTICANAL 14",
-     "image": "http://i605.photobucket.com/albums/tt134/grupofmultimedios/multicanal.png",
-     "url": "http://cctv-lh.akamaihd.net/i/Zonax1x_live@125124/index_1080p_av-p.m3u8"                             
+     "url": "http://iphone-streaming.ustream.tv/uhls/20105674/streams/live/iphone/playlist.m3u8"                              
                 },
 ]
 },
 ]
 },
-{                    
+{      
 "name": "LATINOS",
 "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmCVGxQa5MocfIcbucBeVFXO_yYIavK18DOad0c9ywnaN23IVYcA",
 "groups": [
